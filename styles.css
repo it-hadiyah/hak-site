@@ -4,7 +4,7 @@
         --color-bg: #fdfdfc;
       }
       body {
-        font-family: 'Tajawal', sans-serif;
+        font-family: 'Noto Sans Arabic', sans-serif;
         background-color: var(--color-bg);
         scroll-behavior: smooth;
       }
