@@ -92,7 +92,7 @@
                 <h3 class="text-lg font-extrabold text-[#007361] mb-2">${escapeHtml(it.title)}</h3>
                 <p class="text-gray-600 leading-relaxed line-clamp-3">${escapeHtml((it.content || "").split("\n")[0])}</p>
                 <div class="mt-4">
-                  <a href="news.html" class="font-extrabold text-[#007361] hover:underline">اقرأ المزيد</a>
+                  
                 </div>
               </div>
             </article>`
