@@ -12,35 +12,120 @@
 </head>
 <body class="text-gray-800">
 <header class="bg-white/90 backdrop-blur border-b border-gray-100">
-   <a href="#home" class="flex items-center gap-3">
+  <div class="container mx-auto px-6 h-16 flex items-center justify-between">
+    <a href="index.html#media" class="flex items-center gap-3">
       <div class="h-10 w-[210px]">
-       <img src="images/logo.png" 
-         alt="شعار هدية الخير"
-         class="h-full w-full object-contain">
+               <img src="images/logo.png" alt="شعار هدية الخير" class="h-full w-full object-contain">
       </div>
-    </a>
     </a>
     <a href="index.html#media" class="px-4 py-2 rounded-xl border border-gray-200 font-bold hover:bg-gray-50">رجوع</a>
   </div>
 </header>
+<section class="py-12 md:py-20 bg-gray-50 min-h-screen font-sans" dir="rtl">
+  <div class="container mx-auto px-4 max-w-3xl"> <div class="bg-white shadow-xl rounded-[2rem] border border-gray-100 overflow-hidden transition-all duration-300">
+      
+      <div class="p-6 md:p-10 pb-4 md:pb-6">
+        <div class="flex items-center gap-3 mb-3">
+          <span id="news-category" class="px-3 py-1 rounded-lg bg-[#007361]/10 text-[#007361] text-xs font-bold uppercase tracking-wide">
+            مركز الأخبار
+          </span>
+          <div id="news-date" class="text-gray-400 text-xs md:text-sm font-medium border-r pr-3 border-gray-200">
+            </div>
+        </div>
+        
+        <h1 id="news-title" class="text-2xl md:text-4xl font-black text-[#007361] leading-snug">
+          </h1>
+      </div>
 
-<main class="py-16 bg-gray-50 geometric-pattern">
+      <div class="px-6 md:px-10">
+        <div class="relative h-56 md:h-80 w-full overflow-hidden rounded-2xl bg-gray-50 flex items-center justify-center border border-gray-50 shadow-inner">
+          <img id="news-image" 
+               src="" 
+               alt="صورة الخبر" 
+               class="max-w-full max-h-full object-contain p-1 transition-transform duration-500 hover:scale-[1.02]">
+        </div>
+      </div>
+
+      <div class="p-6 md:p-10 pt-6">
+        <div id="news-text" class="text-gray-700 text-base md:text-lg leading-[1.8] space-y-4 font-medium text-justify">
+          </div>
+
+        <div class="mt-8 pt-6 border-t border-gray-50 flex flex-col sm:flex-row items-center justify-between gap-4">
+          <div class="flex items-center gap-2 text-gray-400 text-xs italic">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+            نشر بواسطة القسم الإعلامي
+          </div>
+
+          
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+<footer class="bg-[#014f45] text-white pt-14 pb-6">
   <div class="container mx-auto px-6">
-    <div class="text-center mb-12">
-      <div class="inline-block px-4 py-1.5 mb-4 bg-[#007361]/10 text-[#007361] rounded-full text-sm font-bold tracking-wide">الأرشيف</div>
-      <h1 class="text-4xl font-extrabold text-[#007361] mb-3">أرشيف الأخبار</h1>
-      <p class="max-w-3xl mx-auto text-gray-600 text-lg leading-relaxed">هنا تجد كافة الأخبار والتحديثات المنشورة.</p>
+
+    <div class="grid md:grid-cols-3 gap-10 text-center md:text-right">
+
+      <!-- Logo + About -->
+      <div class="space-y-4">
+        <img src="images/logo_2.png" alt="شعار هدية الخير للاستثمار" class="h-16 mx-auto md:mx-0 object-contain">
+
+        <p class="text-white/80 text-sm leading-relaxed">
+          شركة هدية الخير للاستثمار تقدم حلولاً استثمارية مبتكرة
+          برؤية استراتيجية لتحقيق النمو والاستدامة.
+        </p>
+      </div>
+
+      <!-- Quick Links -->
+      <div>
+        <h3 class="font-bold text-lg mb-4 text-[#b9995e]">روابط سريعة</h3>
+        <ul class="space-y-2 text-white/80">
+          <li><a href="#home" class="hover:text-[#b9995e] transition">الرئيسية</a></li>
+          <li><a href="#about" class="hover:text-[#b9995e] transition">من نحن</a></li>
+          <li><a href="#services" class="hover:text-[#b9995e] transition">خدماتنا</a></li>
+          <li><a href="#contact" class="hover:text-[#b9995e] transition">تواصل معنا</a></li>
+        </ul>
+      </div>
+
+      <!-- Social -->
+      <div>
+        <h3 class="font-bold text-lg mb-4 text-[#b9995e]">تابعنا</h3>
+        <div class="flex justify-center md:justify-start gap-4">
+<!-- 
+          <a href="#" class="bg-white/10 hover:bg-[#b9995e] transition p-3 rounded-full">
+            <img src="images/facebook.png" class="h-5 w-5">
+          </a> -->
+
+          <a href="https://www.linkedin.com/in/%D8%B4%D8%B1%D9%83%D8%A9-%D9%87%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%AE%D9%8A%D8%B1-861495370/" class="bg-white/10 hover:bg-[#b9995e] transition p-3 rounded-full">
+            <img src="images/linkedin.png" class="h-5 w-5">
+          </a>
+
+          <a href="https://x.com/Hadiyahalkhair" class="bg-white/10 hover:bg-[#b9995e] transition p-3 rounded-full">
+            <img src="images/x_1.png" class="h-5 w-5">
+          </a>
+<!-- 
+          <a href="#" class="bg-white/10 hover:bg-[#b9995e] transition p-3 rounded-full">
+            <img src="images/whatsapp.png" class="h-5 w-5">
+          </a> -->
+
+        </div>
+      </div>
+
     </div>
 
-    <div id="newsArchive" class="grid lg:grid-cols-3 gap-8"></div>
-  </div>
-</main>
+    <!-- Divider -->
+    <div class="border-t border-white/20 mt-10 pt-6 text-center text-sm text-white/70">
+      © <span id="year">2026</span> شركة هدية الخير للاستثمار. جميع الحقوق محفوظة.
+    </div>
 
-<footer class="bg-[#017768] text-white py-10">
-  <div class="container mx-auto px-6">
-    <p class="text-white/90 font-bold text-center">© <span id="year"></span> شركة هدية الخير للاستثمار. جميع الحقوق محفوظة.</p>
   </div>
 </footer>
+
+
 
 <script src="script.js"></script>
 </body>
