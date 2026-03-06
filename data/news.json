@@ -1,23 +1,26 @@
 [
   {
+    "id": 1,
     "title": "من هي شركة هدية الخير؟",
-    "date": "15 2025 نوفمبر",
+    "date": "15 نوفمبر 2025",
     "category": "عن الشركة",
     "image": "https://pbs.twimg.com/media/G5qPUrhXYAAv45T?format=jpg&name=small",
-    "content": "وكيف تسهم في استثمارات نوعية ومستدامة تخدم ضيوف الرحمن"
-  },
-   {
-    "title": "من نحن؟",
-    "date": "20 2026 فبراير",
-    "category": "عن الشركة",
-    "image": "https://pbs.twimg.com/media/HBmoV66XcAEVBT2?format=jpg&name=small",
-    "content": "ننفذ مشاريع إبتكارية، لنصل بخيرنا حيث يوجد ضيوف الرحمن"
+    "content": "شركة هدية الخير للاستثمار تعمل على مشاريع نوعية."
   },
   {
-    "title": "إطلاق منصات التواصل الاجتماعي",
-    "date": "13 2025 نوفمبر",
-    "category": "عن الشركة",
-    "image": "https://pbs.twimg.com/media/G5qKI2kWQAAp9gh?format=jpg&name=small",
-    "content": "شركة هدية الخير تطلق منصاتها في مواقع التواصل الاجتماعي، ضمن فعاليات جناح الشركة المشاركة في #مؤتمر_ومعرض_الحج #من_مكة_إلى_العالم. بحضور الرئيس التنفيذي لجمعية هدية الحاج والمعتمر م. تركي الحتيرشي. والرئيس التنفيذي لشركة هدية الخير. م. علاء القباص."
+    "id": 2,
+    "title": "إطلاق منصات التواصل",
+    "date": "20 فبراير 2026",
+    "category": "إعلام",
+    "image": "https://pbs.twimg.com/media/HBmoV66XcAEVBT2?format=jpg&name=small",
+    "content": "تم إطلاق منصات التواصل الاجتماعي للشركة."
+  },
+   {
+    "id": 3,
+    "title": "إطلاق منصات التواصل",
+    "date": "20 فبراير 2026",
+    "category": "إعلام",
+    "image": "https://pbs.twimg.com/media/HBmoV66XcAEVBT2?format=jpg&name=small",
+    "content": "تم إطلاق منصات التواصل الاجتماعي للشركة."
   }
 ]
