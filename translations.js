@@ -112,17 +112,17 @@ const translations = {
         "nav.store": "Store",
 
         // Hero Section
-        "hero.title": 'Sustainable Investments to Serve <span class="text-[#b9995e]">Guests of God</span>',
-        "hero.description": "Hadiyah Alkhair Investment Company is the investment and operational arm of the Haji and Mu’tamer Hadiyah Association. We strive to achieve financial sustainability and develop impactful projects that contribute to enhancing the quality of services provided to the Guests of God.",
+        "hero.title": 'Sustainable Investments to Serve <span class="text-[#b9995e]">Guests of Allah</span>',
+        "hero.description": "Hadiyah Alkhair Investment Company is the investment and operational arm of the Haji and Mu’tamer Hadiyah Association. We strive to achieve financial sustainability and develop impactful projects that contribute to enhancing the quality of services provided to the Guests of Allah.",
         "hero.btnLearn": "Learn More",
         "hero.btnContact": "Contact Us",
 
         // About Section
         "about.badge": "About Us",
         "about.title": 'We Develop Investments <span class="text-[#b9995e]">to Elevate Service Quality</span>',
-        "about.description": "We develop impact-driven investment projects that contribute to supporting meaningful initiatives while enhancing the quality of services provided to the Guests of God.",
+        "about.description": "We develop impact-driven investment projects that contribute to supporting meaningful initiatives while enhancing the quality of services provided to the Guests of Allah.",
         "about.visionTitle": "Vision",
-        "about.visionDesc": "To be a leading model in sustainable non-profit investment serving the Guests of God",
+        "about.visionDesc": "To be a leading model in sustainable non-profit investment serving the Guests of Allah",
         "about.missionTitle": "Mission",
         "about.missionDesc": "Developing and managing impactful investments that generate sustainable returns to support the programs of the Haji and Mu’tamer Hadiyah Association.",
         "about.valuesTitle": "Values",
@@ -136,19 +136,19 @@ const translations = {
         "services.title": 'We Invest in <span class="text-[#b9995e]">High-Impact Sectors</span>',
         "services.description": "Investment sectors that support sustainability goals and enhance the services provided to pilgrims and Umrah visitors.",
         "services.realEstate": "Real Estate Investment",
-        "services.realEstateDesc": "Developing and managing real estate and hospitality assets that serve the Guests of God in Makkah and Madinah while generating sustainable returns.",
+        "services.realEstateDesc": "Developing and managing real estate and hospitality assets that serve the Guests of Allah in Makkah and Madinah while generating sustainable returns.",
 
         "services.logistics": "Logistics Services",
         "services.logisticsDesc": "Building advanced logistics infrastructure that supports field operations and facilitates the delivery of services to pilgrims across the holy sites.",
 
         "services.hospitality": "Food & Hospitality",
-        "services.hospitalityDesc": "Investing in catering and food supply projects that provide safe, high-quality meals for the Guests of God in accordance with international standards.",
+        "services.hospitalityDesc": "Investing in catering and food supply projects that provide safe, high-quality meals for the Guests of Allah in accordance with international standards.",
 
         "services.digital": "Digital Technologies",
         "services.digitalDesc": "Developing smart platforms and applications that enhance service automation, enrich the digital pilgrimage experience, and simplify access to information.",
 
         "services.media": "Media Services",
-        "services.mediaDesc": "Providing integrated media and marketing solutions that highlight efforts dedicated to serving the Guests of God and strengthen public awareness.",
+        "services.mediaDesc": "Providing integrated media and marketing solutions that highlight efforts dedicated to serving the Guests of Allah and strengthen public awareness.",
 
         // Governance Section
         "governance.badge": "Partnerships & Governance",
@@ -156,7 +156,7 @@ const translations = {
         "governance.description": "A partnership and governance framework that ensures sustainable impact in line with best practices.",
 
         "governance.public": "Public Sector Partnerships",
-        "governance.publicDesc": "Supporting initiatives and projects related to serving the Guests of God.",
+        "governance.publicDesc": "Supporting initiatives and projects related to serving the Guests of Allah.",
 
         "governance.private": "Private Sector Partnerships",
         "governance.privateDesc": "Developing and operating sustainable investment projects.",
@@ -177,13 +177,13 @@ const translations = {
 
         // News Items
         "news1.title": "Launch of Social Media Platforms",
-        "news1.desc": "Hadiyah Alkhair announced the launch of its official social media platforms as part of its efforts to strengthen its digital presence and engage with diverse audiences interested in services for the Guests of God.",
+        "news1.desc": "Hadiyah Alkhair announced the launch of its official social media platforms as part of its efforts to strengthen its digital presence and engage with diverse audiences interested in services for the Guests of Allah.",
 
         "news2.title": "Hadiyah Alkhair Continues Showcasing Its Projects and Initiatives Serving Pilgrims and Umrah Visitors",
-        "news2.desc": "Hadiyah Alkhair continues to showcase its projects and initiatives through its various media channels as part of its efforts to raise awareness of its role in enhancing services provided to the Guests of God.",
+        "news2.desc": "Hadiyah Alkhair continues to showcase its projects and initiatives through its various media channels as part of its efforts to raise awareness of its role in enhancing services provided to the Guests of Allah.",
 
         "news3.title": "Hadiyah Alkhair Participates in Hajj Conference & Exhibition to Showcase Its Initiatives and Services",
-        "news3.desc": "Hadiyah Alkhair participated in the Hajj Conference & Exhibition through a dedicated pavilion showcasing a range of initiatives and services designed to serve the Guests of God.",
+        "news3.desc": "Hadiyah Alkhair participated in the Hajj Conference & Exhibition through a dedicated pavilion showcasing a range of initiatives and services designed to serve the Guests of Allah.",
 
 
         // Contact Section
