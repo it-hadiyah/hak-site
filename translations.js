@@ -1,0 +1,251 @@
+// translations.js
+const translations = {
+    ar: {
+        // Meta
+        "meta.title": "هدية الخير للاستثمار | Hadiyah Alkhair Investment",
+        "meta.description": "شركة هدية الخير هي الذراع الاستثماري غير الربحي لجمعية هدية الحاج والمعتمر، تهدف لتحقيق الاستدامة المالية وخدمة ضيوف الرحمن.",
+
+        // Navigation
+        "nav.home": "الرئيسية",
+        "nav.about": "من نحن",
+        "nav.services": "مجالات العمل",
+        "nav.governance": "الشراكات والحوكمة",
+        "nav.media": "المركز الإعلامي",
+        "nav.contact": "تواصل معنا",
+        "nav.store": "المتجر",
+
+        // Hero Section
+        "hero.title": 'استثمارات مستدامة لخدمة <span class="text-[#b9995e]">ضيوف الرحمن</span>',
+        "hero.description": "شركة هدية الخير الاستثمارية هي الذراع الاستثماري والتنفيذي لجمعية هدية الحاج والمعتمر، ونسعى إلى تحقيق الاستدامة المالية وتطوير مشاريع نوعية تُسهم في الارتقاء بالخدمات المقدمة لضيوف الرحمن.",
+        "hero.btnLearn": "اعرف المزيد",
+        "hero.btnContact": "تواصل معنا",
+
+        // About Section
+        "about.badge": "من نحن",
+        "about.title": 'نطور الاستثمار <span class="text-[#b9995e]">لنرتقي بالخدمة</span>',
+        "about.description": "نعمل على تطوير مشاريع استثمارية ذات أثر اجتماعي واقتصادي تُسهم في دعم المبادرات النوعية وتعزيز جودة الخدمات المقدمة لضيوف الرحمن.",
+        "about.visionTitle": "الرؤية",
+        "about.visionDesc": "أن نكون نموذجًا رائدًا في الاستثمار غير الربحي المستدام لخدمة ضيوف الرحمن.",
+        "about.missionTitle": "الرسالة",
+        "about.missionDesc": "تطوير وإدارة استثمارات نوعية تحقق عوائد مستدامة لدعم برامج جمعية هدية الحاج والمعتمر.",
+        "about.valuesTitle": "القيم",
+        "about.value1": "الأمانة والحوكمة",
+        "about.value2": "الجودة والتميز",
+        "about.value3": "الاستدامة",
+        "about.value4": "الابتكار",
+
+        // Services Section
+        "services.badge": "مجالات العمل",
+        "services.title": 'نستثمر في مجالات <span class="text-[#b9995e]">نوعية</span>',
+        "services.description": "مجالات استثمارية تخدم أهداف الاستدامة وترتقي بالخدمات المقدمة للحجاج والمعتمرين.",
+        "services.realEstate": "الاستثمار العقاري",
+        "services.realEstateDesc": "تطوير وإدارة أصول عقارية وفندقية تخدم ضيوف الرحمن في مكة المكرمة والمدينة المنورة، بما يحقق عوائد مستدامة.",
+        "services.logistics": "الخدمات اللوجستية",
+        "services.logisticsDesc": "بناء بنية تحتية لوجستية متطورة تدعم عمليات الخدمة الميدانية وتسهم في تسهيل وصول الخدمات للحجاج في المشاعر المقدسة.",
+        "services.hospitality": "الأغذية والضيافة",
+        "services.hospitalityDesc": "الاستثمار في مشاريع الإعاشة والتموين الغذائي التي توفر وجبات صحية وآمنة لضيوف الرحمن وفق معايير عالمية.",
+        "services.digital": "التقنيات الرقمية",
+        "services.digitalDesc": "تطوير منصات وتطبيقات ذكية تسهم في أتمتة الخدمات وإثراء تجربة الحاج الرقمية وتسهيل الوصول للمعلومات.",
+        "services.media": "الخدمات الإعلامية",
+        "services.mediaDesc": "تقديم حلول إعلامية وتسويقية متكاملة تبرز الجهود المبذولة في خدمة ضيوف الرحمن وتعزز الوعي المجتمعي.",
+
+        // Governance Section
+        "governance.badge": "الشراكات والحوكمة",
+        "governance.title": 'نعمل بشراكات <span class="text-[#b9995e]">فاعلة</span>',
+        "governance.description": "منظومة شراكات وحوكمة تضمن تحقيق الأثر والاستدامة وفق أفضل الممارسات.",
+        "governance.public": "شراكات مع القطاع العام",
+        "governance.publicDesc": "دعم المبادرات والمشاريع ذات العلاقة بخدمة ضيوف الرحمن",
+        "governance.private": "شراكات مع القطاع الخاص",
+        "governance.privateDesc": "تطوير وتشغيل مشاريع استثمارية مستدامة",
+        "governance.nonprofit": "شراكات مع القطاع الثالث",
+        "governance.nonprofitDesc": "تكامل في المبادرات ذات الأثر الاجتماعي",
+        "governance.technical": "شراكات تشغيلية وتقنية",
+        "governance.technicalDesc": "دعم كفاءة التنفيذ وجودة الخدمات",
+
+        // Media Section
+        "media.badge": "آخر الأخبار",
+        "media.title": "المركز الإعلامي",
+        "media.description": "اطّلع على آخر المستجدات والأخبار الخاصة بالشركة.",
+        "media.category": "المركز الإعلامي",
+        "media.readMore": "المزيد",
+
+        // News Items
+        "news1.title": "هدية الخير تشارك في مؤتمر ومعرض الحج للتعريف بمبادراتها وخدماتها",
+        "news1.desc": "شاركت شركة هدية الخير في مؤتمر ومعرض الحج ضمن جناح مخصص استعرضت من خلاله مجموعة من مبادراتها وخدماتها الموجهة لخدمة ضيوف الرحمن.",
+        "news2.title": "شركة هدية الخير تواصل التعريف بمشاريعها ومبادراتها لخدمة الحجاج والمعتمرين",
+        "news2.desc": "تواصل شركة هدية الخير التعريف بمشاريعها ومبادراتها عبر قنواتها الإعلامية المختلفة، وذلك ضمن جهودها لتعزيز الوعي بدورها في تطوير الخدمات المقدمة لضيوف الرحمن.",
+        "news3.title": "إطلاق منصات التواصل",
+        "news3.desc": "أعلنت شركة هدية الخير عن إطلاق حساباتها الرسمية على منصات التواصل الاجتماعي، وذلك ضمن جهودها لتعزيز حضورها الرقمي والتواصل مع مختلف فئات الجمهور والمهتمين بخدمات ضيوف الرحمن.",
+
+        // Contact Section
+        "contact.badge": "تواصل معنا",
+        "contact.title": 'نحن على <span class="text-[#b9995e]">أتم الاستعداد</span>',
+        "contact.description": "فريقنا جاهز للإجابة على استفساراتكم ومناقشة فرص التعاون والاستثمار.",
+        "contact.emailTitle": "البريد الإلكتروني",
+        "contact.phoneTitle": "الهاتف",
+        "contact.locationTitle": "الموقع",
+        "contact.location": "مكة المكرمة - حي النسيم - شارع فاطمة الزهراء",
+
+        // Footer
+        "footer.about": "شركة هدية الخير للاستثمار تقدم حلولاً استثمارية مبتكرة برؤية استراتيجية لتحقيق النمو والاستدامة.",
+        "footer.quickLinks": "روابط سريعة",
+        "footer.follow": "تابعنا",
+        "footer.copyright": "شركة هدية الخير للاستثمار. جميع الحقوق محفوظة.",
+
+        // Buttons & UI
+        "btn.toggleLang": "EN",
+        "btn.mobileMenu": "☰"
+    },
+
+    en: {
+        // Meta
+        "meta.title": "Hadiyah Alkhair Investment | Sustainable Investments for Hajj & Umrah",
+        "meta.description": "Hadiyah Alkhair is the non-profit investment arm of Hadiyah Al-Hajj and Umrah Association, aiming to achieve financial sustainability and serve the Guests of Allah.",
+
+        // Navigation
+        "nav.home": "Home",
+        "nav.about": "About Us",
+        "nav.services": "Services",
+        "nav.governance": "Governance",
+        "nav.media": "Media Center",
+        "nav.contact": "Contact Us",
+        "nav.store": "Store",
+
+        // Hero Section
+        "hero.title": 'Sustainable Investments to Serve <span class="text-[#b9995e]">Guests of Allah</span>',
+        "hero.description": "Hadiyah Alkhair Investment Company is the investment and operational arm of the Haji and Mu’tamer Hadiyah Association. We strive to achieve financial sustainability and develop impactful projects that contribute to enhancing the quality of services provided to the Guests of Allah.",
+        "hero.btnLearn": "Learn More",
+        "hero.btnContact": "Contact Us",
+
+        // About Section
+        "about.badge": "About Us",
+        "about.title": 'We Develop Investments <span class="text-[#b9995e]">to Elevate Service Quality</span>',
+        "about.description": "We develop impact-driven investment projects that contribute to supporting meaningful initiatives while enhancing the quality of services provided to the Guests of Allah.",
+        "about.visionTitle": "Vision",
+        "about.visionDesc": "To be a leading model in sustainable non-profit investment serving the Guests of Allah",
+        "about.missionTitle": "Mission",
+        "about.missionDesc": "Developing and managing impactful investments that generate sustainable returns to support the programs of the Haji and Mu’tamer Hadiyah Association.",
+        "about.valuesTitle": "Values",
+        "about.value1": "Integrity & Governance",
+        "about.value2": "Quality & Excellence",
+        "about.value3": "Sustainability",
+        "about.value4": "Innovation",
+
+        // Services Section
+        "services.badge": "Our Services",
+        "services.title": 'We Invest in <span class="text-[#b9995e]">High-Impact Sectors</span>',
+        "services.description": "Investment sectors that support sustainability goals and enhance the services provided to pilgrims and Umrah visitors.",
+        "services.realEstate": "Real Estate Investment",
+        "services.realEstateDesc": "Developing and managing real estate and hospitality assets that serve the Guests of Allah in Makkah and Madinah while generating sustainable returns.",
+
+        "services.logistics": "Logistics Services",
+        "services.logisticsDesc": "Building advanced logistics infrastructure that supports field operations and facilitates the delivery of services to pilgrims across the holy sites.",
+
+        "services.hospitality": "Food & Hospitality",
+        "services.hospitalityDesc": "Investing in catering and food supply projects that provide safe, high-quality meals for the Guests of Allah in accordance with international standards.",
+
+        "services.digital": "Digital Technologies",
+        "services.digitalDesc": "Developing smart platforms and applications that enhance service automation, enrich the digital pilgrimage experience, and simplify access to information.",
+
+        "services.media": "Media Services",
+        "services.mediaDesc": "Providing integrated media and marketing solutions that highlight efforts dedicated to serving the Guests of Allah and strengthen public awareness.",
+
+        // Governance Section
+        "governance.badge": "Partnerships & Governance",
+        "governance.title": 'We Build <span class="text-[#b9995e]">Effective Partnerships</span>',
+        "governance.description": "A partnership and governance framework that ensures sustainable impact in line with best practices.",
+
+        "governance.public": "Public Sector Partnerships",
+        "governance.publicDesc": "Supporting initiatives and projects related to serving the Guests of Allah.",
+
+        "governance.private": "Private Sector Partnerships",
+        "governance.privateDesc": "Developing and operating sustainable investment projects.",
+
+        "governance.nonprofit": "Third Sector Partnerships",
+        "governance.nonprofitDesc": "Collaborating on initiatives with meaningful social impact.",
+
+        "governance.technical": "Operational & Technology Partnerships",
+        "governance.technicalDesc": "Enhancing operational efficiency and service quality.",
+
+
+        // Media Section
+        "media.badge": "Latest News",
+        "media.title": "Media Center",
+        "media.description": "Stay updated with the latest company news and announcements.",
+        "media.category": "Media Center",
+        "media.readMore": "Read More",
+
+        // News Items
+        "news1.title": "Launch of Social Media Platforms",
+        "news1.desc": "Hadiyah Alkhair announced the launch of its official social media platforms as part of its efforts to strengthen its digital presence and engage with diverse audiences interested in services for the Guests of Allah.",
+
+        "news2.title": "Hadiyah Alkhair Continues Showcasing Its Projects and Initiatives Serving Pilgrims and Umrah Visitors",
+        "news2.desc": "Hadiyah Alkhair continues to showcase its projects and initiatives through its various media channels as part of its efforts to raise awareness of its role in enhancing services provided to the Guests of Allah.",
+
+        "news3.title": "Hadiyah Alkhair Participates in Hajj Conference & Exhibition to Showcase Its Initiatives and Services",
+        "news3.desc": "Hadiyah Alkhair participated in the Hajj Conference & Exhibition through a dedicated pavilion showcasing a range of initiatives and services designed to serve the Guests of Allah.",
+
+
+        // Contact Section
+
+        "contact.badge": "Contact Us",
+        "contact.title": 'We Are <span class="text-[#b9995e]">Ready to Assist You</span>',
+        "contact.description": "Our team is ready to answer your inquiries and discuss collaboration and investment opportunities.",
+        "contact.emailTitle": "Email",
+        "contact.phoneTitle": "Phone",
+        "contact.locationTitle": "Location",
+        "contact.location": "Makkah – Al Naseem District – Fatimah Al Zahra Street",
+
+        // Footer
+        "footer.about": "Hadiyah Alkhair Investment Company provides innovative investment solutions with a strategic vision to achieve growth and sustainability.",
+        "footer.quickLinks": "Quick Links",
+        "footer.follow": "Follow Us",
+        "footer.copyright": "Hadiyah Alkhair Investment Company. All rights reserved.",
+
+        // Buttons & UI
+        "btn.toggleLang": "عربي",
+        "btn.mobileMenu": "☰"
+    }
+};
+
+// أضف هذا القسم إلى ملف translations.js الموجود
+
+const newsTranslations = {
+    ar: {
+        // UI Elements
+        "news.pageTitle": "أرشيف الأخبار | هدية الخير",
+        "news.backBtn": "رجوع",
+        "news.category": "المركز الإعلامي",
+        "news.publishedBy": "نشر بواسطة القسم الإعلامي",
+        "news.share": "مشاركة الخبر",
+        "news.copyLink": "نسخ الرابط",
+        "news.linkCopied": "تم نسخ الرابط!",
+        "news.notFound": "عذرًا، الخبر المطلوب غير موجود",
+        "news.backHome": "العودة للصفحة الرئيسية",
+
+        // Date Format
+        "news.dateFormat": "DD MMMM YYYY",
+        "news.months": ["يناير", "فبراير", "مارس", "أبريل", "مايو", "يونيو", "يوليو", "أغسطس", "سبتمبر", "أكتوبر", "نوفمبر", "ديسمبر"]
+    },
+
+    en: {
+        // UI Elements
+        "news.pageTitle": "News Archive | Hadiyah Alkhair",
+        "news.backBtn": "Back",
+        "news.category": "Media Center",
+        "news.publishedBy": "Published by the Media Department",
+        "news.share": "Share Article",
+        "news.copyLink": "Copy Link",
+        "news.linkCopied": "Link copied!",
+        "news.notFound": "Sorry, the requested article was not found",
+        "news.backHome": "Back to Homepage",
+
+        // Date Format
+        "news.dateFormat": "MMMM DD, YYYY",
+        "news.months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    }
+};
+
+
+Object.assign(translations.ar, newsTranslations.ar);
+Object.assign(translations.en, newsTranslations.en);
