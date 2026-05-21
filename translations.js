@@ -112,14 +112,14 @@ const translations = {
         "nav.store": "Store",
 
         // Hero Section
-        "hero.title": 'Sustainable Investments to Serve <span class="text-[#b9995e]">Guests of Allah</span>',
+        "hero.title": 'Sustainable Investments to Serve <br> <span class="text-[#b9995e]">Guests of Allah</span>',
         "hero.description": "Hadiyah Alkhair Investment Company is the investment and operational arm of the Haji and Mu’tamer Hadiyah Association. We strive to achieve financial sustainability and develop impactful projects that contribute to enhancing the quality of services provided to the Guests of Allah.",
         "hero.btnLearn": "Learn More",
         "hero.btnContact": "Contact Us",
 
         // About Section
         "about.badge": "About Us",
-        "about.title": 'We Develop Investments <span class="text-[#b9995e]">to Elevate Service Quality</span>',
+        "about.title": 'We Develop Investments  <br><span class="text-[#b9995e]">to Elevate Service Quality</span>',
         "about.description": "We develop impact-driven investment projects that contribute to supporting meaningful initiatives while enhancing the quality of services provided to the Guests of Allah.",
         "about.visionTitle": "Vision",
         "about.visionDesc": "To be a leading model in sustainable non-profit investment serving the Guests of Allah",
@@ -133,7 +133,7 @@ const translations = {
 
         // Services Section
         "services.badge": "Our Services",
-        "services.title": 'We Invest in <span class="text-[#b9995e]">High-Impact Sectors</span>',
+        "services.title": 'We Invest in  <br><span class="text-[#b9995e]">High-Impact Sectors</span>',
         "services.description": "Investment sectors that support sustainability goals and enhance the services provided to pilgrims and Umrah visitors.",
         "services.realEstate": "Real Estate Investment",
         "services.realEstateDesc": "Developing and managing real estate and hospitality assets that serve the Guests of Allah in Makkah and Madinah while generating sustainable returns.",
@@ -152,7 +152,7 @@ const translations = {
 
         // Governance Section
         "governance.badge": "Partnerships & Governance",
-        "governance.title": 'We Build <span class="text-[#b9995e]">Effective Partnerships</span>',
+        "governance.title": 'We Build  <br><span class="text-[#b9995e]">Effective Partnerships</span>',
         "governance.description": "A partnership and governance framework that ensures sustainable impact in line with best practices.",
 
         "governance.public": "Public Sector Partnerships",
@@ -189,7 +189,7 @@ const translations = {
         // Contact Section
 
         "contact.badge": "Contact Us",
-        "contact.title": 'We Are <span class="text-[#b9995e]">Ready to Assist You</span>',
+        "contact.title": 'We Are  <br><span class="text-[#b9995e]">Ready to Assist You</span>',
         "contact.description": "Our team is ready to answer your inquiries and discuss collaboration and investment opportunities.",
         "contact.emailTitle": "Email",
         "contact.phoneTitle": "Phone",
