@@ -2,8 +2,10 @@
 document.addEventListener('DOMContentLoaded', () => {
 
     // === Language Switcher Logic ===
-    const langToggle = document.getElementById('langToggle');
-    const currentLangSpan = document.getElementById('currentLang');
+    const langToggleDesktop = document.getElementById('langToggle');
+    const langToggleMobile = document.getElementById('langToggleMobile');
+    const currentLangDesktop = document.getElementById('currentLang');
+    const currentLangMobile = document.getElementById('currentLangMobile');
 
     // Get saved language or default to 'ar'
     let currentLang = localStorage.getItem('siteLang') || 'ar';
@@ -11,29 +13,48 @@ document.addEventListener('DOMContentLoaded', () => {
     // Apply language on load
     applyLanguage(currentLang);
 
-    // Toggle language on click
-    langToggle?.addEventListener('click', (e) => {
-        e.preventDefault();
+    // === دالة موحدة لتغيير اللغة ===
+    function toggleLanguage() {
         currentLang = currentLang === 'ar' ? 'en' : 'ar';
         localStorage.setItem('siteLang', currentLang);
         applyLanguage(currentLang);
+    }
+
+    // ربط زر اللغة في الديسكتوب
+    langToggleDesktop?.addEventListener('click', (e) => {
+        e.preventDefault();
+        toggleLanguage();
+    });
+
+    // ربط زر اللغة في الموبايل
+    langToggleMobile?.addEventListener('click', (e) => {
+        e.preventDefault();
+        toggleLanguage();
+
+        const mobileMenu = document.getElementById('mobileMenu');
+        mobileMenu?.classList.add('hidden');
+        //reload of page
+        window.location.reload();
     });
 
     function applyLanguage(lang) {
         // Update HTML attributes
         document.documentElement.lang = lang;
         document.documentElement.dir = lang === 'ar' ? 'rtl' : 'ltr';
-        const footerDiv = document.querySelector('footer div div');
 
-        if (lang === 'en') {
-            footerDiv.classList.add('footer-ltr');
-        } else {
-            footerDiv.classList.remove('footer-ltr');
+        const footerDiv = document.querySelector('footer div div');
+        if (footerDiv) {
+            if (lang === 'en') {
+                footerDiv.classList.add('footer-ltr');
+            } else {
+                footerDiv.classList.remove('footer-ltr');
+            }
         }
-        // Update toggle button text
-        if (currentLangSpan) {
-            currentLangSpan.textContent = translations[lang]?.['btn.toggleLang'] || (lang === 'ar' ? 'EN' : 'عربي');
-        }
+
+        // Update toggle button text for BOTH desktop and mobile
+        const toggleText = translations[lang]?.['btn.toggleLang'] || (lang === 'ar' ? 'EN' : 'عربي');
+        if (currentLangDesktop) currentLangDesktop.textContent = toggleText;
+        if (currentLangMobile) currentLangMobile.textContent = toggleText;
 
         // Update meta tags
         const metaTitle = document.querySelector('meta[name="title"]');
@@ -48,7 +69,6 @@ document.addEventListener('DOMContentLoaded', () => {
             const translation = translations[lang]?.[key];
 
             if (translation) {
-                // Check if translation contains HTML (like span tags for colors)
                 if (translation.includes('<')) {
                     el.innerHTML = translation;
                 } else {
