@@ -205,10 +205,109 @@ const translations = {
         // Buttons & UI
         "btn.toggleLang": "عربي",
         "btn.mobileMenu": "☰"
+    },
+
+    // === أضف هذا القسم الجديد داخل كائن translations ===
+
+    id: {
+        // Meta
+        "meta.title": "Hadiah Al-Khair Investment | Investasi Berkelanjutan untuk Jamaah Haji dan Umrah",
+        "meta.description": "Hadiah Al-Khair adalah lengan investasi nirlaba dari Yayasan Hadiah Jamaah Haji dan Umrah, bertujuan mencapai keberlanjutan finansial dan melayani para tamu Allah.",
+
+        // Navigation
+        "nav.home": "Beranda",
+        "nav.about": "Tentang Kami",
+        "nav.services": "Layanan",
+        "nav.governance": "Kemitraan & Tata Kelola",
+        "nav.media": "Pusat Media",
+        "nav.contact": "Hubungi Kami",
+        "nav.store": "Toko",
+
+        // Hero Section
+        "hero.title": 'Investasi berkelanjutan untuk melayani <br> <span class="text-[#b9995e]">jamaah haji dan umrah</span>',
+        "hero.description": "PT Hadiah Al-Khair Investasi adalah lengan investasi dan operasional dari Yayasan Hadiah Jamaah Haji dan Umrah. Kami berupaya mencapai keberlanjutan finansial dan mengembangkan proyek-proyek berkualitas yang berkontribusi pada peningkatan layanan yang diberikan kepada jamaah haji dan umrah.",
+        "hero.btnLearn": "Pelajari lebih lanjut",
+        "hero.btnContact": "Hubungi kami",
+
+        // About Section
+        "about.badge": "Tentang Kami",
+        "about.title": 'Kami mengembangkan investasi untuk <br> <span class="text-[#b9995e]">meningkatkan kualitas layanan</span>',
+        "about.description": "Kami bekerja untuk mengembangkan proyek-proyek investasi yang memiliki dampak sosial dan ekonomi, yang berkontribusi dalam mendukung inisiatif berkualitas dan meningkatkan kualitas layanan yang diberikan kepada jamaah haji dan umrah.",
+        "about.visionTitle": "Visi",
+        "about.visionDesc": "Menjadi model terdepan dalam investasi nirlaba yang berkelanjutan untuk melayani jamaah haji dan umrah.",
+        "about.missionTitle": "Misi",
+        "about.missionDesc": "Mengembangkan dan mengelola investasi berkualitas yang menghasilkan keuntungan berkelanjutan untuk mendukung program-program Yayasan Hadiah Jamaah Haji dan Umrah.",
+        "about.valuesTitle": "Nilai-Nilai",
+        "about.value1": "Kejujuran dan tata kelola",
+        "about.value2": "Kualitas dan keunggulan",
+        "about.value3": "Keberlanjutan",
+        "about.value4": "Inovasi",
+
+        // Services Section
+        "services.badge": "Bidang Pekerjaan",
+        "services.title": 'Kami berinvestasi di <br><span class="text-[#b9995e]">bidang-bidang berkualitas</span>',
+        "services.description": "Bidang-bidang investasi yang mendukung tujuan keberlanjutan dan meningkatkan kualitas layanan yang diberikan kepada para jamaah haji dan umrah.",
+        "services.realEstate": "Investasi Properti",
+        "services.realEstateDesc": "Pengembangan dan pengelolaan aset properti dan hotel di Mekkah dan Madinah untuk melayani jamaah haji dan umrah secara berkelanjutan.",
+        "services.logistics": "Layanan Logistik",
+        "services.logisticsDesc": "Membangun infrastruktur logistik yang canggih untuk mendukung operasi layanan lapangan dan mempermudah akses layanan bagi jamaah di wilayah suci.",
+        "services.hospitality": "Makanan dan Perhotelan",
+        "services.hospitalityDesc": "Investasi dalam proyek katering dan penyediaan makanan yang menyediakan hidangan sehat dan aman bagi para tamu Allah, sesuai dengan standar internasional.",
+        "services.digital": "Teknologi Digital",
+        "services.digitalDesc": "Pengembangan platform dan aplikasi cerdas yang berkontribusi pada otomatisasi layanan, memperkaya pengalaman digital jamaah, dan mempermudah akses informasi.",
+        "services.media": "Layanan Media",
+        "services.mediaDesc": "Menyediakan solusi media dan pemasaran terpadu yang menonjolkan upaya dalam melayani para tamu Allah dan meningkatkan kesadaran masyarakat.",
+
+        // Governance Section
+        "governance.badge": "Kemitraan & Tata Kelola",
+        "governance.title": 'Kami bekerja melalui <br><span class="text-[#b9995e]">kemitraan yang efektif</span>',
+        "governance.description": "Sistem kemitraan dan tata kelola yang memastikan tercapainya dampak dan keberlanjutan sesuai dengan praktik terbaik.",
+        "governance.public": "Kemitraan dengan sektor publik",
+        "governance.publicDesc": "Mendukung inisiatif dan proyek yang terkait dengan pelayanan para tamu Allah.",
+        "governance.private": "Kemitraan dengan sektor swasta",
+        "governance.privateDesc": "Pengembangan dan pengelolaan proyek investasi yang berkelanjutan.",
+        "governance.nonprofit": "Kemitraan dengan sektor ketiga",
+        "governance.nonprofitDesc": "Integrasi dalam inisiatif yang berdampak sosial.",
+        "governance.technical": "Kemitraan Operasional dan Teknologi",
+        "governance.technicalDesc": "Mendukung efisiensi pelaksanaan dan kualitas layanan.",
+
+        // Media Section
+        "media.badge": "Berita Terbaru",
+        "media.title": "Pusat Media",
+        "media.description": "Lihat pembaruan dan berita terbaru seputar perusahaan.",
+        "media.category": "Pusat Media",
+        "media.readMore": "Selengkapnya",
+
+        // News Items (Preview)
+        "news1.title": "Hadiah Al-Khair berpartisipasi dalam Konferensi dan Pameran Haji untuk memperkenalkan inisiatif dan layanannya",
+        "news1.desc": "Perusahaan Hadiah Al-Khair berpartisipasi dalam Konferensi dan Pameran Haji melalui sebuah paviliun khusus, di mana mereka memamerkan berbagai inisiatif dan layanan yang ditujukan untuk melayani para tamu Allah.",
+        "news2.title": "Perusahaan Hadiah Al-Khair terus memperkenalkan proyek dan inisiatifnya dalam pelayanan jamaah haji dan umrah",
+        "news2.desc": "Perusahaan Hadiah Al-Khair terus memperkenalkan proyek dan inisiatifnya melalui berbagai saluran media, sebagai bagian dari upayanya untuk meningkatkan kesadaran akan perannya dalam mengembangkan layanan yang diberikan kepada para tamu Allah.",
+        "news3.title": "Peluncuran platform komunikasi",
+        "news3.desc": "Perusahaan Hadiah Al-Khair mengumumkan peluncuran akun resminya di platform media sosial, sebagai bagian dari upayanya untuk memperkuat kehadiran digital dan berkomunikasi dengan berbagai lapisan masyarakat.",
+
+        // Contact Section
+        "contact.badge": "Hubungi Kami",
+        "contact.title": 'Kami <br><span class="text-[#b9995e]">siap sepenuhnya</span>',
+        "contact.description": "Tim kami siap menjawab pertanyaan Anda dan membahas peluang kerja sama serta investasi.",
+        "contact.emailTitle": "Email",
+        "contact.phoneTitle": "Telepon",
+        "contact.locationTitle": "Lokasi",
+        "contact.location": "Makkah – Al Naseem District – Fatimah Al Zahra Street",
+
+        // Footer
+        "footer.about": "Perusahaan Hadiah Al-Khair Investasi menyediakan solusi investasi inovatif dengan visi strategis untuk mencapai pertumbuhan dan keberlanjutan.",
+        "footer.quickLinks": "Tautan Cepat",
+        "footer.follow": "Ikuti Kami",
+        "footer.copyright": "Perusahaan Hadiah Al-Khair Investasi. Semua hak dilindungi.",
+
+        // Buttons & UI
+        "btn.toggleLang": "EN",  // Will be updated dynamically
+        "btn.mobileMenu": "☰"
     }
 };
 
-// أضف هذا القسم إلى ملف translations.js الموجود
+
 
 const newsTranslations = {
     ar: {
@@ -243,9 +342,28 @@ const newsTranslations = {
         // Date Format
         "news.dateFormat": "MMMM DD, YYYY",
         "news.months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+
+    id: {
+        // UI Elements
+        "news.pageTitle": "Arsip Berita | Hadiah Al-Khair",
+        "news.backBtn": "Kembali",
+        "news.category": "Pusat Media",
+        "news.publishedBy": "Diterbitkan oleh Bagian Media",
+        "news.share": "Bagikan Artikel",
+        "news.copyLink": "Salin Tautan",
+        "news.linkCopied": "Tautan disalin!",
+        "news.notFound": "Maaf, artikel yang diminta tidak ditemukan",
+        "news.backHome": "Kembali ke Beranda",
+
+        // Date Format
+        "news.dateFormat": "DD MMMM YYYY",
+        "news.months": ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Agustus", "September", "Oktober", "November", "Desember"]
     }
 };
 
 
+
 Object.assign(translations.ar, newsTranslations.ar);
 Object.assign(translations.en, newsTranslations.en);
+Object.assign(translations.id, newsTranslations.id);
