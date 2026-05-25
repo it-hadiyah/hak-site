@@ -51,7 +51,7 @@
             <a class="nav-link text-gray-700 hover:text-[#017768] transition" href="#contact" data-i18n="nav.contact">تواصل معنا</a>
 
             <!-- Store Button -->
-            <a href="https://store.hak.com.sa/"
+            <a id="store-url" href="https://store.hak.com.sa/"
                class="flex items-center gap-2 px-5 py-2 rounded-full bg-[#b9995e] text-white hover:bg-[#a8864f] transition duration-300 shadow-md hover:shadow-lg">
                 <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
                     <path d="M6 6h15l-1.5 9h-13z"></path>
@@ -61,11 +61,49 @@
                 <span data-i18n="nav.store">المتجر</span>
             </a>
 
-            <!-- Language Toggle -->
-            <button id="langToggle"
-                    class="px-4 py-2 rounded-lg border border-gray-200 hover:bg-gray-50 transition font-bold text-[#017768]">
-                <span id="currentLang">EN</span>
-            </button>
+            <!-- Desktop Language Dropdown -->
+            <div class="relative group">
+            <div id="langToggle"
+                    class="flex items-center gap-2 px-4 py-2 rounded-lg border border-gray-200 hover:bg-gray-50 transition font-bold ">
+                <!-- Current Flag Icon -->
+                <span id="currentFlag" class="text-xl leading-none">
+                        <img src="saudi-arabia.svg" alt="Saudi Arabia Flag" class="h-5 w-5 object-contain">
+                </span>
+
+                <!-- Current Language Code -->
+                <span id="currentLang">العربية</span>
+                <!-- Chevron Down -->
+                <svg class="w-3 h-3 transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+            </div>
+
+            <!-- Dropdown Menu -->
+            <div id="langDropdown" class="absolute left-0 rtl:right-0 rtl:left-auto mt-2 w-40 bg-white rounded-xl shadow-xl border border-gray-100 overflow-hidden opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50 transform origin-top scale-95 group-hover:scale-100">
+                <button data-lang="ar" class="lang-option w-full flex items-center gap-3 px-4 py-3 hover:bg-[#017768]/5 transition text-right rtl:text-right ltr:text-left">
+                    <span class="text-xl">
+                        <img src="saudi-arabia.svg" alt="Saudi Arabia Flag" class="h-5 w-5 object-contain">
+                    </span>
+                    <span class="font-bold text-gray-700">العربية</span>
+
+                </button>
+                <button data-lang="en" class="lang-option w-full flex items-center gap-3 px-4 py-3 hover:bg-[#017768]/5 transition text-right rtl:text-right ltr:text-left">
+
+                    <span class="text-xl">
+                        <img src="usa.svg" alt="Usa Flag" class="h-5 w-5 object-contain">
+                    </span>
+                    <span class="font-bold text-gray-700">English</span>
+
+                </button>
+                <button data-lang="id" class="lang-option w-full flex items-center gap-3 px-4 py-3 hover:bg-[#017768]/5 transition text-right rtl:text-right ltr:text-left">
+                   <span class="text-xl">
+                        <img src="indonesia.svg" alt="Indonesia Flag" class="h-5 w-5 object-contain">
+                    </span>
+                    <span class="font-bold text-gray-700">Indonesia</span>
+
+                </button>
+            </div>
+        </div>
+
+
         </nav>
 
         <!-- Mobile Menu Button -->
@@ -84,17 +122,31 @@
             <a class="nav-link text-gray-700 hover:text-[#017768]" href="#media" data-i18n="nav.media">المركز الإعلامي</a>
             <a class="nav-link text-gray-700 hover:text-[#017768]" href="#contact" data-i18n="nav.contact">تواصل معنا</a>
 
-            <!-- Language Toggle for Mobile -->
-            <div class="pt-2 border-t border-gray-100 mt-2">
-                <button id="langToggleMobile"
-                        class="w-full flex items-center justify-center gap-2 px-4 py-2 rounded-lg border border-gray-200 hover:bg-gray-50 transition font-bold text-[#017768]">
-                    <i class="fa-solid fa-language"></i>
-                    <span id="currentLangMobile">EN</span>
-                </button>
+            <!-- Mobile Language Selector (Flat List - No Duplicate IDs) -->
+
+
+            <!-- Mobile Language Selector (Segmented Control) -->
+            <div class="pt-4 mt-3 border-t border-gray-100">
+                <span class="block text-xs text-gray-400 font-normal mb-3 px-1" data-i18n="footer.follow">اختر اللغة</span>
+
+                <div class="flex w-full bg-gray-100 p-1 rounded-xl">
+                    <button data-lang="ar" class="lang-option-mobile flex-1 flex items-center justify-center gap-2 py-2.5 rounded-lg text-sm font-bold transition-all duration-200">
+                        <img src="saudi-arabia.svg" alt="SA" class="w-4 h-4 object-contain">
+                        <span>العربية</span>
+                    </button>
+                    <button data-lang="en" class="lang-option-mobile flex-1 flex items-center justify-center gap-2 py-2.5 rounded-lg text-sm font-bold transition-all duration-200">
+                        <img src="usa.svg" alt="US" class="w-4 h-4 object-contain">
+                        <span>English</span>
+                    </button>
+                    <button data-lang="id" class="lang-option-mobile flex-1 flex items-center justify-center gap-2 py-2.5 rounded-lg text-sm font-bold transition-all duration-200">
+                        <img src="indonesia.svg" alt="ID" class="w-4 h-4 object-contain">
+                        <span>Indonesia</span>
+                    </button>
+                </div>
             </div>
         </div>
     </div>
-    <!-- Mobile Menu -->
+
 
 </header>
 

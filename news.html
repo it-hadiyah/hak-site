@@ -27,8 +27,6 @@
   <!-- Custom CSS -->
   <link rel="stylesheet" href="styles.css" />
 
-  <!-- Translations -->
-  <script src="translations.js"></script>
 </head>
 
 <body class="text-gray-800 font-['Noto_Sans_Arabic']">
@@ -48,10 +46,46 @@
     <div class="flex items-center gap-3">
 
       <!-- Language Toggle -->
-      <button id="langToggle"
-              class="px-4 py-2 rounded-lg border border-gray-200 hover:bg-gray-50 transition font-bold text-[#017768] text-sm">
-        <span id="currentLang">EN</span>
-      </button>
+      <div class="relative group">
+        <div id="langToggle"
+             class="flex items-center gap-2 px-4 py-2 rounded-lg border border-gray-200 hover:bg-gray-50 transition font-bold ">
+          <!-- Current Flag Icon -->
+          <span id="currentFlag" class="text-xl leading-none">
+                        <img src="saudi-arabia.svg" alt="Saudi Arabia Flag" class="h-5 w-5 object-contain">
+                </span>
+
+          <!-- Current Language Code -->
+          <span id="currentLang">العربية</span>
+          <!-- Chevron Down -->
+          <svg class="w-3 h-3 transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+        </div>
+
+        <!-- Dropdown Menu -->
+        <div id="langDropdown" class="absolute left-0 rtl:right-0 rtl:left-auto mt-2 w-40 bg-white rounded-xl shadow-xl border border-gray-100 overflow-hidden opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50 transform origin-top scale-95 group-hover:scale-100">
+          <button data-lang="ar" class="lang-option w-full flex items-center gap-3 px-4 py-3 hover:bg-[#017768]/5 transition text-right rtl:text-right ltr:text-left">
+                    <span class="text-xl">
+                        <img src="saudi-arabia.svg" alt="Saudi Arabia Flag" class="h-5 w-5 object-contain">
+                    </span>
+            <span class="font-bold text-gray-700">العربية</span>
+
+          </button>
+          <button data-lang="en" class="lang-option w-full flex items-center gap-3 px-4 py-3 hover:bg-[#017768]/5 transition text-right rtl:text-right ltr:text-left">
+
+                    <span class="text-xl">
+                        <img src="usa.svg" alt="Usa Flag" class="h-5 w-5 object-contain">
+                    </span>
+            <span class="font-bold text-gray-700">English</span>
+
+          </button>
+          <button data-lang="id" class="lang-option w-full flex items-center gap-3 px-4 py-3 hover:bg-[#017768]/5 transition text-right rtl:text-right ltr:text-left">
+                   <span class="text-xl">
+                        <img src="indonesia.svg" alt="Indonesia Flag" class="h-5 w-5 object-contain">
+                    </span>
+            <span class="font-bold text-gray-700">Indonesia</span>
+
+          </button>
+        </div>
+      </div>
 
       <!-- Back Button -->
       <a href="index.html#media" id="backBtn"
