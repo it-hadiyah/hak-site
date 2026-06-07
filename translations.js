@@ -69,6 +69,14 @@ const translations = {
         "media.category": "المركز الإعلامي",
         "media.readMore": "المزيد",
 
+        // PARTNERS Section
+
+        "partner.badge": "شركاؤنا",
+        "partner.title": 'مع <span class="text-[#b9995e]">شركاء موثوقين</span>',
+        "partner.description": "نفخر بالتعاون مع شركاء موثوقين يشاركوننا الرؤية في تقديم أفضل الخدمات لضيوف الرحمن.",
+
+
+
         // News Items
         "news1.title": "هدية الخير تشارك في مؤتمر ومعرض الحج للتعريف بمبادراتها وخدماتها",
         "news1.desc": "شاركت شركة هدية الخير في مؤتمر ومعرض الحج ضمن جناح مخصص استعرضت من خلاله مجموعة من مبادراتها وخدماتها الموجهة لخدمة ضيوف الرحمن.",
@@ -174,6 +182,12 @@ const translations = {
         "media.description": "Stay updated with the latest company news and announcements.",
         "media.category": "Media Center",
         "media.readMore": "Read More",
+        // PARTNERS Section
+
+        "partner.badge": "Our Partners",
+        "partner.title": 'Together with <span class="text-[#b9995e]">Trusted Partners</span>',
+        "partner.description": "We are proud to collaborate with trusted partners who share our vision in providing the best services to the Guests of Allah.",
+
 
         // News Items
         "news1.title": "Launch of Social Media Platforms",
@@ -270,6 +284,12 @@ const translations = {
         "governance.nonprofitDesc": "Integrasi dalam inisiatif yang berdampak sosial.",
         "governance.technical": "Kemitraan Operasional dan Teknologi",
         "governance.technicalDesc": "Mendukung efisiensi pelaksanaan dan kualitas layanan.",
+
+        // PARTNERS Section
+        "partner.badge": "Mitra Kami",
+            "partner.title": 'Bersama <span class="text-[#b9995e]">Mitra Terpercaya</span>',
+            "partner.description": "Kami bangga bekerja sama dengan mitra terpercaya yang berbagi visi kami dalam memberikan layanan terbaik kepada para tamu Allah.",
+
 
         // Media Section
         "media.badge": "Berita Terbaru",
