@@ -10,6 +10,7 @@ const translations = {
         "nav.about": "من نحن",
         "nav.services": "مجالات العمل",
         "nav.governance": "الشراكات والحوكمة",
+        "nav.partner": "شركاؤنا",
         "nav.media": "المركز الإعلامي",
         "nav.contact": "تواصل معنا",
         "nav.store": "المتجر",
@@ -116,6 +117,7 @@ const translations = {
         "nav.services": "Services",
         "nav.governance": "Governance",
         "nav.media": "Media Center",
+        "nav.partner": "Our Partners",
         "nav.contact": "Contact Us",
         "nav.store": "Store",
 
@@ -233,6 +235,7 @@ const translations = {
         "nav.about": "Tentang Kami",
         "nav.services": "Layanan",
         "nav.governance": "Kemitraan & Tata Kelola",
+        "nav.partner": "Mitra",
         "nav.media": "Pusat Media",
         "nav.contact": "Hubungi Kami",
         "nav.store": "Toko",
