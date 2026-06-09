@@ -291,7 +291,7 @@ const translations = {
         // PARTNERS Section
         "partner.badge": "Mitra Kami",
             "partner.title": 'Bersama <span class="text-[#b9995e]">Mitra Terpercaya</span>',
-            "partner.description": "Kami bangga bekerja sama dengan mitra terpercaya yang berbagi visi kami dalam memberikan layanan terbaik kepada para tamu Allah.",
+            "partner.description": "Kami bangga dapat bekerja sama dengan mitra-mitra terpercaya yang berbagi visi yang sama dengan kami dalam memberikan pelayanan terbaik bagi para tamu Allah (jemaah haji dan umrah).",
 
 
         // Media Section
