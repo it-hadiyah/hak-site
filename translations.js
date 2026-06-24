@@ -50,18 +50,23 @@ const translations = {
         "services.media": "الخدمات الإعلامية",
         "services.mediaDesc": "تقديم حلول إعلامية وتسويقية متكاملة تبرز الجهود المبذولة في خدمة ضيوف الرحمن وتعزز الوعي المجتمعي.",
 
+
         // Governance Section
         "governance.badge": "الشراكات والحوكمة",
         "governance.title": 'نعمل بشراكات <span class="text-[#b9995e]">فاعلة</span>',
-        "governance.description": "منظومة شراكات وحوكمة تضمن تحقيق الأثر والاستدامة وفق أفضل الممارسات.",
+        "governance.description": "منظومة شراكات وحوكمة تضمن كفاءة التنفيذ واستدامة الأثر والالتزام بأفضل الممارسات التشغيلية.",
+
         "governance.public": "شراكات مع القطاع العام",
-        "governance.publicDesc": "دعم المبادرات والمشاريع ذات العلاقة بخدمة ضيوف الرحمن",
+        "governance.publicDesc": "تنفيذ المشاريع والخدمات التشغيلية للجهات الحكومية والمؤسسات العامة.",
+
         "governance.private": "شراكات مع القطاع الخاص",
-        "governance.privateDesc": "تطوير وتشغيل مشاريع استثمارية مستدامة",
+        "governance.privateDesc": "التعاون مع الشركات والموردين لتطوير وتنفيذ خدمات ومنتجات مستدامة.",
+
         "governance.nonprofit": "شراكات مع القطاع الثالث",
-        "governance.nonprofitDesc": "تكامل في المبادرات ذات الأثر الاجتماعي",
-        "governance.technical": "شراكات تشغيلية وتقنية",
-        "governance.technicalDesc": "دعم كفاءة التنفيذ وجودة الخدمات",
+        "governance.nonprofitDesc": "التكامل مع الجمعيات والمؤسسات غير الربحية لتخطيط وتنفيذ وتشغيل المبادرات ذات الأثر المجتمعي.",
+
+        "governance.technical": "الحوكمة والامتثال",
+        "governance.technicalDesc": "تطبيق إجراءات تشغيلية ورقابية تضمن الجودة والالتزام والشفافية في تنفيذ المشاريع.",
 
         // Media Section
         "media.badge": "آخر الأخبار",
@@ -160,22 +165,23 @@ const translations = {
         "services.media": "Media Services",
         "services.mediaDesc": "Providing integrated media and marketing solutions that highlight efforts dedicated to serving the Guests of Allah and strengthen public awareness.",
 
+
         // Governance Section
         "governance.badge": "Partnerships & Governance",
-        "governance.title": 'We Build  <br><span class="text-[#b9995e]">Effective Partnerships</span>',
-        "governance.description": "A partnership and governance framework that ensures sustainable impact in line with best practices.",
+        "governance.title": 'We Build <br><span class="text-[#b9995e]">Effective Partnerships</span>',
+        "governance.description": "A partnership and governance framework that ensures efficient execution, sustainable impact, and adherence to operational best practices.",
 
         "governance.public": "Public Sector Partnerships",
-        "governance.publicDesc": "Supporting initiatives and projects related to serving the Guests of Allah.",
+        "governance.publicDesc": "Delivering projects and operational services for government entities and public institutions.",
 
         "governance.private": "Private Sector Partnerships",
-        "governance.privateDesc": "Developing and operating sustainable investment projects.",
+        "governance.privateDesc": "Collaborating with companies and suppliers to develop and deliver sustainable services and products.",
 
         "governance.nonprofit": "Third Sector Partnerships",
-        "governance.nonprofitDesc": "Collaborating on initiatives with meaningful social impact.",
+        "governance.nonprofitDesc": "Integrating with non-profit organizations and associations to plan, implement, and operate initiatives with community impact.",
 
-        "governance.technical": "Operational & Technology Partnerships",
-        "governance.technicalDesc": "Enhancing operational efficiency and service quality.",
+        "governance.technical": "Governance & Compliance",
+        "governance.technicalDesc": "Implementing operational and oversight procedures that ensure quality, compliance, and transparency in project execution.",
 
 
         // Media Section
@@ -275,18 +281,23 @@ const translations = {
         "services.media": "Layanan Media",
         "services.mediaDesc": "Menyediakan solusi media dan pemasaran terpadu yang menonjolkan upaya dalam melayani para tamu Allah dan meningkatkan kesadaran masyarakat.",
 
+
         // Governance Section
         "governance.badge": "Kemitraan & Tata Kelola",
         "governance.title": 'Kami bekerja melalui <br><span class="text-[#b9995e]">kemitraan yang efektif</span>',
-        "governance.description": "Sistem kemitraan dan tata kelola yang memastikan tercapainya dampak dan keberlanjutan sesuai dengan praktik terbaik.",
-        "governance.public": "Kemitraan dengan sektor publik",
-        "governance.publicDesc": "Mendukung inisiatif dan proyek yang terkait dengan pelayanan para tamu Allah.",
-        "governance.private": "Kemitraan dengan sektor swasta",
-        "governance.privateDesc": "Pengembangan dan pengelolaan proyek investasi yang berkelanjutan.",
-        "governance.nonprofit": "Kemitraan dengan sektor ketiga",
-        "governance.nonprofitDesc": "Integrasi dalam inisiatif yang berdampak sosial.",
-        "governance.technical": "Kemitraan Operasional dan Teknologi",
-        "governance.technicalDesc": "Mendukung efisiensi pelaksanaan dan kualitas layanan.",
+        "governance.description": "Kerangka kemitraan dan tata kelola yang memastikan efisiensi pelaksanaan, keberlanjutan dampak, dan kepatuhan terhadap praktik operasional terbaik.",
+
+        "governance.public": "Kemitraan dengan Sektor Publik",
+        "governance.publicDesc": "Melaksanakan proyek dan layanan operasional bagi instansi pemerintah dan lembaga publik.",
+
+        "governance.private": "Kemitraan dengan Sektor Swasta",
+        "governance.privateDesc": "Berkolaborasi dengan perusahaan dan pemasok untuk mengembangkan serta menyediakan layanan dan produk yang berkelanjutan.",
+
+        "governance.nonprofit": "Kemitraan dengan Sektor Nirlaba",
+        "governance.nonprofitDesc": "Bersinergi dengan organisasi dan lembaga nirlaba untuk merencanakan, melaksanakan, dan mengoperasikan inisiatif yang berdampak bagi masyarakat.",
+
+        "governance.technical": "Tata Kelola & Kepatuhan",
+        "governance.technicalDesc": "Menerapkan prosedur operasional dan pengawasan yang menjamin kualitas, kepatuhan, dan transparansi dalam pelaksanaan proyek.",
 
         // PARTNERS Section
         "partner.badge": "Mitra Kami",
