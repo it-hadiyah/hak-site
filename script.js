@@ -84,7 +84,36 @@ The official platforms aim to provide informative content while highlighting the
 The company emphasized that its digital platforms serve as a gateway to showcase its activities and initiatives, while also strengthening communication with partners and entities interested in enhancing services provided to the Guests of God.
 
 This step reflects the company's direction toward building an effective media presence that represents its mission and role in developing initiatives and services related to Hajj and Umrah.`
-        }
+        },
+        {
+            id: 4,
+            title: "هدية الخير تستقبل وفد جمعية منافع لخدمات الحجاج لاستعراض مجالات التعاون الممكنة",
+            title_en: "Hadiyah Alkhair Welcomes Manafea Pilgrims Services Association Delegation to Explore Potential Areas of Cooperation\n",
+            date: "25 يونيو 2026",
+            date_en: "November 15, 2025",
+            category: "المركز الإعلامي",
+            category_en: "Media Center",
+            author: "القسم الإعلامي",
+            author_en: "Media Department",
+            image: "news4.jpeg",
+            content: `استقبلت شركة هدية الخير بمقرها الرئيسي وفداً من جمعية منافع لخدمات الحجاج برئاسة سعادة الشيخ سعد الحماد، الرئيس التنفيذي للجمعية، حيث كان في استقبال الوفد الرئيس التنفيذي م. علاء بن علي القباص، الرئيس التنفيذي لشركة هدية الخير. وجرى خلال الزيارة استعراض أعمال شركة هدية الخير وخبراتها في إدارة وتشغيل المشاريع والخدمات الموسمية وغير الموسمية، إلى جانب التعريف بمجالات عمل الشركة وحلولها التشغيلية والخدمية المقدمة للجهات المختلفة.
+كما اطلع الوفد على عدد من التجارب والخبرات التشغيلية التي نفذتها الشركة، والقدرات التي تمتلكها في إدارة وتشغيل المبادرات والخدمات، بما يسهم في دعم الجهات المستفيدة وتحقيق كفاءة أعلى في التنفيذ والتشغيل. وشهد اللقاء مناقشة عدد من مجالات التعاون الممكنة بين الجانبين، واستعراض الفرص التي يمكن البناء عليها مستقبلاً بما يحقق المصالح المشتركة ويدعم تطوير الخدمات المقدمة لضيوف الرحمن.
+وتضمن برنامج الزيارة جولة في المعرض. وفي ختام الزيارة، اتفق الجانبان على مواصلة التواصل وتبادل المعلومات ذات العلاقة، ودراسة الفرص المطروحة تمهيداً لبحث أوجه التعاون الممكنة خلال المرحلة المقبلة.
+وتأتي هذه الزيارة ضمن جهود شركة هدية الخير للتعريف بخدماتها وخبراتها التشغيلية، وبناء علاقات مهنية مع الجهات ذات العلاقة، واستكشاف فرص التعاون التي تسهم في تطوير الخدمات ورفع كفاءتها وتحقيق قيمة مضافة للمستفيدين.
+`,
+            content_en: `Hadiyah Alkhair welcomed a delegation from the Manafea Pilgrims Services Association at its headquarters, led by H.E. Sheikh Saad Al-Hammad, Chief Executive Officer of the Association. The delegation was received by Eng. Alaa bin Ali Al-Qabbas, Chief Executive Officer of Hadiyah Alkhair.
+
+During the visit, Hadiyah Alkhair presented an overview of its operations and expertise in managing and operating both seasonal and year-round projects and services. The company also showcased its operational capabilities, service solutions, and the range of services it provides to various organizations.
+
+The delegation was introduced to several successful operational projects and initiatives implemented by the company, highlighting its capabilities in managing and operating services and programs that support beneficiary organizations while enhancing operational efficiency and service delivery.
+
+The meeting also included discussions on several potential areas of cooperation and future opportunities that could serve the mutual interests of both parties and contribute to the continuous development of services provided to the Guests of Allah.
+
+The visit included a tour of the company's exhibition. At the conclusion of the meeting, both parties agreed to maintain communication, exchange relevant information, and further study the proposed opportunities as a foundation for future collaboration.
+
+This visit reflects Hadiyah Alkhair's ongoing commitment to introducing its operational expertise, strengthening professional partnerships with relevant organizations, and exploring collaborative opportunities that enhance service quality, improve operational efficiency, and create added value for beneficiaries.`
+        },
+
     ];
 
     // === Language Management ===
