@@ -22,13 +22,17 @@ document.addEventListener('DOMContentLoaded', () => {
     const SUPPORTED_LANGS = Object.keys(LANG_CONFIG);
     let currentLang = localStorage.getItem('siteLang') || 'ar';
     const storeUrl = document.getElementById('store-url');
-    if(storeUrl) {
-    if (currentLang === 'id' || currentLang === 'en') {
-        storeUrl.href = 'https://store.hak.com.sa/?lang=en';
-    } else {
-        storeUrl.href = 'https://store.hak.com.sa/';
-    }
-    }
+    const storeUrlMobile = document.getElementById('store-url-mobile');
+    const updateStoreHref = (el) => {
+        if (!el) return;
+        if (currentLang === 'id' || currentLang === 'en') {
+            el.href = 'https://store.hak.com.sa/?lang=en';
+        } else {
+            el.href = 'https://store.hak.com.sa/';
+        }
+    };
+    updateStoreHref(storeUrl);
+    updateStoreHref(storeUrlMobile);
 
     if (!SUPPORTED_LANGS.includes(currentLang)) {
         currentLang = 'ar';
