@@ -16,6 +16,11 @@ document.addEventListener('DOMContentLoaded', () => {
             label: 'Indonesia',
             dir: 'ltr',
             flag: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="w-5 h-5 rounded-sm shadow-sm" aria-hidden="true"><path fill="#C8414B" d="M473.655 88.276H38.345C17.167 88.276 0 105.443 0 126.621V256h512V126.621c0-21.178-17.167-38.345-38.345-38.345z"/><path fill="#F5F5F5" d="M0 385.379c0 21.177 17.167 38.345 38.345 38.345h435.31c21.177 0 38.345-17.167 38.345-38.345V256H0v129.379z"/></svg>`
+        },
+        fr: {
+            label: 'Français',
+            dir: 'ltr',
+            flag: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="w-5 h-5 rounded-sm shadow-sm" aria-hidden="true"><path fill="#F5F5F5" d="M473.655 88.276H38.345C17.167 88.276 0 105.443 0 126.621v258.759c0 21.177 17.167 38.345 38.345 38.345h435.31c21.177 0 38.345-17.167 38.345-38.345V126.621c0-21.178-17.168-38.345-38.345-38.345z"/><path fill="#41479B" d="M185.478 268.902h-138.26c-4.875 0-8.828-3.953-8.828-8.828V97.103c0-4.876 3.953-8.828 8.828-8.828h138.26c4.875 0 8.828 3.953 8.828 8.828v162.97c0 4.875-3.953 8.828-8.828 8.828z"/><path fill="#FF4B55" d="M473.655 88.276H326.522c-4.875 0-8.828 3.953-8.828 8.828v162.97c0 4.875 3.953 8.828 8.828 8.828h147.133c21.177 0 38.345-17.167 38.345-38.345V126.621c0-21.178-17.168-38.345-38.345-38.345z"/></svg>`
         }
     };
 
@@ -25,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const storeUrlMobile = document.getElementById('store-url-mobile');
     const updateStoreHref = (el) => {
         if (!el) return;
-        if (currentLang === 'id' || currentLang === 'en') {
+        if (currentLang === 'id' || currentLang === 'en' || currentLang === 'fr') {
             el.href = 'https://store.hak.com.sa/?lang=en';
         } else {
             el.href = 'https://store.hak.com.sa/';
@@ -109,7 +114,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const footerDiv = document.querySelector('footer div div');
         if (footerDiv) {
-            footerDiv.classList.toggle('footer-ltr', lang === 'en' || lang === 'id');
+            footerDiv.classList.toggle('footer-ltr', lang === 'en' || lang === 'id' || lang === 'fr');
         }
 
         const metaDesc = document.querySelector('meta[name="description"]');
