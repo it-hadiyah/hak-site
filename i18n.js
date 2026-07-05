@@ -159,11 +159,38 @@ document.addEventListener('DOMContentLoaded', () => {
     // === 6. Mobile Menu Toggle ===
     const mobileMenuBtn = document.getElementById('mobileMenuBtn');
     const mobileMenu = document.getElementById('mobileMenu');
+    const floatingStoreBtn = document.getElementById('floatingStoreBtn');
+
     if (mobileMenuBtn && mobileMenu) {
-        mobileMenuBtn.addEventListener('click', () => mobileMenu.classList.toggle('hidden'));
-        mobileMenu.querySelectorAll('a.nav-link').forEach(link => {
-            link.addEventListener('click', () => mobileMenu.classList.add('hidden'));
+        mobileMenuBtn.addEventListener('click', () => {
+            // تبديل القائمة الجانبية
+            mobileMenu.classList.toggle('hidden');
+
+            // تبديل class على body لإخفاء الزر العائم
+            document.body.classList.toggle('mobile-menu-open');
+
+            // تغيير أيقونة الزر (☰ ↔ ✕)
+            mobileMenuBtn.textContent = mobileMenu.classList.contains('hidden') ? '☰' : '✕';
         });
+
+        // إغلاق القائمة عند الضغط على أي رابط
+        mobileMenu.querySelectorAll('a.nav-link').forEach(link => {
+            link.addEventListener('click', () => {
+                mobileMenu.classList.add('hidden');
+                document.body.classList.remove('mobile-menu-open');
+                mobileMenuBtn.textContent = '☰';
+            });
+        });
+
+        // إغلاق القائمة عند الضغط على زر المتجر داخل القائمة
+        const storeMobileLink = document.getElementById('store-url-mobile');
+        if (storeMobileLink) {
+            storeMobileLink.addEventListener('click', () => {
+                mobileMenu.classList.add('hidden');
+                document.body.classList.remove('mobile-menu-open');
+                mobileMenuBtn.textContent = '☰';
+            });
+        }
     }
 
     // === 7. Smooth Scroll ===
