@@ -91,6 +91,10 @@ const translations = {
         "news3.title": "إطلاق منصات التواصل",
         "news3.desc": "أعلنت شركة هدية الخير عن إطلاق حساباتها الرسمية على منصات التواصل الاجتماعي، وذلك ضمن جهودها لتعزيز حضورها الرقمي والتواصل مع مختلف فئات الجمهور والمهتمين بخدمات ضيوف الرحمن.",
 
+        // News Item 5
+        "news5.title": "هدية الخير توقّع مذكرة تعاون وعقدًا تسويقيًا مع جمعية «رضا»",
+        "news5.desc": "وقّعت شركة هدية الخير مذكرة تعاون وعقدًا تسويقيًا مع جمعية «رضا» بهدف تطوير وتسويق المنتجات الوطنية وتعزيز الشراكات الاستراتيجية لخدمة ضيوف الرحمن.",
+
         // Contact Section
         "contact.badge": "تواصل معنا",
         "contact.title": 'نحن على <span class="text-[#b9995e]">أتم الاستعداد</span>',
@@ -206,8 +210,12 @@ const translations = {
 
         "news3.title": "Hadiyah Alkhair Participates in Hajj Conference & Exhibition to Showcase Its Initiatives and Services",
         "news3.desc": "Hadiyah Alkhair participated in the Hajj Conference & Exhibition through a dedicated pavilion showcasing a range of initiatives and services designed to serve the Guests of Allah.",
-
-
+// News Item 4
+        "news4.title": "Hadiyah Alkhair Welcomes Manafea Pilgrims Services Association Delegation to Explore Potential Areas of Cooperation",
+        "news4.desc": "Hadiyah Alkhair welcomed a delegation from the Manafea Pilgrims Services Association at its headquarters to discuss potential areas of cooperation. During the visit, the company showcased its expertise in managing and operating projects and services, while both parties explored future partnership opportunities aimed at enhancing services for the Guests of Allah and creating mutual value.",
+        // News Item 5
+        "news5.title": "Hadiyah Alkhair Signs Strategic Cooperation and Marketing Agreement with Reda Cooperative Society",
+        "news5.desc": "Hadiyah Alkhair signed a strategic cooperation and marketing agreement with Reda Cooperative Society to develop and market national products while strengthening partnerships that support serving the Guests of Allah.",
         // Contact Section
 
         "contact.badge": "Contact Us",
@@ -319,6 +327,13 @@ const translations = {
         "news2.desc": "Perusahaan Hadiah Al-Khair terus memperkenalkan proyek dan inisiatifnya melalui berbagai saluran media, sebagai bagian dari upayanya untuk meningkatkan kesadaran akan perannya dalam mengembangkan layanan yang diberikan kepada para tamu Allah.",
         "news3.title": "Peluncuran platform komunikasi",
         "news3.desc": "Perusahaan Hadiah Al-Khair mengumumkan peluncuran akun resminya di platform media sosial, sebagai bagian dari upayanya untuk memperkuat kehadiran digital dan berkomunikasi dengan berbagai lapisan masyarakat.",
+        // News Item 4
+        "news4.title": "Hadiah Al-Khair Menerima Kunjungan Delegasi Asosiasi Layanan Jamaah Haji Manafea untuk Menjajaki Peluang Kerja Sama",
+        "news4.desc": "Hadiah Al-Khair menerima kunjungan delegasi dari Asosiasi Layanan Jamaah Haji Manafea di kantor pusatnya untuk membahas berbagai peluang kerja sama. Selama kunjungan, perusahaan mempresentasikan pengalaman dan keahliannya dalam mengelola proyek dan layanan, sementara kedua belah pihak menjajaki peluang kemitraan di masa depan guna meningkatkan layanan bagi para Tamu Allah dan menciptakan nilai tambah bersama.",
+
+        // News Item 5
+        "news5.title": "Hadiah Al-Khair Menandatangani Nota Kerja Sama dan Perjanjian Pemasaran dengan Koperasi Reda",
+        "news5.desc": "Hadiah Al-Khair menandatangani nota kerja sama dan perjanjian pemasaran dengan Koperasi Reda untuk mengembangkan dan memasarkan produk nasional serta memperkuat kemitraan strategis dalam melayani para Tamu Allah.",
 
         // Contact Section
         "contact.badge": "Hubungi Kami",
@@ -424,7 +439,13 @@ const translations = {
 
         "news3.title": "Hadiyah Alkhair participe à la Conférence et Exposition du Hajj pour présenter ses initiatives et services",
         "news3.desc": "Hadiyah Alkhair a participé à la Conférence et Exposition du Hajj à travers un pavillon dédié présentant une gamme d’initiatives et de services conçus pour servir les Invités d’Allah. Lors de cet événement, l’entreprise a présenté son rôle en tant que bras d’investissement de l’Association Hadiyah pour les pèlerins du Hajj et de la Omra, tout en mettant en avant plusieurs projets et initiatives visant à améliorer l’expérience des pèlerins et des visiteurs de la Omra ainsi que la qualité des services qui leur sont offerts.\n\nLe pavillon de l’entreprise a suscité un fort intérêt de la part des visiteurs et des acteurs du secteur du Hajj et de la Omra, où l’équipe a présenté les domaines d’activité de l’entreprise ainsi que les opportunités potentielles de partenariat avec différentes entités.\n\nCette participation reflète les efforts continus de l’entreprise pour faire connaître sa vision et ses projets futurs, tout en renforçant sa présence au sein de l’écosystème des services du Hajj et de la Omra.",
+        // News Item 4
+        "news4.title": "Hadiyah Alkhair accueille une délégation de l’Association Manafea des services aux pèlerins afin d’explorer des perspectives de coopération",
+        "news4.desc": "Hadiyah Alkhair a accueilli à son siège une délégation de l’Association Manafea des services aux pèlerins, conduite par Son Excellence Sheikh Saad Al-Hammad, Directeur général de l’association. La délégation a été reçue par Eng. Alaa bin Ali Al-Qabbas, Directeur général de Hadiyah Alkhair.\n\nAu cours de cette visite, l’entreprise a présenté son expertise dans la gestion et l’exploitation de projets et de services saisonniers ainsi que permanents, tout en mettant en avant ses capacités opérationnelles et les solutions qu’elle propose à ses partenaires.\n\nLes deux parties ont examiné plusieurs opportunités de coopération susceptibles de renforcer les services destinés aux Invités d’Allah et de créer une valeur ajoutée commune.\n\nCette visite s’inscrit dans la volonté de Hadiyah Alkhair de développer des partenariats stratégiques, d’améliorer la qualité des services et d’accroître son impact institutionnel.",
 
+        // News Item 5
+        "news5.title": "Hadiyah Alkhair signe un protocole de coopération et un accord de commercialisation avec la Coopérative Reda",
+        "news5.desc": "Hadiyah Alkhair a signé un protocole de coopération ainsi qu’un accord de commercialisation avec la Coopérative polyvalente Reda dans le gouvernorat d’Al-Jumum, dans le cadre de sa stratégie visant à développer des partenariats durables favorisant le développement et la commercialisation des produits nationaux.\n\nL’accord établit un cadre de coopération dans plusieurs domaines d’intérêt commun, notamment le développement et la promotion des produits nationaux, la mise en œuvre d’initiatives et de projets conjoints, la fourniture de services destinés aux Invités d’Allah, ainsi que l’échange d’expertises et la valorisation des ressources des deux parties afin de créer une valeur ajoutée mutuelle.\n\nCe partenariat devrait renforcer la coopération, améliorer l’efficacité opérationnelle, accroître la qualité des produits et des services, et ouvrir de nouvelles perspectives pour le développement d’initiatives au service des pèlerins, tout en soutenant les objectifs de durabilité et de développement communautaire.\n\nÀ cette occasion, Eng. Alaa bin Ali Al-Qabbas, Directeur général de Hadiyah Alkhair, a souligné que les partenariats stratégiques constituent un pilier essentiel de la croissance durable et de la création d’un impact durable. Il a ajouté que cette coopération avec la Coopérative Reda illustre une complémentarité des expertises et des capacités qui contribuera au développement de produits et de services innovants.\n\nCet accord s’inscrit dans la continuité de l’engagement de Hadiyah Alkhair à établir des partenariats stratégiques qui renforcent la performance, soutiennent le développement des produits et des services, élargissent les opportunités de coopération et contribuent à un impact économique et social durable.",
         // Contact Section
         "contact.badge": "Contactez-nous",
         "contact.title": 'Nous sommes <br><span class="text-[#b9995e]">prêts à vous accompagner</span>',
