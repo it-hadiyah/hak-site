@@ -2276,8 +2276,41 @@
         .h-44 {
             height: 18rem;
         }
+
+        /* زر المتجر العائم للموبايل */
+        #floatingStoreBtn {
+            animation: bounce-slow 3s ease-in-out infinite;
+            box-shadow: 0 10px 25px -5px rgba(185, 153, 94, 0.5),
+            0 8px 10px -6px rgba(185, 153, 94, 0.3);
+        }
+
+        #floatingStoreBtn:hover {
+            transform: translateY(-4px) scale(1.05);
+            box-shadow: 0 20px 35px -5px rgba(185, 153, 94, 0.6),
+            0 15px 15px -6px rgba(185, 153, 94, 0.4);
+        }
+
+        #floatingStoreBtn:active {
+            transform: translateY(0) scale(0.98);
+        }
+
+        @keyframes bounce-slow {
+            0%, 100% {
+                transform: translateY(0);
+            }
+            50% {
+                transform: translateY(-8px);
+            }
+        }
+
+        /* إخفاء الزر عند فتح القائمة الجانبية للموبايل لتجنب التداخل */
+        body.mobile-menu-open #floatingStoreBtn {
+            opacity: 0;
+            pointer-events: none;
+            transform: translateY(20px);
+        }
     </style>
-    <meta name="google-site-verification" content="9OEegUX6vW_fQhYjES5pzV-NfFaE0LN5r7r_Z_9QPxA" />
+
 </head>
 <body class="text-gray-800" cz-shortcut-listen="true">
 
@@ -2347,16 +2380,13 @@
                         <img src="saudi-arabia.svg" alt="Saudi Arabia Flag" class="h-5 w-5 object-contain">
                     </span>
                         <span class="font-bold text-gray-700">العربية</span>
-
                     </button>
                     <button data-lang="en"
                             class="lang-option w-full flex items-center gap-3 px-4 py-3 hover:bg-[#017768]/5 transition text-right rtl:text-right ltr:text-left">
-
                     <span class="text-xl">
                         <img src="usa.svg" alt="Usa Flag" class="h-5 w-5 object-contain">
                     </span>
                         <span class="font-bold text-gray-700">English</span>
-
                     </button>
                     <button data-lang="id"
                             class="lang-option w-full flex items-center gap-3 px-4 py-3 hover:bg-[#017768]/5 transition text-right rtl:text-right ltr:text-left">
@@ -2364,7 +2394,14 @@
                         <img src="indonesia.svg" alt="Indonesia Flag" class="h-5 w-5 object-contain">
                     </span>
                         <span class="font-bold text-gray-700">Indonesia</span>
-
+                    </button>
+                    <!-- === القسم الجديد: اللغة الفرنسية (FR) === -->
+                    <button data-lang="fr"
+                            class="lang-option w-full flex items-center gap-3 px-4 py-3 hover:bg-[#017768]/5 transition text-right rtl:text-right ltr:text-left">
+                   <span class="text-xl">
+                        <img src="france.svg" alt="France Flag" class="h-5 w-5 object-contain">
+                    </span>
+                        <span class="font-bold text-gray-700">Français</span>
                     </button>
                 </div>
             </div>
@@ -2388,13 +2425,22 @@
                 العمل</a>
             <a class="nav-link text-gray-700 hover:text-[#017768]" href="#governance" data-i18n="nav.governance">الشراكات
                 والحوكمة</a>
+            <a class="nav-link text-gray-700 hover:text-[#017768]" href="#partners" data-i18n="nav.partner">شركاؤنا</a>
             <a class="nav-link text-gray-700 hover:text-[#017768]" href="#media" data-i18n="nav.media">المركز
                 الإعلامي</a>
             <a class="nav-link text-gray-700 hover:text-[#017768]" href="#contact" data-i18n="nav.contact">تواصل
                 معنا</a>
 
-            <!-- Mobile Language Selector (Flat List - No Duplicate IDs) -->
-
+            <!-- Store Button (Mobile) -->
+            <a id="store-url-mobile" href="https://store.hak.com.sa/"
+               class="flex items-center justify-center gap-2 px-5 py-2.5 rounded-full bg-[#b9995e] text-white hover:bg-[#a8864f] transition duration-300 shadow-md hover:shadow-lg mt-2">
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                    <path d="M6 6h15l-1.5 9h-13z"></path>
+                    <circle cx="9" cy="20" r="1"></circle>
+                    <circle cx="18" cy="20" r="1"></circle>
+                </svg>
+                <span data-i18n="nav.store">المتجر</span>
+            </a>
 
             <!-- Mobile Language Selector (Segmented Control) -->
             <div class="pt-4 mt-3 border-t border-gray-100">
@@ -2417,6 +2463,12 @@
                         <img src="indonesia.svg" alt="ID" class="w-4 h-4 object-contain">
                         <span>Indonesia</span>
                     </button>
+                    <!-- === القسم الجديد: اللغة الفرنسية (FR) === -->
+                    <button data-lang="fr"
+                            class="lang-option-mobile flex-1 flex items-center justify-center gap-2 py-2.5 rounded-lg text-sm font-bold transition-all duration-200">
+                        <img src="france.svg" alt="FR" class="w-4 h-4 object-contain">
+                        <span>Français</span>
+                    </button>
                 </div>
             </div>
         </div>
@@ -2424,7 +2476,6 @@
 
 
 </header>
-
 <!-- Main Content -->
 <main class="pt-16">
 
@@ -2697,7 +2748,16 @@
                     <div class="partner-card">
                         <img src="images/partners/partner10.jpeg" alt="">
                     </div>
+                    <div class="partner-card">
+                        <img src="images/partners/partner12.jpeg" alt="">
+                    </div>
 
+                    <div class="partner-card">
+                        <img src="images/partners/partner13.jpeg" alt="">
+                    </div>
+                    <div class="partner-card">
+                        <img src="images/partners/partner14.jpeg" alt="">
+                    </div>
                     <!-- تكرار الشعارات للحركة اللانهائية -->
 
                     <div class="partner-card">
@@ -2739,7 +2799,15 @@
                     <div class="partner-card">
                         <img src="images/partners/partner10.jpeg" alt="">
                     </div>
-
+                    <div class="partner-card">
+                        <img src="images/partners/partner12.jpeg" alt="">
+                    </div>
+                    <div class="partner-card">
+                        <img src="images/partners/partner13.jpeg" alt="">
+                    </div>
+                    <div class="partner-card">
+                        <img src="images/partners/partner14.jpeg" alt="">
+                    </div>
                 </div>
 
             </div>
@@ -2883,6 +2951,46 @@
                             <a href="news.html?id=4"
                                class="px-4 py-2 rounded-xl bg-[#017768] text-white font-extrabold shadow-lg hover:shadow-xl transition"
                                data-i18n="media.readMore">المزيد</a>
+                        </div>
+                    </div>
+                </article>
+                <!-- News Item 5 -->
+                <article
+                        class="rounded-2xl overflow-hidden bg-white border border-gray-100 shadow-sm hover:shadow-md transition"
+                        data-news-id="5">
+                    <div class="h-44 bg-gray-100" style="height: 18rem;">
+                        <a href="news.html?id=5" target="_blank">
+                            <img src="news5.jpeg"
+                                 alt="هدية الخير توقّع مذكرة تعاون مع جمعية رضا"
+                                 class="w-full h-full object-contain"
+                                 loading="lazy"
+                                 data-i18n-alt="news5.alt">
+                        </a>
+                    </div>
+
+                    <div class="p-6">
+                        <div class="flex items-center justify-between gap-3 mb-3 text-sm font-bold">
+            <span class="px-3 py-1 rounded-full bg-[#007361]/10 text-[#007361]"
+                  data-i18n="media.category">المركز الإعلامي</span>
+                            <span class="text-gray-500">23 يوليو 2026</span>
+                        </div>
+
+                        <h3 class="text-lg font-extrabold text-[#007361] mb-2"
+                            data-i18n="news5.title">
+                            هدية الخير توقّع مذكرة تعاون وعقدًا تسويقيًا مع جمعية «رضا»
+                        </h3>
+
+                        <p class="text-gray-600 leading-relaxed line-clamp-3"
+                           data-i18n="news5.desc">
+                            وقّعت شركة هدية الخير مذكرة تعاون وعقدًا تسويقيًا مع جمعية «رضا» بهدف تطوير وتسويق المنتجات الوطنية وتعزيز الشراكات الاستراتيجية لخدمة ضيوف الرحمن.
+                        </p>
+
+                        <div class="mt-4 flex justify-center">
+                            <a href="news.html?id=5"
+                               class="px-4 py-2 rounded-xl bg-[#017768] text-white font-extrabold shadow-lg hover:shadow-xl transition"
+                               data-i18n="media.readMore">
+                                المزيد
+                            </a>
                         </div>
                     </div>
                 </article>
@@ -3209,7 +3317,7 @@
             style="width: 100%; height: 100%; border: none;"></iframe>
 </div>
 <div style="position: absolute; border: 1px solid rgb(255, 0, 0);"></div>
-</body>
+
 <div mx-name="view-image-info">
     <template shadowrootmode="closed">
         <style> #view_info_box {
@@ -3368,6 +3476,30 @@
         </div>
     </template>
 </div>
+<!-- Floating Store Button (Mobile Only) -->
+<!-- Floating Store Button (Mobile Only) -->
+<a href="https://store.hak.com.sa/"
+   id="floatingStoreBtn"
+   class="md:hidden fixed bottom-6 end-6 z-40 flex items-center gap-3
+          bg-gradient-to-l from-[#b9995e] to-[#a8864f] text-white
+          px-5 py-3 rounded-full shadow-2xl hover:shadow-2xl
+          transition-all duration-300 animate-bounce-slow"
+   aria-label="المتجر الإلكتروني">
+
+    <!-- أيقونة السلة مع تأثير نبض -->
+    <span class="relative flex h-6 w-6">
+        <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-white opacity-40"></span>
+        <svg class="relative w-6 h-6 text-white" fill="none" stroke="currentColor" stroke-width="2.5"
+             viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round"
+                  d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z"/>
+        </svg>
+    </span>
+
+    <!-- النص -->
+    <span class="font-bold text-sm tracking-wide" data-i18n="nav.store">المتجر</span>
+</a>
+
 <script>
     document.getElementById("year").textContent = new Date().getFullYear();
 </script>
@@ -3396,8 +3528,10 @@
         const duration = Math.max(20, cards.length * 2.5);
         track.style.setProperty('--duration', `${duration}s`);
     });
+
 </script>
 <script src="translations.js"></script>
 <script src="script.js"></script>
 <script src="i18n.js"></script>
+</body>
 </html>

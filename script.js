@@ -113,7 +113,44 @@ The visit included a tour of the company's exhibition. At the conclusion of the 
 
 This visit reflects Hadiyah Alkhair's ongoing commitment to introducing its operational expertise, strengthening professional partnerships with relevant organizations, and exploring collaborative opportunities that enhance service quality, improve operational efficiency, and create added value for beneficiaries.`
         },
+        {
+            id: 5,
+            title: "هدية الخير توقّع مذكرة تعاون وعقدًا تسويقيًا مع جمعية «رضا» لتعزيز تطوير وتسويق المنتجات الوطنية",
+            title_en: "Hadiyah Alkhair Signs Strategic Cooperation and Marketing Agreement with Reda Cooperative Society to Develop and Market National Products",
+            date: "23 يوليو 2026",
+            date_en: "July 23, 2026",
+            category: "المركز الإعلامي",
+            category_en: "Media Center",
+            author: "القسم الإعلامي",
+            author_en: "Media Department",
+            image: "news5.jpeg",
+            content: `وقّعت شركة هدية الخير مذكرة تعاون وعقدًا تسويقيًا مع الجمعية التعاونية متعددة الأغراض "رضا" بمحافظة الجموم، في إطار توجهها نحو بناء شراكات استراتيجية تسهم في تطوير المنتجات والخدمات، وتعزيز التكامل بين القطاعين الاستثماري والتعاوني.
 
+وتُعد شركة هدية الخير الذراع التنفيذي والاستثماري لجمعية هدية الحاج والمعتمر، حيث تعمل على تطوير وتشغيل المشاريع والاستثمارات، وبناء الشراكات، وتقديم الحلول التشغيلية والتجارية التي تسهم في تحقيق الاستدامة المالية وتعظيم الأثر المؤسسي.
+
+وتهدف الاتفاقية إلى إرساء إطار للتعاون بين الطرفين في عدد من المجالات ذات الاهتمام المشترك، تشمل تطوير وتسويق المنتجات الوطنية، وتنفيذ المبادرات والمشاريع المشتركة، وتقديم خدمات موجهة لضيوف الرحمن، إلى جانب تبادل الخبرات والاستفادة من الإمكانات المتاحة لدى الجانبين بما يسهم في تحقيق قيمة مضافة للطرفين.
+
+ومن المتوقع أن تسهم هذه الشراكة في توسيع نطاق التعاون، وتعزيز كفاءة التشغيل، ورفع جودة المنتجات والخدمات، وفتح آفاق جديدة لتطوير مبادرات ومشاريع تخدم ضيوف الرحمن، وتدعم مستهدفات الاستدامة والتنمية المجتمعية.
+
+وفي هذه المناسبة، أكد الرئيس التنفيذي لشركة هدية الخير، المهندس علاء بن علي القباص، أن الشركة تنظر إلى الشراكات الاستراتيجية بوصفها ركيزة أساسية لتحقيق النمو المستدام وتعظيم الأثر، وليست مجرد اتفاقيات رسمية، مشيرًا إلى أن التعاون مع جمعية "رضا" يجسد تكاملًا بين الخبرات والإمكانات بما ينعكس على تطوير منتجات وخدمات نوعية.
+
+وأضاف: "نؤمن في هدية الخير بأن الشراكات الناجحة تُبنى على تكامل الأدوار وتبادل الخبرات، وهذه الاتفاقية تمثل خطوة عملية نحو تطوير منتجات وطنية وخدمات مبتكرة، وتعزيز فرص التعاون بما يحقق قيمة مستدامة للطرفين، ويسهم في دعم المبادرات والمشاريع الموجهة لخدمة ضيوف الرحمن."
+
+وتأتي هذه الاتفاقية امتدادًا لنهج شركة هدية الخير في بناء شراكات نوعية مع الجهات ذات العلاقة، بما يعزز من كفاءة الأداء، ويدعم تطوير المنتجات والخدمات، ويوسّع مجالات التعاون بما يسهم في تحقيق الاستدامة وتعظيم الأثر الاقتصادي والاجتماعي.`,
+            content_en: `Hadiyah Alkhair signed a Memorandum of Cooperation and a marketing agreement with the Reda Multi-Purpose Cooperative Society in Al-Jumum Governorate as part of its strategy to build impactful partnerships that foster product development, enhance services, and strengthen collaboration between the investment and cooperative sectors.
+
+Hadiyah Alkhair serves as the executive and investment arm of the Hadiyah Hajj and Umrah Gift Association, focusing on developing and operating investment projects, establishing strategic partnerships, and delivering operational and commercial solutions that promote financial sustainability and maximize institutional impact.
+
+The agreement establishes a framework for cooperation in several areas of mutual interest, including the development and marketing of national products, implementation of joint initiatives and projects, delivery of services for the Guests of Allah, and the exchange of expertise and resources to create added value for both organizations.
+
+The partnership is expected to expand future cooperation, improve operational efficiency, enhance the quality of products and services, and open new opportunities for initiatives that serve pilgrims while supporting sustainability and community development goals.
+
+On this occasion, Eng. Alaa bin Ali Al-Qabbas, Chief Executive Officer of Hadiyah Alkhair, stated that the company views strategic partnerships as a cornerstone for sustainable growth and long-term impact rather than merely formal agreements. He noted that the cooperation with Reda Cooperative Society represents a practical integration of expertise and capabilities that will contribute to the development of high-quality products and services.
+
+He added: "At Hadiyah Alkhair, we believe successful partnerships are built on complementary roles and the exchange of expertise. This agreement represents a practical step toward developing innovative national products and services, expanding cooperation opportunities, creating sustainable value for both parties, and supporting initiatives dedicated to serving the Guests of Allah."
+
+This agreement reflects Hadiyah Alkhair's continued commitment to establishing strategic partnerships that improve operational excellence, support the development of products and services, expand collaboration opportunities, and contribute to long-term economic and social impact.`
+        },
     ];
 
     // === Language Management ===
