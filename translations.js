@@ -17,7 +17,7 @@ const translations = {
 
         // Hero Section
         "hero.title": 'استثمارات مستدامة لخدمة <span class="text-[#b9995e]">ضيوف الرحمن</span>',
-        "hero.description": "شركة هدية الخير الاستثمارية هي الذراع الاستثماري والتنفيذي لجمعية هدية الحاج والمعتمر، ونسعى إلى تحقيق الاستدامة المالية وتطوير مشاريع نوعية تُسهم في الارتقاء بالخدمات المقدمة لضيوف الرحمن.",
+        "hero.description": "شركة هدية الخير هي الذراع الاستثماري والتنفيذي لجمعية هدية الحاج والمعتمر، نسعى في الشركة لتحقيق الاستدامة المالية وتطوير المشاريع النوعية والتي تسهم في الارتقاء بالخدمات المقدمة لضيوف الرحمن",
         "hero.btnLearn": "اعرف المزيد",
         "hero.btnContact": "تواصل معنا",
 
@@ -128,7 +128,7 @@ const translations = {
 
         // Hero Section
         "hero.title": 'Sustainable Investments to Serve <br> <span class="text-[#b9995e]">Guests of Allah</span>',
-        "hero.description": "Hadiyah Alkhair Investment Company is the investment and operational arm of the Haji and Mu’tamer Hadiyah Association. We strive to achieve financial sustainability and develop impactful projects that contribute to enhancing the quality of services provided to the Guests of Allah.",
+        "hero.description": "Hadiyah Alkhair is the investment and operational arm of the Haji and Mu’tamer Hadiyah Association. Here at the company, we strive to achieve financial sustainability and develop high-quality projects that contribute to enhancing the services provided to the Guests of Allah.",
         "hero.btnLearn": "Learn More",
         "hero.btnContact": "Contact Us",
 
@@ -248,7 +248,7 @@ const translations = {
 
         // Hero Section
         "hero.title": 'Investasi berkelanjutan untuk melayani <br> <span class="text-[#b9995e]">jamaah haji dan umrah</span>',
-        "hero.description": "PT Hadiah Al-Khair Investasi adalah lengan investasi dan operasional dari Yayasan Hadiah Jamaah Haji dan Umrah. Kami berupaya mencapai keberlanjutan finansial dan mengembangkan proyek-proyek berkualitas yang berkontribusi pada peningkatan layanan yang diberikan kepada jamaah haji dan umrah.",
+        "hero.description": "Hadiah Al-Khair adalah lengan investasi dan operasional dari Yayasan Hadiah Jamaah Haji dan Umrah. Di perusahaan ini, kami berupaya mencapai keberlanjutan finansial dan mengembangkan proyek-proyek berkualitas yang berkontribusi pada peningkatan layanan yang diberikan kepada jamaah haji dan umrah.",
         "hero.btnLearn": "Pelajari lebih lanjut",
         "hero.btnContact": "Hubungi kami",
 
@@ -357,7 +357,7 @@ const translations = {
 
         // Hero Section
         "hero.title": 'Des investissements durables au service <br> <span class="text-[#b9995e]">des Invités d’Allah</span>',
-        "hero.description": "Hadiyah Alkhair Investment Company constitue le bras d’investissement et d’exploitation de l’Association Hadiyah pour les pèlerins du Hajj et de la Omra. Elle œuvre à renforcer la durabilité financière et à développer des projets à fort impact, contribuant à l’amélioration de la qualité des services offerts aux Invités d’Allah.",
+        "hero.description": "Hadiyah Alkhair constitue le bras d’investissement et d’exploitation de l’Association Hadiyah pour les pèlerins du Hajj et de la Omra. Au sein de l’entreprise, nous nous efforçons d’assurer la durabilité financière et de développer des projets de qualité qui contribuent à l’amélioration des services offerts aux Invités d’Allah.",
         "hero.btnLearn": "En savoir plus",
         "hero.btnContact": "Contactez-nous",
 
