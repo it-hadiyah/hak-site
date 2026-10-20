@@ -95,6 +95,12 @@ const translations = {
         "news5.title": "هدية الخير توقّع مذكرة تعاون وعقدًا تسويقيًا مع جمعية «رضا»",
         "news5.desc": "وقّعت شركة هدية الخير مذكرة تعاون وعقدًا تسويقيًا مع جمعية «رضا» بهدف تطوير وتسويق المنتجات الوطنية وتعزيز الشراكات الاستراتيجية لخدمة ضيوف الرحمن.",
 
+        // News Item 6
+        "news6.title": "لماذا لا تكفي أعداد الحجاج والمعتمرين لقياس الفرص الاستثمارية؟",
+        "news6.desc": "أعداد الحجاج والمعتمرين مؤشر على حجم النشاط، لكنها ليست مقياسًا كافيًا للفرصة الاستثمارية. قراءة في الفرق بين حجم السوق والطلب القابل للخدمة، ومن يشتري فعلًا، وأثر المواسم على الجدوى.",
+        "news6.category": "مقالات",
+        "news6.alt": "مقال: لماذا لا تكفي أعداد الحجاج والمعتمرين لقياس الفرص الاستثمارية؟",
+
         // Contact Section
         "contact.badge": "تواصل معنا",
         "contact.title": 'نحن على <span class="text-[#b9995e]">أتم الاستعداد</span>',
@@ -216,6 +222,13 @@ const translations = {
         // News Item 5
         "news5.title": "Hadiyah Alkhair Signs Strategic Cooperation and Marketing Agreement with Reda Cooperative Society",
         "news5.desc": "Hadiyah Alkhair signed a strategic cooperation and marketing agreement with Reda Cooperative Society to develop and market national products while strengthening partnerships that support serving the Guests of Allah.",
+
+        // News Item 6
+        "news6.title": "Why Don't Pilgrim and Umrah Visitor Numbers Alone Measure Investment Opportunities?",
+        "news6.desc": "Pilgrim and Umrah visitor numbers indicate the scale of activity, but they are not enough to measure an investment opportunity. A look at the gap between market size and serviceable demand, who actually buys, and how seasonality affects feasibility.",
+        "news6.category": "Articles",
+        "news6.alt": "Article: Why Don't Pilgrim and Umrah Visitor Numbers Alone Measure Investment Opportunities?",
+
         // Contact Section
 
         "contact.badge": "Contact Us",
@@ -335,6 +348,12 @@ const translations = {
         "news5.title": "Hadiah Al-Khair Menandatangani Nota Kerja Sama dan Perjanjian Pemasaran dengan Koperasi Reda",
         "news5.desc": "Hadiah Al-Khair menandatangani nota kerja sama dan perjanjian pemasaran dengan Koperasi Reda untuk mengembangkan dan memasarkan produk nasional serta memperkuat kemitraan strategis dalam melayani para Tamu Allah.",
 
+        // News Item 6
+        "news6.title": "Mengapa Jumlah Jemaah Haji dan Umrah Tidak Cukup untuk Mengukur Peluang Investasi?",
+        "news6.desc": "Jumlah jemaah haji dan umrah merupakan indikator skala aktivitas, tetapi tidak cukup untuk mengukur peluang investasi. Sebuah tinjauan tentang perbedaan antara ukuran pasar dan permintaan yang dapat dilayani, siapa yang benar-benar membeli, serta dampak musim terhadap kelayakan.",
+        "news6.category": "Artikel",
+        "news6.alt": "Artikel: Mengapa Jumlah Jemaah Haji dan Umrah Tidak Cukup untuk Mengukur Peluang Investasi?",
+
         // Contact Section
         "contact.badge": "Hubungi Kami",
         "contact.title": 'Kami <br><span class="text-[#b9995e]">siap sepenuhnya</span>',
@@ -446,6 +465,13 @@ const translations = {
         // News Item 5
         "news5.title": "Hadiyah Alkhair signe un protocole de coopération et un accord de commercialisation avec la Coopérative Reda",
         "news5.desc": "Hadiyah Alkhair a signé un protocole de coopération ainsi qu’un accord de commercialisation avec la Coopérative polyvalente Reda dans le gouvernorat d’Al-Jumum, dans le cadre de sa stratégie visant à développer des partenariats durables favorisant le développement et la commercialisation des produits nationaux.\n\nL’accord établit un cadre de coopération dans plusieurs domaines d’intérêt commun, notamment le développement et la promotion des produits nationaux, la mise en œuvre d’initiatives et de projets conjoints, la fourniture de services destinés aux Invités d’Allah, ainsi que l’échange d’expertises et la valorisation des ressources des deux parties afin de créer une valeur ajoutée mutuelle.\n\nCe partenariat devrait renforcer la coopération, améliorer l’efficacité opérationnelle, accroître la qualité des produits et des services, et ouvrir de nouvelles perspectives pour le développement d’initiatives au service des pèlerins, tout en soutenant les objectifs de durabilité et de développement communautaire.\n\nÀ cette occasion, Eng. Alaa bin Ali Al-Qabbas, Directeur général de Hadiyah Alkhair, a souligné que les partenariats stratégiques constituent un pilier essentiel de la croissance durable et de la création d’un impact durable. Il a ajouté que cette coopération avec la Coopérative Reda illustre une complémentarité des expertises et des capacités qui contribuera au développement de produits et de services innovants.\n\nCet accord s’inscrit dans la continuité de l’engagement de Hadiyah Alkhair à établir des partenariats stratégiques qui renforcent la performance, soutiennent le développement des produits et des services, élargissent les opportunités de coopération et contribuent à un impact économique et social durable.",
+
+        // News Item 6
+        "news6.title": "Pourquoi le nombre de pèlerins du Hajj et de la Omra ne suffit-il pas à mesurer les opportunités d'investissement ?",
+        "news6.desc": "Le nombre de pèlerins du Hajj et de la Omra indique l'ampleur de l'activité, mais il ne suffit pas à mesurer une opportunité d'investissement. Un regard sur l'écart entre la taille du marché et la demande réellement servable, sur qui achète vraiment et sur l'impact des saisons sur la faisabilité.",
+        "news6.category": "Articles",
+        "news6.alt": "Article : Pourquoi le nombre de pèlerins du Hajj et de la Omra ne suffit-il pas à mesurer les opportunités d'investissement ?",
+
         // Contact Section
         "contact.badge": "Contactez-nous",
         "contact.title": 'Nous sommes <br><span class="text-[#b9995e]">prêts à vous accompagner</span>',
@@ -476,6 +502,7 @@ const newsTranslations = {
         "news.backBtn": "رجوع",
         "news.category": "المركز الإعلامي",
         "news.publishedBy": "نشر بواسطة القسم الإعلامي",
+        "news.byline": "بقلم",
         "news.share": "مشاركة الخبر",
         "news.copyLink": "نسخ الرابط",
         "news.linkCopied": "تم نسخ الرابط!",
@@ -493,6 +520,7 @@ const newsTranslations = {
         "news.backBtn": "Back",
         "news.category": "Media Center",
         "news.publishedBy": "Published by the Media Department",
+        "news.byline": "By",
         "news.share": "Share Article",
         "news.copyLink": "Copy Link",
         "news.linkCopied": "Link copied!",
@@ -510,6 +538,7 @@ const newsTranslations = {
         "news.backBtn": "Kembali",
         "news.category": "Pusat Media",
         "news.publishedBy": "Diterbitkan oleh Bagian Media",
+        "news.byline": "Oleh",
         "news.share": "Bagikan Artikel",
         "news.copyLink": "Salin Tautan",
         "news.linkCopied": "Tautan disalin!",
@@ -527,6 +556,7 @@ const newsTranslations = {
         "news.backBtn": "Retour",
         "news.category": "Centre des médias",
         "news.publishedBy": "Publié par le département des médias",
+        "news.byline": "Par",
         "news.share": "Partager l'article",
         "news.copyLink": "Copier le lien",
         "news.linkCopied": "Lien copié !",
