@@ -523,50 +523,228 @@ date: "28 أكتوبر 2026",
 date_en: "October 28, 2026",
 category: "مقالات",
 category_en: "Articles",
-author: "علاء بن علي القباص",
-author_en: "Alaa bin Ali Al-Qabbas",
-subtitle: "الرئيس التنفيذي لشركة هدية الخير",
-subtitle_en: "Chief Executive Officer of Hadiyah Alkhair",
+author: "المهندس علاء بن علي القباص",
+author_en: "Eng. Alaa bin Ali Al-Qabbas",
+subtitle: "سلسلة: رؤى في اقتصاد الحج والعمرة",
+subtitle_en: "Insights into the Hajj and Umrah Economy | Article 2",
 image: "images/blog-7.jpeg",
 image_en: "images/blog-7.jpeg-en.jpeg",
-content: `يمثل الحج والعمرة فرصة اقتصادية واسعة، لكن بناء استثمار مستدام يتطلب تجاوز الاعتماد على مواسم الذروة، والنظر إلى احتياجات ضيوف الرحمن بوصفها أساسًا لأعمال قابلة للاستمرار والنمو طوال العام.
+content: `سلسلة: رؤى في اقتصاد الحج والعمرة
 
-## من النشاط الموسمي إلى نموذج أعمال مستدام
+بقلم: المهندس علاء بن علي القباص
 
-لا يكفي أن يحقق المشروع مبيعات مرتفعة خلال موسم قصير؛ إذ ينبغي أن يغطي تكاليفه والتزاماته التشغيلية في بقية العام أيضًا. ويبدأ ذلك بتحديد احتياج حقيقي يمكن خدمته، ثم بناء نموذج أعمال يوازن بين الطلب المتوقع والتكاليف والقدرة على التنفيذ.
+الرئيس التنفيذي لشركة هدية الخير
 
-## فهم السوق قبل التوسع
+يرتبط الحديث عن اقتصاد الحج والعمرة غالبًا بالمواسم التي تشهد ارتفاعًا في الطلب على الخدمات والمنتجات، وما يصاحبها من نشاط تجاري وتشغيلي واسع. ومن الطبيعي أن تحظى هذه الفترات باهتمام المستثمرين والشركات، نظرًا لما تمثله من فرص لتقديم الخدمات وتلبية احتياجات ضيوف الرحمن.
 
-تختلف احتياجات الحجاج والمعتمرين والجهات التي تقدم لهم الخدمات، كما تختلف قرارات الشراء وقنوات الوصول إلى العملاء. لذلك يحتاج المستثمر إلى تحديد الشريحة المستهدفة، وفهم سلوكها الشرائي، واختبار الطلب والأسعار قبل توسيع نطاق المشروع أو الاستثمار في طاقة تشغيلية أكبر.
+لكن النظر إلى اقتصاد الحج والعمرة من زاوية المواسم وحدها قد يحجب جانبًا مهمًا من إمكاناته الاستثمارية.
 
-## تنويع الإيرادات وتطوير القدرات
+فالسؤال الذي يستحق اهتمام المستثمر لا يقتصر على حجم النشاط التجاري خلال الموسم، بل يمتد إلى كيفية بناء أعمال قادرة على الاستمرار والتطور والاستفادة من قدراتها التشغيلية والتجارية على مدار العام.
 
-يساعد تنويع المنتجات والخدمات وقنوات البيع على الحد من ارتباط الإيرادات بموسم واحد. كما أن تطوير القدرات التشغيلية، وإدارة الموارد بكفاءة، والاستفادة من الطلب الممتد على مدار العام، يعزز مرونة المشروع وقدرته على مواجهة تغيرات السوق.
+وهنا يظهر الفرق بين الاستثمار في موسم، والاستثمار في منظومة اقتصادية.
 
-## الشراكات تصنع قيمة مستدامة
+## الموسم فرصة... لكنه ليس نموذج أعمال
 
-تتيح الشراكات مع الجهات المنظمة ومقدمي الخدمات والقطاع غير الربحي الوصول إلى شرائح أوسع وتبادل الخبرات وتطوير حلول أكثر تكاملًا. وعندما تقوم الشراكة على أدوار واضحة ومصالح متوازنة، فإنها تدعم نمو الأعمال وتعزز أثرها الاقتصادي والاجتماعي.
+قد تحقق بعض الأنشطة التجارية إيرادات جيدة خلال فترات الذروة، لكن ارتفاع المبيعات في فترة محدودة لا يعني بالضرورة امتلاك المشروع نموذج أعمال مستدامًا.
 
-إن الانتقال من اقتصاد المواسم إلى اقتصاد الأعمال لا يعني إلغاء أهمية المواسم، بل تحويل فرصها إلى نقطة انطلاق لبناء أعمال ذات طلب متجدد، وإيرادات متنوعة، وقدرات تشغيلية قابلة للنمو. وبهذا يمكن للاستثمار في الحج والعمرة أن يحقق استدامة اقتصادية وأثرًا مستمرًا في خدمة ضيوف الرحمن.`,
-content_en: `Hajj and Umrah represent a broad economic opportunity, but sustainable investment requires moving beyond dependence on peak seasons and building businesses around the needs of the Guests of God that can continue and grow throughout the year.
+فالمشروع الذي يعتمد على موسم قصير يحتاج إلى احتساب التكاليف التي يتحملها طوال العام، بما فيها الأصول والمعدات والموارد البشرية والتخزين والصيانة والتمويل.
 
-## From seasonal activity to a sustainable business model
+وقد تبدو الإيرادات الموسمية جذابة عند النظر إليها بصورة مستقلة، بينما تختلف الصورة عند احتساب التكلفة السنوية الكاملة والعائد على رأس المال المستثمر.
 
-High sales during a short season are not enough; a project must also cover its costs and operating commitments during the rest of the year. This starts with identifying a genuine need, then building a business model that balances expected demand, costs, and the ability to deliver.
+لذلك فإن أحد الأسئلة المهمة عند دراسة الاستثمار هو: هل نؤسس مشروعًا يعمل خلال الموسم فقط، أم نبني قدرات يمكن استخدامها في أنشطة وأسواق أخرى؟
 
-## Understand the market before expanding
+الإجابة عن هذا السؤال قد تؤثر في طبيعة الأصول التي نشتريها، والكوادر التي نوظفها، والشراكات التي نطورها، وحتى في الطريقة التي نصمم بها منتجاتنا وخدماتنا.
 
-Pilgrims, Umrah visitors, and the organizations serving them have different needs, purchasing decisions, and ways of reaching providers. Investors should identify their target segment, understand its purchasing behavior, and test demand and pricing before expanding a project or investing in greater operating capacity.
+## الاستثمار في القدرات قبل الاستثمار في المبيعات
 
-## Diversify revenue and build capabilities
+من وجهة نظري، من المهم أن تتجاوز بعض المشاريع في قطاع الحج والعمرة التفكير في المبيعات الموسمية إلى التفكير في القدرات التجارية والتشغيلية التي يمكن تطويرها والاستفادة منها بصورة أوسع.
 
-Diversifying products, services, and sales channels can reduce reliance on a single season. Stronger operational capabilities, efficient resource management, and serving demand throughout the year also make a business more resilient to market changes.
+فعلى سبيل المثال، يمكن دراسة مشروع لتجهيز الوجبات ليس فقط من زاوية الطلب خلال موسم الحج، بل من زاوية قدرته على خدمة عملاء مؤسسيين آخرين خلال بقية العام، متى ما سمحت طبيعة المشروع وقدراته ومتطلبات السوق بذلك.
 
-## Partnerships create sustainable value
+والأمر نفسه ينطبق على أنشطة التعبئة والتغليف والتوزيع والخدمات اللوجستية والمنتجات والهدايا والحلول الرقمية.
 
-Partnerships with organizers, service providers, and the nonprofit sector can open access to broader customer groups, facilitate knowledge sharing, and support more integrated solutions. With clear roles and balanced interests, partnerships can drive business growth and strengthen economic and social impact.
+فالأصول والأنظمة والخبرات التي تُبنى لخدمة طلب موسمي قد تمثل أساسًا لأنشطة تجارية أخرى، بشرط وجود طلب فعلي وجدوى اقتصادية وقدرة تشغيلية مناسبة.
 
-Moving from a seasonal economy to a business economy does not mean overlooking the importance of peak seasons. It means using them as a starting point for building businesses with recurring demand, diversified revenue, and scalable operations. This is how investment in Hajj and Umrah can achieve economic sustainability and lasting impact in serving the Guests of God.`
+وهذا لا يعني أن تنويع النشاط يضمن النجاح، بل إن قابلية استخدام القدرات في أكثر من سوق تستحق أن تكون أحد معايير دراسة الفرص الاستثمارية.
+
+## تنويع العملاء يقلل الاعتماد على مصدر واحد للإيرادات
+
+من التحديات التي قد تواجه الأعمال المرتبطة بالمواسم اعتمادها على شريحة محدودة من العملاء أو فترة زمنية واحدة لتحقيق الجزء الأكبر من إيراداتها.
+
+ويمكن أن يسهم تنويع شرائح العملاء وقنوات البيع في تحسين توزيع الإيرادات وتقليل درجة الاعتماد على نشاط واحد، وإن كان ذلك يتطلب إدارة جيدة للتكاليف والعمليات.
+
+فالشركة التي تقدم منتجات موجهة للحجاج والمعتمرين قد تدرس أيضًا فرص البيع المؤسسي، أو تطوير منتجات تلبي احتياجات قطاعات أخرى، أو إنشاء قنوات توزيع تستفيد منها خارج فترات الذروة.
+
+وكذلك يمكن للشركات التشغيلية أن تبحث عن عقود وخدمات تتناسب مع قدراتها خلال الفترات الأقل نشاطًا.
+
+لكن الأهم هنا ألا يتحول التنويع إلى توسع غير مدروس.
+
+فليس المطلوب أن تعمل الشركة في كل سوق، بل أن تحدد الأسواق التي تستطيع خدمتها بكفاءة وجدوى.
+
+## الشراكات جزء من النموذج الاقتصادي
+
+لا تعتمد استدامة الأعمال على تنويع المنتجات والعملاء وحده، بل يمكن أن تتأثر أيضًا بطريقة بناء العلاقات التجارية والشراكات.
+
+ففي منظومة الحج والعمرة، تتكامل أدوار شركات المنتجات والتوريد والتشغيل والخدمات اللوجستية والتقنية والتسويق.
+
+وقد يكون تطوير شراكة تجارية مناسبة أكثر جدوى من بناء جميع القدرات داخليًا، خصوصًا عندما تتطلب بعض الأنشطة استثمارات رأسمالية مرتفعة أو خبرات تشغيلية متخصصة.
+
+ومن هنا تبرز أهمية تقييم القرارات المتعلقة بالتصنيع أو الشراء، والتشغيل المباشر أو الإسناد، والتوزيع الذاتي أو العمل عبر شركاء.
+
+هذه الخيارات ليست مجرد قرارات تشغيلية، بل قرارات استثمارية تؤثر في هيكل التكلفة، والمخاطر، والمرونة، وإمكانات النمو.
+
+## الاستدامة ليست استمرار النشاط بأي تكلفة
+
+من المهم التمييز بين استمرارية الأعمال والاستدامة الاقتصادية.
+
+فقد يستمر المشروع في العمل طوال العام، لكنه يحقق عوائد غير كافية لتغطية تكاليفه أو لتعويض رأس المال المستثمر والمخاطر التي يتحملها.
+
+ولهذا فإن الاستدامة لا تعني بالضرورة التشغيل المستمر، بل تعني بناء نموذج أعمال قادر على تحقيق قيمة اقتصادية والمحافظة على جدواه بمرور الوقت.
+
+وقد يكون النموذج الموسمي المتخصص أكثر جدوى من نموذج يعمل طوال العام إذا كانت تكاليفه أكثر مرونة وعوائده مناسبة.
+
+وعليه، فإن القرار الاستثماري ينبغي أن يستند إلى المقارنة بين البدائل، وليس إلى افتراض أن النشاط المستمر أفضل دائمًا من النشاط الموسمي.
+
+فالهدف ليس إلغاء الموسمية، بل إدارتها اقتصاديًا بطريقة أكثر كفاءة.
+
+## من الفرصة الموسمية إلى المنظومة الاستثمارية
+
+عندما ننظر إلى اقتصاد الحج والعمرة بوصفه منظومة مترابطة من المنتجات والخدمات والأنشطة التجارية، تتسع مساحة التفكير الاستثماري.
+
+فبدلًا من السؤال عن المنتجات التي يمكن بيعها خلال موسم محدد، يمكن أن نسأل عن سلاسل الإمداد التي تحتاج إلى تطوير، والقدرات التشغيلية التي يمكن بناؤها، والشراكات التي يمكن أن تفتح أسواقًا جديدة، والحلول التي تستطيع تحسين كفاءة الأعمال.
+
+وفي شركة هدية الخير، ننظر إلى تطوير الأعمال والاستثمار من خلال مجالات مترابطة تشمل المنتجات والتجارة والتوزيع والتشغيل والحلول الرقمية، إلى جانب تطوير الفرص الاستثمارية وحلول الاستدامة وتنمية الإيرادات للقطاع غير الربحي.
+
+وتنبع أهمية هذا التوجه من إمكانية دراسة الفرص بصورة متكاملة، وربط الاحتياجات التجارية بالقدرات والشراكات ونماذج الإيرادات المناسبة.
+
+ولا يعني ذلك أن كل فرصة يجب أن تتحول إلى مشروع مستقل، بل إن بعض الفرص قد تكون أكثر جدوى من خلال شراكة، أو تطوير خدمة قائمة، أو الاستفادة من أصول وقدرات متاحة.
+
+## الخلاصة: استثمر في نموذج الأعمال، لا في الموسم وحده
+
+سيظل موسم الحج، إلى جانب فترات ارتفاع الطلب على العمرة، محركًا مهمًا للعديد من الأنشطة التجارية في هذا الاقتصاد.
+
+لكن بناء استثمارات أكثر استدامة يتطلب النظر إلى ما وراء فترات الذروة، وفهم كيفية توظيف الأصول والموارد والشراكات لخدمة طلب تجاري حقيقي.
+
+فقد تكون الفرصة في مشروع موسمي متخصص، أو نشاط يعمل على مدار العام، أو نموذج يجمع بين الاثنين.
+
+والفيصل بين هذه البدائل هو الجدوى الاقتصادية، لا عدد أشهر التشغيل.
+
+وفي تقديري، فإن السؤال الذي ينبغي أن يطرحه المستثمر ليس: كيف نستفيد من الموسم القادم فقط؟
+
+بل: كيف نبني نموذج أعمال يستفيد من الموسم، ويحتفظ بقيمته الاقتصادية بعد انتهائه؟
+
+وهنا يبدأ التحول من التفكير في اقتصاد المواسم إلى التفكير في اقتصاد الأعمال.
+
+هدية الخير | استثمار يصنع أثرًا`,
+content_en: `Insights into the Hajj and Umrah Economy | Article 2
+
+From a Seasonal Economy to a Business Economy: How Can We Build Sustainable Investments in Hajj and Umrah?
+
+By Eng. Alaa bin Ali Al-Qabbas
+
+Chief Executive Officer, Hadiyah Alkhair Company
+
+Discussions about the Hajj and Umrah economy often focus on peak seasons, when demand for services and products rises significantly, generating substantial commercial and operational activity. Naturally, these periods attract the attention of investors and businesses because of the opportunities they present to deliver services and meet the needs of pilgrims.
+
+However, viewing the Hajj and Umrah economy solely through the lens of seasonality may overlook an important dimension of its investment potential.
+
+For investors, the key question extends beyond the volume of commercial activity during peak periods. It is also about how to build businesses that can remain viable, evolve, and leverage their operational and commercial capabilities throughout the year.
+
+This is where the distinction emerges between investing in a season and investing in an economic ecosystem.
+
+## A Season Is an Opportunity, Not Necessarily a Business Model
+
+Some businesses may generate strong revenues during peak periods. However, high sales over a limited timeframe do not necessarily indicate that a project has a sustainable business model.
+
+A business that relies on a short season must account for the costs it incurs throughout the year, including assets, equipment, human resources, storage, maintenance, and financing.
+
+Seasonal revenues may appear attractive when viewed in isolation, but the financial picture can change significantly once the full annual cost structure and return on invested capital are considered.
+
+Therefore, one of the critical questions when evaluating an investment is whether we are establishing a business that operates only during the season or building capabilities that can be deployed across other activities and markets.
+
+The answer may influence the assets we acquire, the people we employ, the partnerships we develop, and even how we design our products and services.
+
+## Investing in Capabilities Before Investing in Sales
+
+In my view, it is important for certain projects in the Hajj and Umrah sector to move beyond a narrow focus on seasonal sales and consider the broader commercial and operational capabilities they can develop and utilize.
+
+For example, a meal preparation facility could be evaluated not only in terms of demand during the Hajj season but also in terms of its potential to serve other institutional clients throughout the year, provided that market demand, operational capabilities, and relevant requirements support such expansion.
+
+The same principle can apply to packaging, distribution, logistics, products, gifts, and digital solutions.
+
+Assets, systems, and expertise initially developed to serve seasonal demand may provide a foundation for other commercial activities, subject to demonstrated demand, economic feasibility, and operational readiness.
+
+This does not mean that diversification guarantees success. Rather, the ability to deploy capabilities across multiple markets deserves consideration as one of the criteria for evaluating investment opportunities.
+
+## Diversifying Customers Reduces Dependence on a Single Revenue Source
+
+One challenge facing seasonally driven businesses is their reliance on a limited customer segment or a particular period to generate a substantial share of annual revenue.
+
+Diversifying customer segments and sales channels can help distribute revenue more evenly and reduce dependence on a single activity, although doing so requires effective cost and operational management.
+
+A company offering products for Hajj and Umrah pilgrims, for example, may also explore institutional sales opportunities, develop products suited to other sectors, or establish distribution channels that remain commercially useful outside peak periods.
+
+Similarly, operational service providers may explore contracts and services that align with their capabilities during periods of lower demand.
+
+However, diversification should not become an excuse for uncontrolled expansion.
+
+The objective is not to operate in every market, but to identify the markets a business can serve efficiently and profitably.
+
+## Partnerships Are Part of the Economic Model
+
+Business sustainability depends not only on product and customer diversification but also on how commercial relationships and partnerships are structured.
+
+Within the Hajj and Umrah ecosystem, businesses specializing in products, supply, operations, logistics, technology, and marketing play complementary roles.
+
+Developing an appropriate commercial partnership may sometimes be more economically viable than building every capability internally, particularly when certain activities require substantial capital investment or specialized operational expertise.
+
+This highlights the importance of evaluating decisions such as manufacturing versus purchasing, direct operations versus outsourcing, and in-house distribution versus working through commercial partners.
+
+These are not merely operational decisions. They are investment decisions that influence cost structures, risk exposure, flexibility, and growth potential.
+
+## Sustainability Does Not Mean Operating at Any Cost
+
+It is important to distinguish between business continuity and economic sustainability.
+
+A project may operate throughout the year while generating insufficient returns to cover its costs or adequately compensate for invested capital and associated risks.
+
+Sustainability, therefore, does not necessarily mean continuous operations. It means developing a business model capable of generating economic value and maintaining its viability over time.
+
+A specialized seasonal business may be more economically attractive than a year-round operation if it has a more flexible cost structure and delivers appropriate returns.
+
+Investment decisions should consequently be based on a comparison of viable alternatives rather than the assumption that continuous operations are always preferable to seasonal activities.
+
+The goal is not to eliminate seasonality, but to manage it with greater economic efficiency.
+
+## From Seasonal Opportunities to an Investment Ecosystem
+
+When we view the Hajj and Umrah economy as an interconnected ecosystem of products, services, and commercial activities, the scope of investment thinking becomes considerably broader.
+
+Instead of asking only which products can be sold during a particular season, we can examine which supply chains need development, which operational capabilities can be established, which partnerships could open new markets, and which solutions could improve business efficiency.
+
+At Hadiyah Alkhair Company, we approach business development and investment through interconnected areas that include products, trade, distribution, operations, and digital solutions, alongside investment opportunity development and solutions for financial sustainability and revenue generation in the nonprofit sector.
+
+The value of this approach lies in the ability to evaluate opportunities holistically, connecting commercial needs with appropriate capabilities, partnerships, and revenue models.
+
+This does not mean that every opportunity should become a standalone project. Some opportunities may be more viable through partnerships, enhancements to existing services, or better utilization of available assets and capabilities.
+
+## Conclusion: Invest in the Business Model, Not Just the Season
+
+The Hajj season, together with periods of increased Umrah demand, will continue to be an important driver of commercial activity within this economy.
+
+However, building more sustainable investments requires looking beyond peak periods and understanding how assets, resources, and partnerships can be deployed to serve genuine commercial demand.
+
+The right opportunity may be a specialized seasonal project, a year-round business, or a model that combines both.
+
+What ultimately determines the preferred approach is economic feasibility, not the number of months a business operates.
+
+In my view, the question investors should ask is not simply: How can we benefit from the next season?
+
+It is: How can we build a business model that benefits from the season while retaining its economic value after the season ends?
+
+This is where the shift begins—from thinking in terms of a seasonal economy to thinking in terms of a broader business economy.
+
+Hadiyah Alkhair | Investment That Creates Impact`
         },
     ];
 
