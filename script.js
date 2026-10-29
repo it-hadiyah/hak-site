@@ -516,20 +516,20 @@ Les grands chiffres peuvent révéler l'ampleur du potentiel, mais c'est la comp
 La différence entre un grand marché et une bonne opportunité réside dans la qualité de l'analyse, et non dans la taille du chiffre seul.`
         },
         {
-id: 7,
-title: "من اقتصاد المواسم إلى اقتصاد الأعمال: كيف نبني استثمارات مستدامة في الحج والعمرة؟",
-title_en: "From a Seasonal Economy to a Business Economy: How Can We Build Sustainable Investments in Hajj and Umrah?",
-date: "28 أكتوبر 2026",
-date_en: "October 28, 2026",
-category: "مقالات",
-category_en: "Articles",
-author: "المهندس علاء بن علي القباص",
-author_en: "Eng. Alaa bin Ali Al-Qabbas",
-subtitle: "سلسلة: رؤى في اقتصاد الحج والعمرة",
-subtitle_en: "Insights into the Hajj and Umrah Economy | Article 2",
-image: "images/blog-7.jpeg",
-image_en: "images/blog-7.jpeg-en.jpeg",
-content: `سلسلة: رؤى في اقتصاد الحج والعمرة
+            id: 7,
+            title: "من اقتصاد المواسم إلى اقتصاد الأعمال: كيف نبني استثمارات مستدامة في الحج والعمرة؟",
+            title_en: "From a Seasonal Economy to a Business Economy: How Can We Build Sustainable Investments in Hajj and Umrah?",
+            date: "28 أكتوبر 2026",
+            date_en: "October 28, 2026",
+            category: "مقالات",
+            category_en: "Articles",
+            author: "المهندس علاء بن علي القباص",
+            author_en: "Eng. Alaa bin Ali Al-Qabbas",
+            subtitle: "سلسلة: رؤى في اقتصاد الحج والعمرة",
+            subtitle_en: "Insights into the Hajj and Umrah Economy | Article 2",
+            image: "images/blog-7.jpeg",
+            image_en: "images/blog-7.jpeg-en.jpeg", // تم تصحيح اسم الملف
+            content: `سلسلة: رؤى في اقتصاد الحج والعمرة
 
 بقلم: المهندس علاء بن علي القباص
 
@@ -587,28 +587,11 @@ content: `سلسلة: رؤى في اقتصاد الحج والعمرة
 
 ففي منظومة الحج والعمرة، تتكامل أدوار شركات المنتجات والتوريد والتشغيل والخدمات اللوجستية والتقنية والتسويق.
 
-    // === أضف هذا القسم الجديد داخل كائن translations ===
+وقد يكون تطوير شراكة تجارية مناسبة أكثر جدوى اقتصاديًا من بناء كل القدرات داخليًا، خاصةً عندما تتطلب بعض الأنشطة استثمارات رأسمالية كبيرة أو خبرة تشغيلية متخصصة.
 
-    id: {
-        // Meta
-        "meta.title": "Hadiah Al-Khair Investment | Investasi Berkelanjutan untuk Jamaah Haji dan Umrah",
-        "meta.description": "Hadiah Al-Khair adalah lengan investasi nirlaba dari Yayasan Hadiah Jamaah Haji dan Umrah, bertujuan mencapai keberlanjutan finansial dan melayani para tamu Allah.",
+وهذا يبرز أهمية تقييم قرارات مثل التصنيع مقابل الشراء، والتشغيل المباشر مقابل الاستعانة بمصادر خارجية، والتوزيع الداخلي مقابل العمل مع شركاء تجاريين.
 
-        // Navigation
-        "nav.home": "Beranda",
-        "nav.about": "Tentang Kami",
-        "nav.services": "Layanan",
-        "nav.governance": "Kemitraan & Tata Kelola",
-        "nav.partner": "Mitra",
-        "nav.media": "Pusat Media",
-        "nav.contact": "Hubungi Kami",
-        "nav.store": "Toko",
-
-        // Hero Section
-        "hero.title": 'Investasi berkelanjutan untuk melayani <br> <span class="text-[#b9995e]">jamaah haji dan umrah</span>',
-        "hero.description": "Hadiah Al-Khair adalah lengan investasi dan operasional dari Yayasan Hadiah Jamaah Haji dan Umrah. Di perusahaan ini, kami berupaya mencapai keberlanjutan finansial dan mengembangkan proyek-proyek berkualitas yang berkontribusi pada peningkatan layanan yang diberikan kepada jamaah haji dan umrah.",
-        "hero.btnLearn": "Pelajari lebih lanjut",
-        "hero.btnContact": "Hubungi kami",
+وهذه ليست مجرد قرارات تشغيلية، بل هي قرارات استثمارية تؤثر في هياكل التكلفة، ومستوى المخاطر، والمرونة، وإمكانات النمو.
 
 من المهم التمييز بين استمرارية الأعمال والاستدامة الاقتصادية.
 
@@ -651,7 +634,7 @@ content: `سلسلة: رؤى في اقتصاد الحج والعمرة
 وهنا يبدأ التحول من التفكير في اقتصاد المواسم إلى التفكير في اقتصاد الأعمال.
 
 هدية الخير | استثمار يصنع أثرًا`,
-content_en: `Insights into the Hajj and Umrah Economy | Article 2
+            content_en: `Insights into the Hajj and Umrah Economy | Article 2
 
 From a Seasonal Economy to a Business Economy: How Can We Build Sustainable Investments in Hajj and Umrah?
 
@@ -760,7 +743,7 @@ It is: How can we build a business model that benefits from the season while ret
 This is where the shift begins—from thinking in terms of a seasonal economy to thinking in terms of a broader business economy.
 
 Hadiyah Alkhair | Investment That Creates Impact`
-        },
+        }
     ];
 
     // === Language Management ===
