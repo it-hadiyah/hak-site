@@ -587,13 +587,28 @@ content: `سلسلة: رؤى في اقتصاد الحج والعمرة
 
 ففي منظومة الحج والعمرة، تتكامل أدوار شركات المنتجات والتوريد والتشغيل والخدمات اللوجستية والتقنية والتسويق.
 
-وقد يكون تطوير شراكة تجارية مناسبة أكثر جدوى من بناء جميع القدرات داخليًا، خصوصًا عندما تتطلب بعض الأنشطة استثمارات رأسمالية مرتفعة أو خبرات تشغيلية متخصصة.
+    // === أضف هذا القسم الجديد داخل كائن translations ===
 
-ومن هنا تبرز أهمية تقييم القرارات المتعلقة بالتصنيع أو الشراء، والتشغيل المباشر أو الإسناد، والتوزيع الذاتي أو العمل عبر شركاء.
+    id: {
+        // Meta
+        "meta.title": "Hadiah Al-Khair Investment | Investasi Berkelanjutan untuk Jamaah Haji dan Umrah",
+        "meta.description": "Hadiah Al-Khair adalah lengan investasi nirlaba dari Yayasan Hadiah Jamaah Haji dan Umrah, bertujuan mencapai keberlanjutan finansial dan melayani para tamu Allah.",
 
-هذه الخيارات ليست مجرد قرارات تشغيلية، بل قرارات استثمارية تؤثر في هيكل التكلفة، والمخاطر، والمرونة، وإمكانات النمو.
+        // Navigation
+        "nav.home": "Beranda",
+        "nav.about": "Tentang Kami",
+        "nav.services": "Layanan",
+        "nav.governance": "Kemitraan & Tata Kelola",
+        "nav.partner": "Mitra",
+        "nav.media": "Pusat Media",
+        "nav.contact": "Hubungi Kami",
+        "nav.store": "Toko",
 
-## الاستدامة ليست استمرار النشاط بأي تكلفة
+        // Hero Section
+        "hero.title": 'Investasi berkelanjutan untuk melayani <br> <span class="text-[#b9995e]">jamaah haji dan umrah</span>',
+        "hero.description": "Hadiah Al-Khair adalah lengan investasi dan operasional dari Yayasan Hadiah Jamaah Haji dan Umrah. Di perusahaan ini, kami berupaya mencapai keberlanjutan finansial dan mengembangkan proyek-proyek berkualitas yang berkontribusi pada peningkatan layanan yang diberikan kepada jamaah haji dan umrah.",
+        "hero.btnLearn": "Pelajari lebih lanjut",
+        "hero.btnContact": "Hubungi kami",
 
 من المهم التمييز بين استمرارية الأعمال والاستدامة الاقتصادية.
 
