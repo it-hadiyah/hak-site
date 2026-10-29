@@ -101,6 +101,10 @@ const translations = {
         "news6.category": "مقالات",
         "news6.alt": "مقال: لماذا لا تكفي أعداد الحجاج والمعتمرين لقياس الفرص الاستثمارية؟",
 
+        "news7.title": "من اقتصاد المواسم إلى اقتصاد الأعمال: كيف نبني استثمارات مستدامة في الحج والعمرة؟",
+        "news7.desc": "كيف يمكن تحويل الفرص الموسمية في الحج والعمرة إلى استثمارات مستدامة؟ قراءة في بناء نماذج أعمال مجدية، وتطوير القدرات التشغيلية، وتنويع مصادر الإيرادات، وتعزيز الشراكات لتحقيق النمو الاقتصادي وصناعة الأثر.",
+        "news7.category": "مقالات",
+        "news7.alt": "مقال: من اقتصاد المواسم إلى اقتصاد الأعمال: كيف نبني استثمارات مستدامة في الحج والعمرة؟",
         // Contact Section
         "contact.badge": "تواصل معنا",
         "contact.title": 'نحن على <span class="text-[#b9995e]">أتم الاستعداد</span>',
@@ -229,6 +233,12 @@ const translations = {
         "news6.category": "Articles",
         "news6.alt": "Article: Why Don't Pilgrim and Umrah Visitor Numbers Alone Measure Investment Opportunities?",
 
+
+        "news7.title": "From a Seasonal Economy to a Business Economy: How Can We Build Sustainable Investments in Hajj and Umrah?",
+        "news7.desc": "How can seasonal opportunities in Hajj and Umrah be transformed into sustainable investments? An exploration of viable business models, operational capabilities, revenue diversification, and strategic partnerships that support economic growth and lasting impact.",
+        "news7.category": "Articles",
+        "news7.alt": "Article: From a Seasonal Economy to a Business Economy: How Can We Build Sustainable Investments in Hajj and Umrah?",
+
         // Contact Section
 
         "contact.badge": "Contact Us",
@@ -322,8 +332,8 @@ const translations = {
 
         // PARTNERS Section
         "partner.badge": "Mitra Kami",
-            "partner.title": 'Bersama <span class="text-[#b9995e]">Mitra Terpercaya</span>',
-            "partner.description": "Kami bangga dapat bekerja sama dengan mitra-mitra terpercaya yang berbagi visi yang sama dengan kami dalam memberikan pelayanan terbaik bagi para tamu Allah (jemaah haji dan umrah).",
+        "partner.title": 'Bersama <span class="text-[#b9995e]">Mitra Terpercaya</span>',
+        "partner.description": "Kami bangga dapat bekerja sama dengan mitra-mitra terpercaya yang berbagi visi yang sama dengan kami dalam memberikan pelayanan terbaik bagi para tamu Allah (jemaah haji dan umrah).",
 
 
         // Media Section
