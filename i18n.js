@@ -153,6 +153,17 @@ document.addEventListener('DOMContentLoaded', () => {
             const descEl = item.querySelector(`[data-i18n="news${id}.desc"]`);
             if (titleEl && translations[lang]?.[`news${id}.title`]) titleEl.textContent = translations[lang][`news${id}.title`];
             if (descEl && translations[lang]?.[`news${id}.desc`]) descEl.textContent = translations[lang][`news${id}.desc`];
+
+            const imageEl = item.querySelector('img[data-image-ar], img[data-image-en]');
+            if (imageEl) {
+                const image = lang === 'en'
+                    ? imageEl.dataset.imageEn || imageEl.dataset.imageAr
+                    : imageEl.dataset.imageAr || imageEl.dataset.imageEn;
+                if (image) imageEl.src = image;
+
+                const alt = translations[lang]?.[`news${id}.alt`];
+                if (alt) imageEl.alt = alt;
+            }
         });
     }
 
