@@ -743,6 +743,333 @@ It is: How can we build a business model that benefits from the season while ret
 This is where the shift begins—from thinking in terms of a seasonal economy to thinking in terms of a broader business economy.
 
 Hadiyah Alkhair | Investment That Creates Impact`
+        },
+        {
+id: 8,
+title: "التصنيع أم التوريد؟ كيف تتخذ الشركات قراراتها الاستثمارية في اقتصاد الحج والعمرة؟",
+title_en: "Manufacturing or Sourcing? How Do Companies Make Investment Decisions in the Hajj and Umrah Economy?",
+date: "4 نوفمبر 2026",
+date_en: "November 4, 2026",
+category: "مقالات",
+category_en: "Articles",
+author: "المهندس علاء بن علي القباص",
+author_en: "Eng. Alaa bin Ali Al-Qabbas",
+subtitle: "سلسلة: رؤى في اقتصاد الحج والعمرة | المقال الثالث",
+subtitle_en: "Insights into the Hajj and Umrah Economy | Article Three",
+image: "images/blog-8.png",
+image_en: "images/blog-en-8.png",
+content: `سلسلة: رؤى في اقتصاد الحج والعمرة | المقال الثالث
+
+بقلم: المهندس علاء بن علي القباص
+
+الرئيس التنفيذي لشركة هدية الخير
+
+تتسع الفرص التجارية في اقتصاد الحج والعمرة مع تنوع احتياجات الحجاج والمعتمرين، وتطور الخدمات والمنتجات المقدمة لهم، وما يرتبط بذلك من أنشطة الإعاشة والضيافة والهدايا والتغليف والتوزيع والخدمات التشغيلية.
+
+ومع هذا التنوع، يبرز أمام الشركات والمستثمرين سؤال يتكرر عند دراسة فرص التوسع: هل الأفضل أن نستثمر في التصنيع والإنتاج المباشر، أم نعتمد على الموردين والشركاء لتوفير المنتجات والخدمات؟
+
+قد يبدو التصنيع خيارًا جذابًا لما يمنحه من سيطرة أكبر على الإنتاج والجودة، بينما يبدو التوريد أكثر مرونة وأقل احتياجًا إلى الاستثمار الرأسمالي. لكن القرار في الواقع أكثر تعقيدًا من مجرد المقارنة بين تكلفة التصنيع وسعر الشراء.
+
+فكل خيار يحمل نموذجًا مختلفًا للتكاليف والمخاطر والقدرات التشغيلية، ويؤثر بصورة مباشرة في قدرة الشركة على المنافسة والنمو وتحقيق العائد على الاستثمار.
+
+ومن وجهة نظري، فإن السؤال الأهم ليس: أيهما أفضل، التصنيع أم التوريد؟ بل متى يصبح امتلاك القدرة الإنتاجية ميزة اقتصادية حقيقية، ومتى تكون الاستفادة من قدرات السوق والشراكات قرارًا استثماريًا أكثر كفاءة؟
+
+أولًا: امتلاك الأصول لا يعني بالضرورة امتلاك ميزة تنافسية
+
+من الأخطاء التي قد تقع فيها بعض الشركات افتراض أن امتلاك المصنع أو خطوط الإنتاج أو المعدات يمنحها تلقائيًا قدرة أكبر على تحقيق الأرباح.
+
+صحيح أن التصنيع المباشر قد يوفر تحكمًا أفضل في مواصفات المنتج وجودته ومواعيد إنتاجه، وقد يتيح للشركة تطوير منتجات خاصة بها، لكنه في المقابل يتطلب استثمارات في الأصول والمعدات والموارد البشرية والصيانة والتشغيل وإدارة المخزون.
+
+ولا تتوقف تكلفة هذه الاستثمارات عند لحظة التأسيس، بل تستمر التزاماتها حتى خلال الفترات التي ينخفض فيها الطلب.
+
+ولهذا، فإن انخفاض تكلفة إنتاج الوحدة داخل المصنع مقارنة بسعر شرائها من المورد لا يكفي وحده لإثبات الجدوى الاقتصادية.
+
+فالتقييم الصحيح يجب أن يأخذ في الاعتبار التكاليف الثابتة والمتغيرة، وحجم الإنتاج المتوقع، ومعدلات استغلال الطاقة الإنتاجية، وتكلفة رأس المال، والمخاطر المرتبطة بتغير الطلب.
+
+قد تكون تكلفة إنتاج الوحدة أقل، لكن تكلفة امتلاك القدرة على إنتاجها أعلى.
+
+وهذا الفرق هو أحد أهم الجوانب التي ينبغي أن يدركها المستثمر قبل اتخاذ قرار التصنيع.
+
+ثانيًا: الموسمية تعيد تشكيل المعادلة الاستثمارية
+
+تكتسب المفاضلة بين التصنيع والتوريد أهمية خاصة في اقتصاد الحج والعمرة، نظرًا إلى تفاوت مستويات الطلب بين المواسم وفترات العام المختلفة.
+
+فبعض المنتجات والخدمات تشهد ارتفاعًا كبيرًا في الطلب خلال فترة محدودة، بينما تتراجع احتياجات السوق إليها خارج تلك الفترة.
+
+وعندما تستثمر شركة في إنشاء قدرة إنتاجية تستهدف تلبية الطلب الموسمي، فإنها لا تواجه فقط تحدي توفير الكميات المطلوبة خلال الذروة، بل تواجه أيضًا سؤالًا اقتصاديًا مهمًا: كيف ستستفيد من هذه القدرة الإنتاجية بقية العام؟
+
+لنأخذ مثالًا افتراضيًا لشركة تفكر في إنشاء خط إنتاج لتجهيز أحد المنتجات المستخدمة خلال موسم الحج.
+
+قد تكون الكميات المطلوبة خلال الموسم كبيرة بما يكفي لجعل التصنيع جذابًا عند حساب تكلفة الوحدة. لكن إذا كان تشغيل الخط يقتصر على فترة قصيرة، فقد تتراجع الجدوى عند احتساب التكلفة السنوية الكاملة للاستثمار.
+
+وفي المقابل، قد يصبح المشروع أكثر جاذبية إذا أمكن استخدام الخط نفسه لإنتاج منتجات أخرى أو خدمة عملاء من قطاعات مختلفة خلال بقية العام.
+
+لكن هذا الاحتمال لا ينبغي اعتباره إيرادًا مضمونًا، بل فرصة إضافية تحتاج إلى دراسة الطلب الفعلي والقدرة التشغيلية والتنافسية.
+
+فحجم الطلب في موسم واحد لا يحدد وحده جدوى الاستثمار في أصل إنتاجي يمتد عمره لسنوات.
+
+ثالثًا: التوريد ليس بالضرورة خيارًا أقل قيمة
+
+قد يُنظر أحيانًا إلى الشركات التي تعتمد على الموردين باعتبارها أقل قدرة من الشركات التي تمتلك مصانعها أو مرافقها الإنتاجية.
+
+لكن هذا التصور لا يعكس بالضرورة طبيعة المنافسة في الأسواق الحديثة.
+
+فالشركة التي تنجح في بناء شبكة موثوقة من الموردين، وتطوير مواصفات منتجاتها، وإدارة الجودة والمخزون والتوزيع، قد تحقق قيمة تجارية مرتفعة دون الحاجة إلى امتلاك جميع مراحل الإنتاج.
+
+وفي بعض الحالات، تتيح هذه المرونة للشركة الاستجابة بصورة أسرع لتغير الطلب، وتقديم منتجات متنوعة، وتجنب تجميد جزء كبير من رأس المال في أصول يصعب إعادة توظيفها.
+
+ومع ذلك، فإن الاعتماد على الموردين لا يخلو من المخاطر.
+
+فقد تواجه الشركة تقلبات الأسعار، أو تأخر التسليم، أو تفاوت الجودة، أو محدودية الطاقة الإنتاجية لدى المورد، خصوصًا خلال فترات الذروة التي تتنافس فيها جهات متعددة على الموارد نفسها.
+
+وهنا تصبح إدارة سلسلة التوريد واختيار الشركاء وتوزيع المخاطر عناصر أساسية في نجاح النموذج التجاري.
+
+فالتوريد الناجح ليس مجرد شراء منتج بسعر مناسب، بل إدارة منظومة قادرة على توفير المنتج الصحيح، بالجودة المطلوبة، وفي الوقت المناسب.
+
+رابعًا: متى يكون التصنيع هو القرار الأفضل؟
+
+لا توجد إجابة موحدة تصلح لجميع الشركات أو المنتجات، لكن هناك مجموعة من العوامل التي قد تجعل الاستثمار في التصنيع أكثر جدوى.
+
+أولها وجود طلب كافٍ ومستقر نسبيًا يسمح باستغلال الطاقة الإنتاجية بكفاءة، سواء من خلال سوق الحج والعمرة أو من خلال أسواق أخرى يمكن خدمتها بالقدرات نفسها.
+
+وثانيها أن يوفر التصنيع ميزة تنافسية يصعب الحصول عليها من السوق، مثل مواصفات خاصة أو جودة يصعب ضمانها عبر الموردين أو قدرة أعلى على تطوير المنتجات والتحكم في عمليات الإنتاج.
+
+أما العامل الثالث فيتعلق بالجدوى المالية، بحيث يكون العائد المتوقع من الاستثمار في الأصول الإنتاجية مناسبًا لحجم رأس المال والمخاطر المرتبطة به.
+
+كذلك قد يكون التصنيع خيارًا مهمًا عندما تمثل القدرة على ضمان التوريد في أوقات الذروة عنصرًا حاسمًا في الوفاء بالتزامات الشركة تجاه عملائها.
+
+لكن حتى في هذه الحالات، يجب مقارنة الاستثمار المباشر بالبدائل الأخرى، مثل التعاقدات طويلة الأجل أو التصنيع لدى الغير أو الشراكات الإنتاجية.
+
+فامتلاك المصنع ليس الطريقة الوحيدة لضمان توفر المنتج أو التحكم في مواصفاته.
+
+خامسًا: هل يمكن الجمع بين التصنيع والتوريد؟
+
+أعتقد أن أحد الخيارات التي تستحق اهتمام الشركات هو عدم التعامل مع التصنيع والتوريد باعتبارهما قرارين متعارضين بالضرورة.
+
+ففي بعض الأنشطة، قد يكون النموذج المختلط أكثر ملاءمة، بحيث تحتفظ الشركة بالعمليات التي تمنحها ميزة تنافسية مباشرة، وتعتمد على شركاء متخصصين لتنفيذ بقية العمليات.
+
+على سبيل المثال، قد تختار شركة تعمل في مجال الهدايا والمنتجات امتلاك قدراتها في تطوير المنتجات والتصميم والتخصيص وضبط الجودة، مع إسناد التصنيع إلى مصانع متخصصة.
+
+وفي نشاط آخر، قد يكون من المجدي امتلاك جزء من القدرة الإنتاجية لتغطية الطلب الأساسي، مع الاستعانة بموردين إضافيين خلال فترات الذروة.
+
+كما قد تفضل شركة تعمل في مجال الإعاشة امتلاك قدرات محددة في إعداد الوجبات أو إدارة الجودة، مع الاعتماد على شركاء لتوفير بعض المكونات أو الخدمات المساندة.
+
+هذه النماذج ليست بالضرورة أفضل في جميع الحالات، لكنها توضح أن القرار الاستثماري يمكن تصميمه بدرجات مختلفة من التملك والشراكة.
+
+والأهم أن تمتلك الشركة القدرة على إدارة القيمة التي تقدمها، وليس بالضرورة جميع الأصول التي تدخل في إنتاجها.
+
+سادسًا: خمسة أسئلة قبل اتخاذ القرار
+
+عند تقييم فرصة استثمارية تتطلب المفاضلة بين التصنيع والتوريد، أرى أهمية الإجابة عن خمسة أسئلة رئيسية:
+
+1. هل حجم الطلب يبرر الاستثمار؟
+ليس فقط خلال الموسم، بل على امتداد العمر الاقتصادي المتوقع للأصل، مع مراعاة تقلبات الطلب.
+
+2. ما التكلفة الحقيقية لكل خيار؟
+بما يشمل الاستثمار الرأسمالي، والتشغيل، والصيانة، والمخزون، والتمويل، والتكاليف غير المباشرة.
+
+3. أين تكمن ميزتنا التنافسية؟
+هل في الإنتاج نفسه، أم في تطوير المنتج، أو إدارة الجودة، أو التوزيع، أو العلاقة مع العملاء؟
+
+4. ما المخاطر التي نستطيع إدارتها بكفاءة؟
+هل نمتلك الخبرة والقدرات اللازمة لتشغيل الأصول الإنتاجية، أم أننا أكثر كفاءة في إدارة الموردين والشراكات؟
+
+5. ما أثر القرار في مرونتنا المستقبلية؟
+هل يتيح لنا النمو والتوسع والتكيف مع تغير السوق، أم يربط جزءًا كبيرًا من مواردنا بنشاط محدود؟
+
+هذه الأسئلة لا تغني عن دراسة الجدوى التفصيلية، لكنها تساعد على تحديد الاتجاه الصحيح للدراسة، وتجنب اتخاذ القرار بناءً على الانطباعات أو تكلفة الوحدة وحدها.
+
+من امتلاك الأصول إلى بناء منظومة أعمال أكثر كفاءة
+
+في اقتصاد الحج والعمرة، لا تقتصر الفرص الاستثمارية على إنشاء المصانع أو تقديم المنتجات النهائية، بل تمتد إلى تطوير سلاسل الإمداد، وتحسين كفاءة التشغيل، وبناء شبكات التوزيع، وتصميم المنتجات، وإدارة العلاقات التجارية بين مختلف الأطراف.
+
+وهذا يفتح المجال أمام نماذج أعمال متعددة، تختلف في حجم الاستثمار وطبيعة الأصول ومستوى المخاطر.
+
+ومن هنا، فإن بناء منظومة أعمال متكاملة لا يعني بالضرورة امتلاك جميع حلقات سلسلة القيمة، بل القدرة على الربط بينها وإدارتها بطريقة تحقق الكفاءة والجودة والعائد الاقتصادي.
+
+فقد تنجح شركة لأنها تمتلك قدرة إنتاجية متخصصة، بينما تنجح أخرى لأنها تجمع بين الموردين والعملاء وتقدم حلولًا متكاملة بكفاءة أعلى.
+
+وفي الحالتين، لا تُقاس قوة النموذج بحجم الأصول وحده، بل بالقيمة التي يخلقها ومدى قدرته على الاستمرار والمنافسة.
+
+الخلاصة: استثمر فيما يصنع ميزتك التنافسية
+
+في نهاية المطاف، لا ينبغي أن يكون قرار التصنيع أو التوريد مدفوعًا بالرغبة في امتلاك الأصول أو تجنبها، بل بفهم طبيعة السوق ومصادر القيمة والقدرات التي تحتاجها الشركة لتحقيق أهدافها.
+
+فالتصنيع قد يكون استثمارًا استراتيجيًا عندما يمنح الشركة ميزة اقتصادية واضحة، والتوريد قد يكون الخيار الأكثر كفاءة عندما يتيح الوصول إلى قدرات متخصصة بمرونة وتكلفة أفضل.
+
+وقد يكون الجمع بينهما هو الحل الأنسب في بعض الأنشطة.
+
+وفي سوق تتفاوت فيه مستويات الطلب، وتتعدد فيه المنتجات والخدمات، وتزداد فيه أهمية الكفاءة التشغيلية، تصبح القدرة على اتخاذ القرار الاستثماري الصحيح ميزة تنافسية بحد ذاتها.
+
+ومن وجهة نظري، فإن قوة الشركة لا تُقاس بحجم الأصول التي تمتلكها، بل بقدرتها على معرفة ما ينبغي أن تمتلكه، وما يمكن أن تحصل عليه بكفاءة أعلى من خلال السوق والشراكات.
+
+فالسؤال الذي يجب أن يسبق أي استثمار ليس: هل نستطيع أن نصنع هذا المنتج بأنفسنا؟
+
+بل: هل امتلاك القدرة على تصنيعه هو أفضل استخدام لرأس مالنا، وأفضل طريق لبناء ميزة تنافسية مستدامة؟
+
+وهنا يبدأ الفرق بين الاستثمار في الأصول، والاستثمار في بناء أعمال قادرة على خلق القيمة.
+
+________________________________________
+
+شركة هدية الخير | استثمار يصنع أثرًا
+
+سلسلة «رؤى في اقتصاد الحج والعمرة» — المقال الثالث`,
+content_en: `Insights into the Hajj and Umrah Economy | Article Three
+
+By Eng. Alaa bin Ali Al-Qabbas
+
+Chief Executive Officer, Hadiyah Alkhair Company
+
+Commercial opportunities in the Hajj and Umrah economy continue to expand as the needs of pilgrims become increasingly diverse and the products and services offered to them evolve. These opportunities extend across catering, hospitality, gifts, packaging, distribution, and operational services.
+
+As these activities grow, companies and investors face a recurring question when evaluating expansion opportunities: Is it better to invest in manufacturing and in-house production, or to rely on suppliers and commercial partners to provide products and services?
+
+Manufacturing may appear attractive because it offers greater control over production and quality, while sourcing may provide greater flexibility with lower capital investment requirements. In reality, however, the decision is more complex than simply comparing production costs with purchase prices.
+
+Each option involves a different cost structure, risk profile, and set of operational capabilities, directly influencing a company's competitiveness, growth potential, and return on investment.
+
+In my view, the more important question is not which option is inherently better, manufacturing or sourcing. Rather, it is when owning production capabilities creates a genuine economic advantage, and when leveraging market capabilities and partnerships represents a more efficient investment decision.
+
+1. Owning Assets Does Not Necessarily Create a Competitive Advantage
+
+One mistake some companies may make is assuming that owning factories, production lines, or equipment automatically gives them a greater ability to generate profits.
+
+While in-house manufacturing can provide better control over product specifications, quality, and production schedules, and may enable companies to develop proprietary products, it also requires investment in assets, equipment, human resources, maintenance, operations, and inventory management.
+
+These costs do not end when the facility is established. Financial and operational obligations continue even during periods of lower demand.
+
+For this reason, a lower unit production cost compared with a supplier's selling price is not, by itself, sufficient evidence of economic feasibility.
+
+A proper assessment must consider fixed and variable costs, expected production volumes, capacity utilization, the cost of capital, and risks associated with fluctuations in demand.
+
+The cost of producing a unit may be lower, while the cost of owning the capacity to produce it may be higher.
+
+Understanding this distinction is essential before making a manufacturing investment decision.
+
+2. Seasonality Changes the Investment Equation
+
+The manufacturing-versus-sourcing decision is particularly important in the Hajj and Umrah economy because demand levels vary significantly between peak seasons and other periods of the year.
+
+Some products and services experience substantial demand within a limited period, followed by considerably lower demand outside that window.
+
+When a company invests in production capacity to meet seasonal demand, it faces more than the challenge of producing sufficient quantities during peak periods. It must also answer an important economic question: How will this production capacity be utilized during the rest of the year?
+
+Consider a hypothetical company evaluating the establishment of a production line for a product used during the Hajj season.
+
+Seasonal demand may be sufficiently high to make manufacturing appear attractive when calculating unit costs. However, if the production line operates for only a short period, the investment may become less economically viable once its full annual costs are considered.
+
+Conversely, the project may become more attractive if the same production line can manufacture other products or serve customers in different sectors throughout the year.
+
+This potential should not be treated as guaranteed revenue. It is an additional opportunity that requires careful assessment of actual demand, operational capabilities, and competitiveness.
+
+Demand during a single season cannot, on its own, determine the feasibility of investing in a production asset with a useful life spanning several years.
+
+3. Sourcing Is Not Necessarily a Lower-Value Strategy
+
+Companies that rely on suppliers are sometimes perceived as less capable than those that own their manufacturing facilities.
+
+However, this perception does not necessarily reflect how competition works in modern markets.
+
+A company that successfully builds a reliable supplier network, develops product specifications, manages quality, and coordinates inventory and distribution may create significant commercial value without owning every stage of production.
+
+In some cases, this flexibility enables companies to respond more quickly to changing demand, offer a broader range of products, and avoid tying up substantial capital in assets that may be difficult to repurpose.
+
+Nevertheless, reliance on suppliers comes with its own risks.
+
+Companies may face price fluctuations, delivery delays, inconsistent quality, or limited supplier production capacity, particularly during peak periods when multiple buyers compete for the same resources.
+
+This makes supply chain management, partner selection, and risk allocation essential elements of a successful sourcing model.
+
+Effective sourcing is not simply about purchasing a product at a competitive price. It is about managing a system capable of delivering the right product, at the required quality, and at the right time.
+
+4. When Is Manufacturing the Better Investment Decision?
+
+There is no universal answer that applies to every company or product. However, several factors may make manufacturing a more economically viable option.
+
+The first is sufficient and relatively stable demand that allows production capacity to be utilized efficiently, whether through the Hajj and Umrah market or other markets that can be served using the same capabilities.
+
+The second is the ability of manufacturing to create a competitive advantage that is difficult to obtain through external suppliers, such as specialized product specifications, quality standards that are difficult to guarantee through sourcing, or greater control over product development and production processes.
+
+The third factor is financial feasibility, where the expected return on investment is appropriate relative to the capital required and the associated risks.
+
+Manufacturing may also become strategically important when securing reliable supply during peak periods is essential to fulfilling contractual commitments to customers.
+
+Even in these situations, direct investment should be compared with alternatives such as long-term supply agreements, contract manufacturing, and production partnerships.
+
+Owning a factory is not the only way to secure product availability or maintain control over specifications.
+
+5. Can Manufacturing and Sourcing Work Together?
+
+I believe one option worth considering is to avoid treating manufacturing and sourcing as necessarily opposing choices.
+
+In some activities, a hybrid model may be more appropriate, allowing a company to retain control over operations that directly contribute to its competitive advantage while relying on specialized partners for other processes.
+
+For example, a company operating in the gifts and products sector may choose to develop in-house capabilities in product development, design, customization, and quality assurance while outsourcing manufacturing to specialized producers.
+
+In another business, it may be economically viable to own a portion of the production capacity needed to meet baseline demand while relying on additional suppliers during peak periods.
+
+Similarly, a catering company may choose to maintain specific capabilities in meal preparation or quality management while partnering with external providers for selected ingredients or supporting services.
+
+These models are not necessarily superior in every situation, but they demonstrate that investment decisions can involve different combinations of ownership and partnership.
+
+What matters most is a company's ability to manage the value it delivers, not necessarily to own every asset involved in producing it.
+
+6. Five Questions Before Making the Decision
+
+When evaluating an investment opportunity that requires choosing between manufacturing and sourcing, I believe five key questions should be addressed.
+
+1. Does demand justify the investment?
+Not only during peak seasons, but throughout the expected economic life of the asset, taking fluctuations in demand into account.
+
+2. What is the true cost of each option?
+This includes capital investment, operating expenses, maintenance, inventory, financing, and indirect costs.
+
+3. Where does our competitive advantage lie?
+Is it in manufacturing itself, or in product development, quality management, distribution, or customer relationships?
+
+4. Which risks can we manage effectively?
+Do we possess the expertise and capabilities required to operate production assets, or are we more efficient at managing suppliers and partnerships?
+
+5. How will the decision affect our future flexibility?
+Will it allow us to grow, expand, and adapt to market changes, or will it tie up a substantial portion of our resources in a limited activity?
+
+These questions do not replace a detailed feasibility study. However, they help establish the appropriate direction for further analysis and reduce the risk of making decisions based solely on assumptions or unit costs.
+
+From Asset Ownership to Building a More Efficient Business Ecosystem
+
+In the Hajj and Umrah economy, investment opportunities are not limited to establishing factories or delivering finished products. They also include developing supply chains, improving operational efficiency, building distribution networks, designing products, and managing commercial relationships among different market participants.
+
+This creates opportunities for a wide range of business models, each with different investment requirements, asset structures, and risk profiles.
+
+Building an integrated business ecosystem does not necessarily mean owning every link in the value chain. Rather, it means being able to connect and manage those links in ways that generate efficiency, quality, and economic returns.
+
+One company may succeed because it owns specialized production capabilities, while another may succeed by connecting suppliers with customers and delivering integrated solutions more efficiently.
+
+In both cases, the strength of the business model should not be measured solely by the size of its assets, but by the value it creates and its ability to remain competitive and viable over time.
+
+Conclusion: Invest in What Creates Your Competitive Advantage
+
+Ultimately, the decision to manufacture or source should not be driven by a desire to own assets or avoid ownership. It should be based on a clear understanding of the market, sources of value, and the capabilities a company needs to achieve its objectives.
+
+Manufacturing may represent a strategic investment when it provides a clear economic advantage. Sourcing may be the more efficient choice when it offers access to specialized capabilities with greater flexibility and better cost efficiency.
+
+In some activities, combining the two may be the most appropriate solution.
+
+In a market characterized by fluctuating demand, diverse products and services, and an increasing emphasis on operational efficiency, the ability to make sound investment decisions becomes a competitive advantage in itself.
+
+In my view, a company's strength is not measured by the volume of assets it owns, but by its ability to determine what it should own and what it can obtain more efficiently through the market and partnerships.
+
+The question that should precede any investment is not simply: Can we manufacture this product ourselves?
+
+It is: Is owning the capability to manufacture it the best use of our capital and the most effective way to build a sustainable competitive advantage?
+
+This is where the distinction begins between investing in assets and investing in businesses capable of creating lasting value.
+
+________________________________________
+
+Hadiyah Alkhair | Investment That Creates Impact
+
+Insights into the Hajj and Umrah Economy — Article Three`
         }
     ];
 

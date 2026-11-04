@@ -156,9 +156,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const imageEl = item.querySelector('img[data-image-ar], img[data-image-en]');
             if (imageEl) {
-                const image = lang === 'en'
-                    ? imageEl.dataset.imageEn || imageEl.dataset.imageAr
-                    : imageEl.dataset.imageAr || imageEl.dataset.imageEn;
+                const image = lang === 'ar'
+                    ? imageEl.dataset.imageAr || imageEl.dataset.imageEn
+                    : imageEl.dataset.imageEn || imageEl.dataset.imageAr;
                 if (image) imageEl.src = image;
 
                 const alt = translations[lang]?.[`news${id}.alt`];

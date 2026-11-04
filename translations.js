@@ -105,6 +105,11 @@ const translations = {
         "news7.desc": "كيف يمكن تحويل الفرص الموسمية في الحج والعمرة إلى استثمارات مستدامة؟ قراءة في بناء نماذج أعمال مجدية، وتطوير القدرات التشغيلية، وتنويع مصادر الإيرادات، وتعزيز الشراكات لتحقيق النمو الاقتصادي وصناعة الأثر.",
         "news7.category": "مقالات",
         "news7.alt": "مقال: من اقتصاد المواسم إلى اقتصاد الأعمال: كيف نبني استثمارات مستدامة في الحج والعمرة؟",
+        "news8.title": "التصنيع أم التوريد؟ كيف تتخذ الشركات قراراتها الاستثمارية في اقتصاد الحج والعمرة؟",
+        "news8.desc": "قراءة في المفاضلة بين التصنيع والتوريد، وأثر الموسمية والتكاليف والمخاطر والمرونة التشغيلية في قرارات الاستثمار ضمن اقتصاد الحج والعمرة.",
+        "news8.category": "مقالات",
+        "news8.alt": "مقال: التصنيع أم التوريد؟ كيف تتخذ الشركات قراراتها الاستثمارية في اقتصاد الحج والعمرة؟",
+        "news8.date": "4 نوفمبر 2026",
         // Contact Section
         "contact.badge": "تواصل معنا",
         "contact.title": 'نحن على <span class="text-[#b9995e]">أتم الاستعداد</span>',
@@ -238,6 +243,11 @@ const translations = {
         "news7.desc": "How can seasonal opportunities in Hajj and Umrah be transformed into sustainable investments? An exploration of viable business models, operational capabilities, revenue diversification, and strategic partnerships that support economic growth and lasting impact.",
         "news7.category": "Articles",
         "news7.alt": "Article: From a Seasonal Economy to a Business Economy: How Can We Build Sustainable Investments in Hajj and Umrah?",
+        "news8.title": "Manufacturing or Sourcing? How Do Companies Make Investment Decisions in the Hajj and Umrah Economy?",
+        "news8.desc": "An exploration of manufacturing versus sourcing, and how seasonality, costs, risks, and operational flexibility shape investment decisions in the Hajj and Umrah economy.",
+        "news8.category": "Articles",
+        "news8.alt": "Article: Manufacturing or Sourcing? How Do Companies Make Investment Decisions in the Hajj and Umrah Economy?",
+        "news8.date": "November 4, 2026",
 
         // Contact Section
 
@@ -363,6 +373,11 @@ const translations = {
         "news6.desc": "Jumlah jemaah haji dan umrah merupakan indikator skala aktivitas, tetapi tidak cukup untuk mengukur peluang investasi. Sebuah tinjauan tentang perbedaan antara ukuran pasar dan permintaan yang dapat dilayani, siapa yang benar-benar membeli, serta dampak musim terhadap kelayakan.",
         "news6.category": "Artikel",
         "news6.alt": "Artikel: Mengapa Jumlah Jemaah Haji dan Umrah Tidak Cukup untuk Mengukur Peluang Investasi?",
+        "news8.title": "Manufaktur atau Pengadaan? Bagaimana Perusahaan Membuat Keputusan Investasi dalam Ekonomi Haji dan Umrah?",
+        "news8.desc": "Tinjauan tentang pilihan antara manufaktur dan pengadaan, serta dampak musim, biaya, risiko, dan fleksibilitas operasional terhadap keputusan investasi dalam ekonomi Haji dan Umrah.",
+        "news8.category": "Artikel",
+        "news8.alt": "Artikel: Manufaktur atau Pengadaan dalam Ekonomi Haji dan Umrah?",
+        "news8.date": "4 November 2026",
 
         // Contact Section
         "contact.badge": "Hubungi Kami",
@@ -481,6 +496,11 @@ const translations = {
         "news6.desc": "Le nombre de pèlerins du Hajj et de la Omra indique l'ampleur de l'activité, mais il ne suffit pas à mesurer une opportunité d'investissement. Un regard sur l'écart entre la taille du marché et la demande réellement servable, sur qui achète vraiment et sur l'impact des saisons sur la faisabilité.",
         "news6.category": "Articles",
         "news6.alt": "Article : Pourquoi le nombre de pèlerins du Hajj et de la Omra ne suffit-il pas à mesurer les opportunités d'investissement ?",
+        "news8.title": "Fabrication ou approvisionnement ? Comment les entreprises prennent-elles leurs décisions d’investissement dans l’économie du Hajj et de la Omra ?",
+        "news8.desc": "Une analyse du choix entre fabrication et approvisionnement, ainsi que de l’influence de la saisonnalité, des coûts, des risques et de la flexibilité opérationnelle sur les décisions d’investissement dans l’économie du Hajj et de la Omra.",
+        "news8.category": "Articles",
+        "news8.alt": "Article : Fabrication ou approvisionnement dans l’économie du Hajj et de la Omra ?",
+        "news8.date": "4 novembre 2026",
 
         // Contact Section
         "contact.badge": "Contactez-nous",
