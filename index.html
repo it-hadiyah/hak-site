@@ -156,7 +156,7 @@
     <!-- ===== Custom Styles ===== -->
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="products.css">
-
+    <link rel="stylesheet" href="popup.css">
     <!-- ===== Performance Optimization ===== -->
     <link rel="dns-prefetch" href="//fonts.googleapis.com">
     <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
@@ -4079,7 +4079,179 @@
     <!-- النص -->
     <span class="font-bold text-sm tracking-wide" data-i18n="nav.store">المتجر</span>
 </a>
+<!-- ============================================================
+     PRODUCTS POP-UP (appears once per 24h)
+============================================================ -->
+<div
+        id="productsPopup"
+        class="popup-overlay"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="popupTitle"
+        aria-describedby="popupSubtitle"
+        hidden
+>
+    <div class="popup-container">
+        <button
+                type="button"
+                class="popup-close"
+                id="popupClose"
+                aria-label="إغلاق"
+                data-i18n-aria="popup.close"
+        >
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M18 6 6 18"></path>
+                <path d="m6 6 12 12"></path>
+            </svg>
+        </button>
 
+        <div class="popup-body">
+            <!-- Left side: Branding + CTA -->
+            <div class="popup-info">
+                <span class="popup-badge" data-i18n="popup.badge">🎁 عرض خاص</span>
+
+                <h2 id="popupTitle" class="popup-title" data-i18n="popup.title">
+                    اكتشف منتجات <span class="text-[#b9995e]">هدية الخير</span>
+                </h2>
+
+                <p id="popupSubtitle" class="popup-subtitle" data-i18n="popup.subtitle">
+                    تشكيلة مختارة من المنتجات العملية والهدايا المميزة، مثالية للحاج والمعتمر ولإهداء الأحباب.
+                </p>
+
+                <ul class="popup-features">
+                    <li>
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                            <path d="M20 6 9 17l-5-5"></path>
+                        </svg>
+                        <span data-i18n="popup.feature1">جودة عالية وأسعار منافسة</span>
+                    </li>
+                    <li>
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                            <path d="M20 6 9 17l-5-5"></path>
+                        </svg>
+                        <span data-i18n="popup.feature2">شحن سريع لجميع مناطق المملكة</span>
+                    </li>
+                    <li>
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                            <path d="M20 6 9 17l-5-5"></path>
+                        </svg>
+                        <span data-i18n="popup.feature3">دعم مبادرة هدية الخير غير الربحية</span>
+                    </li>
+                </ul>
+
+                <div class="popup-actions">
+                    <a
+                            id="popupStoreBtn"
+                            class="popup-cta"
+                            href="https://store.hak.com.sa/"
+                            target="_blank"
+                            rel="noopener"
+                    >
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                            <circle cx="8" cy="21" r="1"></circle>
+                            <circle cx="19" cy="21" r="1"></circle>
+                            <path d="M2.05 2.05h2l2.66 12.42a2 2 0 0 0 2 1.58h9.78a2 2 0 0 0 1.95-1.57l1.65-7.43H5.12"></path>
+                        </svg>
+                        <span data-i18n="popup.cta">تصفح المتجر الآن</span>
+                    </a>
+
+                    <button
+                            type="button"
+                            class="popup-later"
+                            id="popupLater"
+                            data-i18n="popup.later"
+                    >
+                        لاحقًا
+                    </button>
+                </div>
+            </div>
+
+            <!-- Right side: Featured products -->
+            <div class="popup-products">
+                <div class="popup-products-header">
+                    <span data-i18n="popup.productsTitle">الأكثر طلبًا</span>
+                </div>
+
+                <div class="popup-products-grid">
+                    <!-- Product 1: Spray bottle -->
+                    <a
+                            class="popup-product"
+                            data-product-slug="OyPKqGw"
+                            href="https://store.hak.com.sa/ar/OyPKqGw"
+                            target="_blank"
+                            rel="noopener"
+                    >
+                        <div class="popup-product-image">
+                            <img
+                                    src="https://cdn.salla.sa/ZYBAdx/9d3ab12a-e28e-48b4-9f45-6de88dc71aef-500x500-zxQbk8ARrBFB27ZSmVanJa5JkftNCzjswJYJtDMd.png"
+                                    alt=""
+                                    data-i18n-alt="product3.title"
+                                    loading="lazy"
+                            >
+                        </div>
+                        <div class="popup-product-info">
+                            <h3 data-i18n="product3.title">زمزمية مياه مزودة برشاش</h3>
+                            <div class="popup-product-price">
+                                <span>45</span>
+                                <small data-i18n="products.currency">ر.س</small>
+                            </div>
+                        </div>
+                    </a>
+
+                    <!-- Product 2: Prayer mat -->
+                    <a
+                            class="popup-product"
+                            data-product-slug="ABbmzpO"
+                            href="https://store.hak.com.sa/ar/ABbmzpO"
+                            target="_blank"
+                            rel="noopener"
+                    >
+                        <div class="popup-product-image">
+                            <img
+                                    src="https://cdn.salla.sa/ZYBAdx/865c1517-4e6e-43ce-91ec-72a21df6df86-500x500-unCrB88vfFSxdrLBNiNaY3YWMpzcmCkq5FrY135b.png"
+                                    alt=""
+                                    data-i18n-alt="product5.title"
+                                    loading="lazy"
+                            >
+                        </div>
+                        <div class="popup-product-info">
+                            <h3 data-i18n="product5.title">سجادة صلاة محمولة للسفر</h3>
+                            <div class="popup-product-price">
+                                <span>8</span>
+                                <small data-i18n="products.currency">ر.س</small>
+                            </div>
+                        </div>
+                    </a>
+
+                    <!-- Product 3: Gift pouch -->
+                    <a
+                            class="popup-product"
+                            data-product-slug="qGlbQYd"
+                            href="https://store.hak.com.sa/ar/qGlbQYd"
+                            target="_blank"
+                            rel="noopener"
+                    >
+                        <div class="popup-product-image">
+                            <img
+                                    src="https://cdn.salla.sa/ZYBAdx/6c2a4d49-a8b5-4755-a2ad-fe87e7e27d4d-500x500-BUcAUY8enuLxUQ9Rv3WN5JhvD5NSkcoGjYFHO5W6.png"
+                                    alt=""
+                                    data-i18n-alt="product8.title"
+                                    loading="lazy"
+                            >
+                        </div>
+                        <div class="popup-product-info">
+                            <h3 data-i18n="product8.title">كيس هدايا قماشي صغير</h3>
+                            <div class="popup-product-price">
+                                <span>4.99</span>
+                                <small data-i18n="products.currency">ر.س</small>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <script>
     document.getElementById("year").textContent = new Date().getFullYear();
 </script>
@@ -4114,5 +4286,6 @@
 <script src="script.js"></script>
 <script src="i18n.js"></script>
 <script src="products.js"></script>
+<script src="popup.js"></script>
 </body>
 </html>

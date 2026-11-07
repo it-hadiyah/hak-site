@@ -1,0 +1,416 @@
+/* ==========================================================================
+   Products Pop-up
+========================================================================== */
+.popup-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.25rem;
+    background: rgba(15, 23, 21, .55);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity .35s ease, visibility .35s ease;
+}
+
+.popup-overlay.is-open {
+    opacity: 1;
+    visibility: visible;
+}
+
+.popup-overlay[hidden] {
+    display: none;
+}
+
+.popup-container {
+    position: relative;
+    width: 100%;
+    max-width: 960px;
+    max-height: 92vh;
+    overflow: hidden;
+    background: #fff;
+    border-radius: 1.75rem;
+    box-shadow: 0 40px 80px -30px rgba(1, 119, 104, .45);
+    transform: translateY(24px) scale(.96);
+    opacity: 0;
+    transition: transform .45s cubic-bezier(.2, .9, .3, 1.2), opacity .35s ease;
+}
+
+.popup-overlay.is-open .popup-container {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+}
+
+/* ---------- Close button ---------- */
+.popup-close {
+    position: absolute;
+    z-index: 3;
+    top: 1rem;
+    inset-inline-end: 1rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.5rem;
+    height: 2.5rem;
+    border: 1px solid #eef1ef;
+    border-radius: 9999px;
+    background: rgba(255, 255, 255, .95);
+    color: #4b5563;
+    cursor: pointer;
+    transition: background-color .25s ease, color .25s ease, transform .25s ease, border-color .25s ease;
+}
+
+.popup-close:hover {
+    background: #017768;
+    border-color: #017768;
+    color: #fff;
+    transform: rotate(90deg);
+}
+
+.popup-close:focus-visible {
+    outline: 3px solid rgba(1, 119, 104, .35);
+    outline-offset: 2px;
+}
+
+.popup-close svg {
+    width: 1.1rem;
+    height: 1.1rem;
+}
+
+/* ---------- Body layout ---------- */
+.popup-body {
+    display: grid;
+    grid-template-columns: 1.05fr 1fr;
+    max-height: 92vh;
+    overflow: hidden;
+}
+
+/* ---------- Info side ---------- */
+.popup-info {
+    padding: 2.75rem 2.25rem 2.25rem;
+    background: linear-gradient(155deg, #f7fbfa 0%, #ffffff 55%, #fdf9f1 100%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow-y: auto;
+}
+
+.popup-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: .35rem;
+    align-self: flex-start;
+    padding: .4rem .9rem;
+    border-radius: 9999px;
+    background: rgba(185, 153, 94, .14);
+    color: #9a7b45;
+    font-size: .78rem;
+    font-weight: 800;
+    margin-bottom: 1rem;
+}
+
+.popup-title {
+    margin: 0 0 .75rem;
+    color: #017768;
+    font-size: clamp(1.4rem, 2.4vw, 1.9rem);
+    font-weight: 900;
+    line-height: 1.4;
+}
+
+.popup-subtitle {
+    margin: 0 0 1.5rem;
+    color: #6b7280;
+    font-size: .95rem;
+    line-height: 1.8;
+}
+
+.popup-features {
+    list-style: none;
+    margin: 0 0 1.75rem;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: .65rem;
+}
+
+.popup-features li {
+    display: flex;
+    align-items: center;
+    gap: .6rem;
+    color: #374151;
+    font-size: .88rem;
+    font-weight: 600;
+}
+
+.popup-features svg {
+    flex-shrink: 0;
+    width: 1.15rem;
+    height: 1.15rem;
+    color: #017768;
+}
+
+.popup-actions {
+    display: flex;
+    align-items: center;
+    gap: .75rem;
+    flex-wrap: wrap;
+}
+
+.popup-cta {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: .55rem;
+    padding: .85rem 1.6rem;
+    border-radius: .9rem;
+    background: linear-gradient(135deg, #017768 0%, #015f53 100%);
+    color: #fff;
+    font-size: .95rem;
+    font-weight: 800;
+    text-decoration: none;
+    box-shadow: 0 14px 28px -14px rgba(1, 119, 104, .85);
+    transition: transform .25s ease, box-shadow .25s ease, background .25s ease;
+}
+
+.popup-cta:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 18px 34px -14px rgba(1, 119, 104, .95);
+    background: linear-gradient(135deg, #015f53 0%, #014f45 100%);
+}
+
+.popup-cta:focus-visible {
+    outline: 3px solid rgba(1, 119, 104, .35);
+    outline-offset: 2px;
+}
+
+.popup-cta svg {
+    width: 1.1rem;
+    height: 1.1rem;
+}
+
+.popup-later {
+    appearance: none;
+    border: 0;
+    background: transparent;
+    color: #6b7280;
+    font-size: .88rem;
+    font-weight: 700;
+    padding: .6rem .9rem;
+    border-radius: .7rem;
+    cursor: pointer;
+    transition: color .25s ease, background-color .25s ease;
+}
+
+.popup-later:hover {
+    color: #017768;
+    background: rgba(1, 119, 104, .07);
+}
+
+.popup-later:focus-visible {
+    outline: 3px solid rgba(1, 119, 104, .25);
+    outline-offset: 2px;
+}
+
+/* ---------- Products side ---------- */
+.popup-products {
+    padding: 2.25rem 2rem;
+    background: #fafcfb;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    border-inline-start: 1px solid #eef1ef;
+}
+
+.popup-products-header {
+    margin-bottom: 1.1rem;
+    color: #017768;
+    font-size: .82rem;
+    font-weight: 800;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.popup-products-grid {
+    display: flex;
+    flex-direction: column;
+    gap: .85rem;
+}
+
+.popup-product {
+    display: flex;
+    align-items: center;
+    gap: .9rem;
+    padding: .75rem;
+    background: #fff;
+    border: 1px solid #eef1ef;
+    border-radius: 1.1rem;
+    text-decoration: none;
+    transition: transform .25s ease, box-shadow .25s ease, border-color .25s ease;
+}
+
+.popup-product:hover {
+    transform: translateY(-3px);
+    border-color: rgba(185, 153, 94, .45);
+    box-shadow: 0 18px 32px -22px rgba(1, 119, 104, .55);
+}
+
+.popup-product:focus-visible {
+    outline: 3px solid rgba(1, 119, 104, .3);
+    outline-offset: 2px;
+}
+
+.popup-product-image {
+    flex-shrink: 0;
+    width: 4.75rem;
+    height: 4.75rem;
+    border-radius: .85rem;
+    overflow: hidden;
+    background: linear-gradient(145deg, #f8faf8 0%, #f5f2ea 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: .35rem;
+}
+
+.popup-product-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    user-select: none;
+    -webkit-user-drag: none;
+}
+
+.popup-product-info {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    gap: .35rem;
+}
+
+.popup-product-info h3 {
+    margin: 0;
+    color: #017768;
+    font-size: .9rem;
+    font-weight: 800;
+    line-height: 1.5;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+}
+
+.popup-product-price {
+    display: inline-flex;
+    align-items: baseline;
+    gap: .25rem;
+    color: #b9995e;
+    font-weight: 900;
+    font-size: 1.05rem;
+    line-height: 1;
+}
+
+.popup-product-price small {
+    font-size: .72rem;
+    font-weight: 800;
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 860px) {
+    .popup-body {
+        grid-template-columns: 1fr;
+        max-height: 92vh;
+        overflow-y: auto;
+    }
+
+    .popup-info {
+        padding: 2.25rem 1.5rem 1.5rem;
+        overflow: visible;
+    }
+
+    .popup-products {
+        border-inline-start: 0;
+        border-block-start: 1px solid #eef1ef;
+        padding: 1.5rem;
+        overflow: visible;
+    }
+}
+
+@media (max-width: 560px) {
+    .popup-overlay {
+        padding: .75rem;
+        align-items: flex-end;
+    }
+
+    .popup-container {
+        max-height: 94vh;
+        border-radius: 1.4rem 1.4rem .6rem .6rem;
+    }
+
+    .popup-info {
+        padding: 2rem 1.25rem 1.25rem;
+    }
+
+    .popup-products {
+        padding: 1.25rem;
+    }
+
+    .popup-title {
+        font-size: 1.35rem;
+    }
+
+    .popup-subtitle {
+        font-size: .9rem;
+    }
+
+    .popup-actions {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .popup-cta,
+    .popup-later {
+        width: 100%;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .popup-product-image {
+        width: 4rem;
+        height: 4rem;
+    }
+
+    .popup-product-info h3 {
+        font-size: .85rem;
+    }
+}
+
+/* ---------- Reduced motion ---------- */
+@media (prefers-reduced-motion: reduce) {
+    .popup-overlay,
+    .popup-container,
+    .popup-close,
+    .popup-cta,
+    .popup-product {
+        transition: none !important;
+    }
+
+    .popup-close:hover {
+        transform: none;
+    }
+
+    .popup-cta:hover,
+    .popup-product:hover {
+        transform: none;
+    }
+}
+
+/* ---------- Prevent body scroll when popup is open ---------- */
+body.popup-open {
+    overflow: hidden;
+}
