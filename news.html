@@ -1,32 +1,185 @@
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="أخبار ومبادرات شركة هدية الخير للاستثمار">
-  <title>أرشيف الأخبار | هدية الخير</title>
+  <!-- ===== Basic Meta Tags ===== -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <!-- Favicon -->
+  <!-- ===== Primary SEO Meta Tags ===== -->
+  <title id="pageTitle">أرشيف الأخبار | هدية الخير للاستثمار</title>
+  <meta name="title" id="metaTitle" content="أرشيف الأخبار | هدية الخير للاستثمار">
+  <meta name="description" id="metaDescription"
+        content="تصفّح آخر أخبار ومبادرات ومقالات شركة هدية الخير للاستثمار، الذراع الاستثماري غير الربحي لجمعية هدية الحاج والمعتمر.">
+  <meta name="keywords" id="metaKeywords"
+        content="أخبار هدية الخير, المركز الإعلامي, هدية الخير للاستثمار, جمعية هدية الحاج والمعتمر, مقالات الحج والعمرة, استثمارات مستدامة, خدمة ضيوف الرحمن">
+  <meta name="author" content="شركة هدية الخير للاستثمار">
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+  <meta name="googlebot" content="index, follow">
+  <meta name="language" content="Arabic">
+  <meta name="revisit-after" content="7 days">
+  <meta name="rating" content="general">
+
+  <!-- ===== Canonical URL ===== -->
+  <link rel="canonical" id="canonicalUrl" href="https://www.hak.com.sa/news.html">
+
+  <!-- ===== Hreflang Tags (Multi-language) ===== -->
+  <link rel="alternate" hreflang="ar" href="https://www.hak.com.sa/news.html">
+  <link rel="alternate" hreflang="en" href="https://www.hak.com.sa/en/news.html">
+  <link rel="alternate" hreflang="id" href="https://www.hak.com.sa/id/news.html">
+  <link rel="alternate" hreflang="fr" href="https://www.hak.com.sa/fr/news.html">
+  <link rel="alternate" hreflang="x-default" href="https://www.hak.com.sa/news.html">
+
+  <!-- ===== Open Graph / Facebook ===== -->
+  <meta property="og:type" content="article">
+  <meta property="og:url" id="ogUrl" content="https://www.hak.com.sa/news.html">
+  <meta property="og:title" id="ogTitle" content="أرشيف الأخبار | هدية الخير للاستثمار">
+  <meta property="og:description" id="ogDescription"
+        content="تصفّح آخر أخبار ومبادرات شركة هدية الخير للاستثمار.">
+  <meta property="og:image" id="ogImage" content="https://www.hak.com.sa/images/logo.png">
+  <meta property="og:image:secure_url" id="ogImageSecure" content="https://www.hak.com.sa/images/logo.png">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="شركة هدية الخير للاستثمار - أرشيف الأخبار">
+  <meta property="og:site_name" content="هدية الخير للاستثمار">
+  <meta property="og:locale" content="ar_SA">
+  <meta property="og:locale:alternate" content="en_US">
+  <meta property="og:locale:alternate" content="id_ID">
+  <meta property="og:locale:alternate" content="fr_FR">
+  <meta property="article:published_time" id="ogPublishedTime" content="2026-01-01T00:00:00+03:00">
+  <meta property="article:author" content="القسم الإعلامي - هدية الخير">
+  <meta property="article:section" content="المركز الإعلامي">
+
+  <!-- ===== Twitter Card ===== -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" id="twitterUrl" content="https://www.hak.com.sa/news.html">
+  <meta name="twitter:site" content="@Hadiyahalkhair">
+  <meta name="twitter:creator" content="@Hadiyahalkhair">
+  <meta name="twitter:title" id="twitterTitle" content="أرشيف الأخبار | هدية الخير للاستثمار">
+  <meta name="twitter:description" id="twitterDescription"
+        content="تصفّح آخر أخبار ومبادرات شركة هدية الخير للاستثمار.">
+  <meta name="twitter:image" id="twitterImage" content="https://www.hak.com.sa/images/logo.png">
+  <meta name="twitter:image:alt" content="شركة هدية الخير للاستثمار">
+
+  <!-- ===== Favicon & App Icons ===== -->
   <link rel="icon" href="images/logo.png" type="image/png">
-   <style>
-     .footer-ltr{
-           text-align: left !important;
-       }
-   </style>
-  <!-- Tailwind CSS -->
-  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
 
-  <!-- Google Fonts -->
+  <!-- ===== Theme Color ===== -->
+  <meta name="theme-color" content="#017768">
+  <meta name="msapplication-TileColor" content="#017768">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="هدية الخير">
+
+  <!-- ===== Structured Data: BreadcrumbList ===== -->
+  <script type="application/ld+json" id="breadcrumbSchema">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "الرئيسية",
+          "item": "https://www.hak.com.sa/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "المركز الإعلامي",
+          "item": "https://www.hak.com.sa/index.html#media"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "أرشيف الأخبار",
+          "item": "https://www.hak.com.sa/news.html"
+        }
+      ]
+    }
+  </script>
+
+  <!-- ===== Structured Data: NewsArticle (Dynamic) ===== -->
+  <script type="application/ld+json" id="newsArticleSchema">
+    {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "أرشيف الأخبار | هدية الخير",
+      "description": "تصفّح آخر أخبار ومبادرات شركة هدية الخير للاستثمار.",
+      "image": "https://www.hak.com.sa/images/logo.png",
+      "datePublished": "2026-01-01",
+      "dateModified": "2026-01-01",
+      "author": {
+        "@type": "Organization",
+        "name": "القسم الإعلامي - هدية الخير للاستثمار"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "شركة هدية الخير للاستثمار",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.hak.com.sa/images/logo.png"
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.hak.com.sa/news.html"
+      },
+      "inLanguage": "ar-SA",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Hadiyah Alkhair Investment",
+        "url": "https://www.hak.com.sa/"
+      }
+    }
+  </script>
+
+  <!-- ===== Structured Data: Organization (Shared) ===== -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "شركة هدية الخير للاستثمار",
+      "alternateName": ["Hadiyah Alkhair Investment", "HAK"],
+      "url": "https://www.hak.com.sa/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.hak.com.sa/images/logo.png"
+      }
+    }
+  </script>
+
+  <!-- ===== Performance Optimization ===== -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@300;400;500;700;800&display=swap" rel="stylesheet">
-  <!-- Font Awesome -->
-  <link rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"/>
+  <link rel="dns-prefetch" href="//fonts.googleapis.com">
+  <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+  <link rel="dns-prefetch" href="//pbs.twimg.com">
 
-  <!-- Custom CSS -->
-  <link rel="stylesheet" href="css/styles.css" />
+  <!-- ===== Fonts ===== -->
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@100..900&display=swap" rel="stylesheet">
 
+  <!-- ===== Tailwind CSS ===== -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- ===== Font Awesome ===== -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"/>
+
+  <!-- ===== Custom Styles ===== -->
+  <link rel="stylesheet" href="css/styles.css">
+
+  <!-- ===== Page-Specific Style ===== -->
+  <style>
+    .footer-ltr {
+      text-align: left !important;
+    }
+  </style>
+
+  <!-- ===== Google Site Verification (if needed on subpages too) ===== -->
+  <meta name="google-site-verification" content="9OEegUX6vW_fQhYjES5pzV-NfFaE0LN5r7r_Z_9QPxA" />
 </head>
 
 <body class="text-gray-800 font-['Noto_Sans_Arabic']">
@@ -256,6 +409,6 @@
 <script src="js/translations.js"></script>
 <script src="js/script.js"></script>
 <script src="js/i18n.js"></script>
-
+<script src="js/meta-updater.js"></script>
 </body>
 </html>
