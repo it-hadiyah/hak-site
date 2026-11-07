@@ -26,8 +26,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const SUPPORTED_LANGS = Object.keys(LANG_CONFIG);
     let currentLang = localStorage.getItem('siteLang') || 'ar';
+
     const storeUrl = document.getElementById('store-url');
     const storeUrlMobile = document.getElementById('store-url-mobile');
+
     const updateStoreHref = (el) => {
         if (!el) return;
         if (currentLang === 'id' || currentLang === 'en' || currentLang === 'fr') {
@@ -36,6 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
             el.href = 'https://store.hak.com.sa/';
         }
     };
+
     updateStoreHref(storeUrl);
     updateStoreHref(storeUrlMobile);
 
@@ -51,12 +54,10 @@ document.addEventListener('DOMContentLoaded', () => {
     // === 2. Handle Language Selection (With Reload) ===
     function selectLanguage(lang) {
         if (!SUPPORTED_LANGS.includes(lang) || lang === currentLang) return;
-
         localStorage.setItem('siteLang', lang);
         window.location.reload();
     }
 
-    // Bind click events to Desktop Dropdown Options
     document.querySelectorAll('.lang-option').forEach(btn => {
         btn.addEventListener('click', (e) => {
             e.preventDefault();
@@ -64,7 +65,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // Bind click events to Mobile Flat List Options
     document.querySelectorAll('.lang-option-mobile').forEach(btn => {
         btn.addEventListener('click', (e) => {
             e.preventDefault();
@@ -77,19 +77,16 @@ document.addEventListener('DOMContentLoaded', () => {
         const config = LANG_CONFIG[lang];
         if (!config) return;
 
-        // Update Desktop Button Flag & Label
         const currentFlag = document.getElementById('currentFlag');
         const currentLangEl = document.getElementById('currentLang');
-        if (currentFlag) currentFlag.innerHTML = config.flag; // Use innerHTML for SVG
+        if (currentFlag) currentFlag.innerHTML = config.flag;
         if (currentLangEl) currentLangEl.textContent = config.label;
 
-        // Update Mobile Button Flag & Label
         const currentFlagMobile = document.getElementById('currentFlagMobile');
         const currentLangMobileEl = document.getElementById('currentLangMobile');
-        if (currentFlagMobile) currentFlagMobile.innerHTML = config.flag; // Use innerHTML for SVG
+        if (currentFlagMobile) currentFlagMobile.innerHTML = config.flag;
         if (currentLangMobileEl) currentLangMobileEl.textContent = config.label;
 
-        // Highlight active option in Desktop Dropdown
         document.querySelectorAll('.lang-option').forEach(btn => {
             const isActive = btn.dataset.lang === lang;
             btn.classList.toggle('bg-[#017768]/10', isActive);
@@ -97,7 +94,6 @@ document.addEventListener('DOMContentLoaded', () => {
             if (textSpan) textSpan.classList.toggle('text-[#017768]', isActive);
         });
 
-        // Highlight active option in Mobile List
         document.querySelectorAll('.lang-option-mobile').forEach(btn => {
             const isActive = btn.dataset.lang === lang;
             btn.classList.toggle('bg-[#017768]/10', isActive);
@@ -154,10 +150,12 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         updateNewsItems(lang);
+        updateSingleNewsPage(lang); // ✅ NEW: Handle news.html page
+
         document.dispatchEvent(new CustomEvent('languageChanged', { detail: { lang } }));
     }
 
-    // === 5. Update News Items ===
+    // === 5. Update News Cards (Homepage) ===
     function updateNewsItems(lang) {
         document.querySelectorAll('[data-news-id]').forEach(item => {
             const id = item.getAttribute('data-news-id');
@@ -179,24 +177,120 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // === 6. Mobile Menu Toggle ===
+    // === 6. ✅ NEW: Update Single News Page (news.html) ===
+    function updateSingleNewsPage(lang) {
+        const titleEl = document.getElementById('news-title');
+        if (!titleEl) return; // Not on news.html
+
+        const urlParams = new URLSearchParams(window.location.search);
+        const newsId = urlParams.get('id');
+        if (!newsId) return;
+
+        const dict = translations[lang] || {};
+        const fallbackDict = translations.ar || {};
+
+        // --- Title ---
+        const title = dict[`news${newsId}.title`] || fallbackDict[`news${newsId}.title`];
+        if (title) titleEl.textContent = title;
+
+        // --- Description / Content ---
+        const descEl = document.getElementById('news-text');
+        const rawDesc = dict[`news${newsId}.desc`] || fallbackDict[`news${newsId}.desc`] || '';
+        if (descEl && rawDesc) {
+            // Support multi-paragraph text separated by newlines
+            descEl.innerHTML = rawDesc
+                .split(/\n+/)
+                .map(p => `<p>${p}</p>`)
+                .join('');
+        }
+
+        // --- Category ---
+        const categoryEl = document.getElementById('news-category');
+        const category = dict[`news${newsId}.category`] || dict['news.category'] || fallbackDict['news.category'];
+        if (categoryEl && category) categoryEl.textContent = category;
+
+        // --- Date ---
+        const dateEl = document.getElementById('news-date');
+        const dateStr = dict[`news${newsId}.date`];
+        if (dateEl) {
+            if (dateStr) {
+                dateEl.textContent = dateStr;
+            } else {
+                dateEl.textContent = formatCurrentDate(lang);
+            }
+        }
+
+        // --- Author ---
+        const authorEl = document.getElementById('news-author');
+        const publishedBy = dict['news.publishedBy'] || fallbackDict['news.publishedBy'];
+        if (authorEl && publishedBy) {
+            // Remove prefix if present, keep only the department name
+            authorEl.textContent = publishedBy.replace(/^(Published by|نشر بواسطة|Diterbitkan oleh|Publié par)[\s\S]*?[:\-]?\s*/i, '') || 'القسم الإعلامي';
+        }
+
+        // --- Image ---
+        const imageEl = document.getElementById('news-image');
+        if (imageEl) {
+            const imgAr = imageEl.dataset.imageAr;
+            const imgEn = imageEl.dataset.imageEn;
+            const chosen = lang === 'ar'
+                ? (imgAr || imgEn)
+                : (imgEn || imgAr);
+            if (chosen) imageEl.src = chosen;
+
+            const alt = dict[`news${newsId}.alt`] || title;
+            if (alt) imageEl.setAttribute('alt', alt);
+        }
+
+        // --- Subtitle (optional) ---
+        const subtitleEl = document.getElementById('news-subtitle');
+        if (subtitleEl) {
+            const subtitle = dict[`news${newsId}.subtitle`];
+            if (subtitle) {
+                subtitleEl.textContent = subtitle;
+                subtitleEl.classList.remove('hidden');
+            } else {
+                subtitleEl.classList.add('hidden');
+            }
+        }
+
+        // --- Dispatch event for meta-updater.js ---
+        document.dispatchEvent(new CustomEvent('newsLoaded', {
+            detail: {
+                id: newsId,
+                title: title || '',
+                description: rawDesc.substring(0, 160),
+                image: imageEl?.src || '',
+                date: dateStr || '',
+                category: category || '',
+                author: authorEl?.textContent || '',
+                lang: lang
+            }
+        }));
+    }
+
+    // --- Helper: Format current date according to language ---
+    function formatCurrentDate(lang) {
+        const now = new Date();
+        const months = translations[lang]?.['news.months'] || translations.ar['news.months'];
+        const day = now.getDate();
+        const month = months[now.getMonth()];
+        const year = now.getFullYear();
+        return `${day} ${month} ${year}`;
+    }
+
+    // === 7. Mobile Menu Toggle ===
     const mobileMenuBtn = document.getElementById('mobileMenuBtn');
     const mobileMenu = document.getElementById('mobileMenu');
     const floatingStoreBtn = document.getElementById('floatingStoreBtn');
 
     if (mobileMenuBtn && mobileMenu) {
         mobileMenuBtn.addEventListener('click', () => {
-            // تبديل القائمة الجانبية
             mobileMenu.classList.toggle('hidden');
-
-            // تبديل class على body لإخفاء الزر العائم
             document.body.classList.toggle('mobile-menu-open');
-
-            // تغيير أيقونة الزر (☰ ↔ ✕)
             mobileMenuBtn.textContent = mobileMenu.classList.contains('hidden') ? '☰' : '✕';
         });
 
-        // إغلاق القائمة عند الضغط على أي رابط
         mobileMenu.querySelectorAll('a.nav-link').forEach(link => {
             link.addEventListener('click', () => {
                 mobileMenu.classList.add('hidden');
@@ -205,7 +299,6 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         });
 
-        // إغلاق القائمة عند الضغط على زر المتجر داخل القائمة
         const storeMobileLink = document.getElementById('store-url-mobile');
         if (storeMobileLink) {
             storeMobileLink.addEventListener('click', () => {
@@ -216,7 +309,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // === 7. Smooth Scroll ===
+    // === 8. Smooth Scroll ===
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         anchor.addEventListener('click', function(e) {
             const href = this.getAttribute('href');
@@ -230,7 +323,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // === 8. Header Scroll Effect ===
+    // === 9. Header Scroll Effect ===
     const header = document.querySelector('header');
     if (header) window.addEventListener('scroll', () => header.classList.toggle('shadow-md', window.scrollY > 10));
 });
