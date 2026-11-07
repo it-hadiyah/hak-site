@@ -134,6 +134,18 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
 
+        document.querySelectorAll('[data-i18n-alt]').forEach(el => {
+            const key = el.getAttribute('data-i18n-alt');
+            const translation = translations[lang]?.[key];
+            if (translation) el.setAttribute('alt', translation);
+        });
+
+        document.querySelectorAll('[data-i18n-aria]').forEach(el => {
+            const key = el.getAttribute('data-i18n-aria');
+            const translation = translations[lang]?.[key];
+            if (translation) el.setAttribute('aria-label', translation);
+        });
+
         document.querySelectorAll('[data-i18n-list]').forEach(el => {
             el.querySelectorAll('li[data-i18n]').forEach(li => {
                 const key = li.getAttribute('data-i18n');
