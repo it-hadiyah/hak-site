@@ -1107,7 +1107,7 @@ Insights into the Hajj and Umrah Economy — Article Three`
                 elements.content.innerHTML = `
           <div class="text-center py-12">
             <p class="text-xl text-gray-600 mb-4" data-i18n="news.notFound">عذرًا، الخبر المطلوب غير موجود</p>
-            <a href="index.html" class="px-6 py-3 bg-[#017768] text-white rounded-xl font-bold hover:bg-[#014f45] transition" data-i18n="news.backHome">العودة للصفحة الرئيسية</a>
+            <a href="../index.html" class="px-6 py-3 bg-[#017768] text-white rounded-xl font-bold hover:bg-[#014f45] transition" data-i18n="news.backHome">العودة للصفحة الرئيسية</a>
           </div>
         `;
             }
