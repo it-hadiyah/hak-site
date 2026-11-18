@@ -114,6 +114,11 @@ const translations = {
         "news8.category": "مقالات",
         "news8.alt": "مقال: التصنيع أم التوريد؟ كيف تتخذ الشركات قراراتها الاستثمارية في اقتصاد الحج والعمرة؟",
         "news8.date": "4 نوفمبر 2026",
+        "news9.title": "من توقيع الشراكات إلى صناعة القيمة: كيف تتحول الاتفاقيات إلى فرص اقتصادية في قطاع الحج والعمرة؟",
+        "news9.desc": "قراءة في تحويل الاتفاقيات ومذكرات التفاهم إلى نماذج أعمال قابلة للتنفيذ، وقياس أثر الشراكات الاقتصادية في قطاع الحج والعمرة.",
+        "news9.category": "مقالات",
+        "news9.alt": "مقال: من توقيع الشراكات إلى صناعة القيمة: كيف تتحول الاتفاقيات إلى فرص اقتصادية في قطاع الحج والعمرة؟",
+        "news9.date": "18 نوفمبر 2026",
 
         // Products Section
         "products.badge": "المتجر",
@@ -295,6 +300,11 @@ const translations = {
         "news8.category": "Articles",
         "news8.alt": "Article: Manufacturing or Sourcing? How Do Companies Make Investment Decisions in the Hajj and Umrah Economy?",
         "news8.date": "November 4, 2026",
+        "news9.title": "From Signing Partnerships to Creating Value: How Do Agreements Turn into Economic Opportunities in the Hajj and Umrah Sector?",
+        "news9.desc": "An exploration of how agreements and memoranda of understanding become executable business models, and how to measure the economic impact of partnerships in the Hajj and Umrah sector.",
+        "news9.category": "Articles",
+        "news9.alt": "Article: From Signing Partnerships to Creating Value: How Do Agreements Turn into Economic Opportunities in the Hajj and Umrah Sector?",
+        "news9.date": "November 18, 2026",
 
         // Products Section
         "products.badge": "Our Store",
@@ -471,6 +481,11 @@ const translations = {
         "news8.category": "Artikel",
         "news8.alt": "Artikel: Manufaktur atau Pengadaan dalam Ekonomi Haji dan Umrah?",
         "news8.date": "4 November 2026",
+        "news9.title": "Dari Penandatanganan Kemitraan ke Penciptaan Nilai: Bagaimana Perjanjian Berubah Menjadi Peluang Ekonomi di Sektor Haji dan Umrah?",
+        "news9.desc": "Tinjauan tentang transformasi perjanjian dan nota kesepahaman menjadi model bisnis yang dapat dilaksanakan, serta pengukuran dampak ekonomi kemitraan di sektor Haji dan Umrah.",
+        "news9.category": "Artikel",
+        "news9.alt": "Artikel: Dari Penandatanganan Kemitraan ke Penciptaan Nilai di Sektor Haji dan Umrah",
+        "news9.date": "18 November 2026",
 
         // Products Section
         "products.badge": "Toko Kami",
@@ -648,6 +663,11 @@ const translations = {
     "news8.category": "Articles",
     "news8.alt": "Article : Fabrication ou approvisionnement dans l'économie du Hajj et de la Omra ?",
     "news8.date": "4 novembre 2026",
+    "news9.title": "De la signature de partenariats à la création de valeur : comment les accords se transforment-ils en opportunités économiques dans le secteur du Hajj et de la Omra ?",
+    "news9.desc": "Une analyse de la transformation des accords et protocoles d'accord en modèles d'affaires réalisables, et de la mesure de l'impact économique des partenariats dans le secteur du Hajj et de la Omra.",
+    "news9.category": "Articles",
+    "news9.alt": "Article : De la signature de partenariats à la création de valeur dans le secteur du Hajj et de la Omra",
+    "news9.date": "18 novembre 2026",
 
     // Products Section
     "products.badge": "Notre boutique",
