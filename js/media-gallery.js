@@ -3,10 +3,11 @@ document.addEventListener('DOMContentLoaded', () => {
     const dialog = document.getElementById('galleryDialog');
     const grid = document.getElementById('galleryGrid');
     const emptyMessage = document.getElementById('galleryEmpty');
+    const moreButton = document.getElementById('galleryLoadMore');
     const viewer = dialog?.querySelector('[data-gallery-viewer]');
     const titleElement = document.getElementById('galleryDialogTitle');
 
-    if (!section || !dialog || !grid || !emptyMessage || !viewer || !titleElement) return;
+    if (!section || !dialog || !grid || !emptyMessage || !moreButton || !viewer || !titleElement) return;
 
     const sourceItems = window.mediaGalleryItems;
     if (!Array.isArray(sourceItems)) {
@@ -34,10 +35,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const nextButton = dialog.querySelector('[data-gallery-next]');
     const closeButton = dialog.querySelector('[data-gallery-close]');
     const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+    const pageSize = 4;
     let activeFilter = 'all';
     let activeItem = null;
     let focusedElementBeforeOpen = null;
     let intersectionObserver = null;
+    let visibleCount = 0;
 
     const getLanguage = () => document.documentElement.lang || 'ar';
     const getTranslation = (key) => {
@@ -90,30 +93,42 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (item.type === 'video') media.append(createPlayIcon());
 
-        const caption = document.createElement('span');
-        caption.className = 'gallery-card-caption';
-        caption.textContent = getLocalizedValue(item.title);
-        button.append(media, caption);
+        button.append(media);
         button.addEventListener('click', () => openItem(item));
         card.append(button);
         return card;
     };
 
-    const render = () => {
-        if (intersectionObserver) intersectionObserver.disconnect();
-        intersectionObserver = 'IntersectionObserver' in window && !reducedMotion.matches
-            ? new IntersectionObserver((entries, observer) => {
-                entries.forEach((entry) => {
-                    if (!entry.isIntersecting) return;
-                    entry.target.classList.add('is-visible');
-                    observer.unobserve(entry.target);
-                });
-            }, { threshold: 0.12 })
-            : null;
+    const updateMoreButton = (total) => {
+        const remaining = total - visibleCount;
+        moreButton.hidden = remaining <= 0;
+        if (moreButton.hidden) return;
+        moreButton.textContent = `${getTranslation('gallery.loadMore')} (${remaining})`;
+    };
+
+    const render = (reset = true) => {
+        if (reset) {
+            visibleCount = 0;
+            grid.replaceChildren();
+            if (intersectionObserver) intersectionObserver.disconnect();
+            intersectionObserver = 'IntersectionObserver' in window && !reducedMotion.matches
+                ? new IntersectionObserver((entries, observer) => {
+                    entries.forEach((entry) => {
+                        if (!entry.isIntersecting) return;
+                        entry.target.classList.add('is-visible');
+                        observer.unobserve(entry.target);
+                    });
+                }, { threshold: 0.12 })
+                : null;
+        }
 
         const filteredItems = getFilteredItems();
-        grid.replaceChildren(...filteredItems.map(createCard));
-        grid.querySelectorAll('.gallery-card').forEach((card, index) => {
+        const startIndex = grid.children.length;
+        visibleCount = Math.min(filteredItems.length, visibleCount + pageSize);
+        const nextItems = filteredItems.slice(startIndex, visibleCount);
+
+        grid.append(...nextItems.map(createCard));
+        Array.from(grid.children).slice(startIndex).forEach((card, index) => {
             card.style.setProperty('--gallery-delay', `${Math.min(index, 6) * 55}ms`);
             if (intersectionObserver) intersectionObserver.observe(card);
             else card.classList.add('is-visible');
@@ -128,6 +143,8 @@ document.addEventListener('DOMContentLoaded', () => {
         emptyMessage.dataset.i18n = emptyKey;
         const dictionary = typeof translations !== 'undefined' ? translations[getLanguage()] : null;
         if (dictionary?.[emptyKey]) emptyMessage.textContent = dictionary[emptyKey];
+
+        updateMoreButton(filteredItems.length);
     };
 
     const updateNavigation = () => {
@@ -238,6 +255,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     previousButton.addEventListener('click', () => moveImage(-1));
     nextButton.addEventListener('click', () => moveImage(1));
+    moreButton.addEventListener('click', () => render(false));
     closeButton.addEventListener('click', () => dialog.close());
     dialog.addEventListener('click', (event) => {
         if (event.target === dialog) dialog.close();

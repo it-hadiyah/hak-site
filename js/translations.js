@@ -85,6 +85,7 @@ const translations = {
         "gallery.previous": "الصورة السابقة",
         "gallery.next": "الصورة التالية",
         "gallery.play": "تشغيل الفيديو",
+        "gallery.loadMore": "عرض المزيد",
 
         // PARTNERS Section
         "partner.badge": "شركاؤنا",
@@ -263,6 +264,7 @@ const translations = {
         "gallery.previous": "Previous image",
         "gallery.next": "Next image",
         "gallery.play": "Play video",
+        "gallery.loadMore": "Load more",
 
         // PARTNERS Section
         "partner.badge": "Our Partners",
@@ -447,6 +449,7 @@ const translations = {
         "gallery.previous": "Gambar sebelumnya",
         "gallery.next": "Gambar berikutnya",
         "gallery.play": "Putar video",
+        "gallery.loadMore": "Muat lebih banyak",
 
         // News Items (Preview)
         "news1.title": "Hadiah Al-Khair berpartisipasi dalam Konferensi dan Pameran Haji untuk memperkenalkan inisiatif dan layanannya",
@@ -623,6 +626,7 @@ const translations = {
     "gallery.previous": "Image précédente",
     "gallery.next": "Image suivante",
     "gallery.play": "Lire la vidéo",
+    "gallery.loadMore": "Afficher plus",
 
     // News Items
     "news1.title": "Lancement des plateformes de médias sociaux",
