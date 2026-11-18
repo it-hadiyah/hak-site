@@ -10,6 +10,35 @@
     const BASE_URL = 'https://www.hak.com.sa';
     const DEFAULT_LOGO = `${BASE_URL}/images/logo.png`;
 
+    const MONTHS = {
+        'يناير': 0, 'فبراير': 1, 'مارس': 2, 'أبريل': 3, 'إبريل': 3, 'مايو': 4, 'يونيو': 5,
+        'يوليو': 6, 'أغسطس': 7, 'سبتمبر': 8, 'أكتوبر': 9, 'نوفمبر': 10, 'ديسمبر': 11,
+        'january': 0, 'february': 1, 'march': 2, 'april': 3, 'may': 4, 'june': 5,
+        'july': 6, 'august': 7, 'september': 8, 'october': 9, 'november': 10, 'december': 11,
+        'januari': 0, 'februari': 1, 'maret': 2, 'mei': 4, 'juni': 5, 'juli': 6, 'agustus': 7,
+        'oktober': 9, 'desember': 11,
+        'janvier': 0, 'février': 1, 'fevrier': 1, 'mars': 2, 'avril': 3, 'mai': 4, 'juin': 5,
+        'juillet': 6, 'août': 7, 'aout': 7, 'septembre': 8, 'octobre': 9, 'novembre': 10, 'décembre': 11, 'decembre': 11
+    };
+
+    // Parses dates such as "18 نوفمبر 2026" that the browser cannot parse natively.
+    const parseDate = (value) => {
+        if (!value) return null;
+        const direct = new Date(value);
+        if (!Number.isNaN(direct.getTime())) {
+            return new Date(Date.UTC(direct.getFullYear(), direct.getMonth(), direct.getDate(), 12));
+        }
+
+        const match = value.trim().match(/^(\d{1,2})\s+([^\s,،]+)\s+(\d{4})$/);
+        if (!match) return null;
+
+        const month = MONTHS[match[2].toLowerCase()];
+        if (month === undefined) return null;
+
+        const date = new Date(Date.UTC(Number(match[3]), month, Number(match[1]), 12));
+        return Number.isNaN(date.getTime()) ? null : date;
+    };
+
     // Get news ID from URL (?id=1)
     const urlParams = new URLSearchParams(window.location.search);
     const newsId = urlParams.get('id');
@@ -66,9 +95,9 @@
         setMeta('meta[property="og:image:secure_url"]', image || DEFAULT_LOGO);
         setMeta('meta[property="og:type"]', 'article');
 
-        if (date) {
-            const isoDate = new Date(date).toISOString();
-            setMeta('meta[property="article:published_time"]', isoDate);
+        const parsedDate = parseDate(date);
+        if (parsedDate) {
+            setMeta('meta[property="article:published_time"]', parsedDate.toISOString());
         }
 
         if (category) {
@@ -102,7 +131,7 @@
             "headline": title || 'أرشيف الأخبار | هدية الخير',
             "description": description || '',
             "image": image || DEFAULT_LOGO,
-            "datePublished": date ? new Date(date).toISOString().split('T')[0] : new Date().toISOString().split('T')[0],
+            "datePublished": (parseDate(date) || new Date()).toISOString().split('T')[0],
             "dateModified": new Date().toISOString().split('T')[0],
             "author": {
                 "@type": "Organization",
