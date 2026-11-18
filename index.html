@@ -156,6 +156,7 @@
     <!-- ===== Custom Styles ===== -->
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/products.css">
+    <link rel="stylesheet" href="css/gallery.css">
     <link rel="stylesheet" href="css/popup.css">
     <!-- ===== Performance Optimization ===== -->
     <link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -3578,6 +3579,58 @@
         </div>
     </section>
 
+    <!-- MEDIA GALLERY -->
+    <section id="gallery" class="gallery-section py-20 md:py-24 bg-white" aria-labelledby="galleryTitle">
+        <div class="container mx-auto px-4 sm:px-6">
+            <header class="gallery-header">
+                <span class="gallery-eyebrow" data-i18n="gallery.badge">من أرشيفنا</span>
+                <h2 id="galleryTitle" data-i18n="gallery.title">معرض الصور والفيديوهات</h2>
+                <p data-i18n="gallery.description">لحظات من مشاركاتنا وفعالياتنا وأنشطتنا.</p>
+            </header>
+
+            <div class="gallery-tabs" role="tablist" aria-label="نوع الوسائط"
+                 data-i18n-aria="gallery.filterLabel">
+                <button class="gallery-tab is-active" type="button" role="tab" aria-selected="true"
+                        id="galleryTabAll" aria-controls="galleryGrid" data-gallery-filter="all"
+                        data-i18n="gallery.all">الكل</button>
+                <button class="gallery-tab" type="button" role="tab" aria-selected="false"
+                        id="galleryTabPhotos" aria-controls="galleryGrid" data-gallery-filter="image"
+                        data-i18n="gallery.photos">الصور</button>
+                <button class="gallery-tab" type="button" role="tab" aria-selected="false"
+                        id="galleryTabVideos" aria-controls="galleryGrid" data-gallery-filter="video"
+                        data-i18n="gallery.videos">الفيديوهات</button>
+            </div>
+
+            <div id="galleryGrid" class="gallery-grid" role="tabpanel" aria-labelledby="galleryTabAll"
+                 aria-live="polite"></div>
+            <p id="galleryEmpty" class="gallery-empty" role="status" aria-live="polite"
+               data-i18n="gallery.emptyAll" hidden>لا توجد وسائط لعرضها حاليًا.</p>
+        </div>
+    </section>
+
+    <dialog id="galleryDialog" class="gallery-dialog" aria-labelledby="galleryDialogTitle">
+        <div class="gallery-dialog-inner">
+            <div class="gallery-dialog-toolbar">
+                <h2 id="galleryDialogTitle" class="gallery-dialog-title"></h2>
+                <button class="gallery-icon-button gallery-close" type="button"
+                        aria-label="إغلاق" data-i18n-aria="gallery.close" data-gallery-close>
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="gallery-viewer">
+                <button class="gallery-icon-button gallery-previous" type="button"
+                        aria-label="الصورة السابقة" data-i18n-aria="gallery.previous" data-gallery-previous>
+                    <span aria-hidden="true">&lsaquo;</span>
+                </button>
+                <div class="gallery-viewer-content" data-gallery-viewer></div>
+                <button class="gallery-icon-button gallery-next" type="button"
+                        aria-label="الصورة التالية" data-i18n-aria="gallery.next" data-gallery-next>
+                    <span aria-hidden="true">&rsaquo;</span>
+                </button>
+            </div>
+        </div>
+    </dialog>
+
     <!-- CONTACT Section -->
     <section id="contact" class="py-28 bg-gradient-to-b from-white to-gray-50">
         <div class="container mx-auto px-6">
@@ -4286,6 +4339,8 @@
 <script src="js/script.js"></script>
 <script src="js/i18n.js"></script>
 <script src="js/products.js"></script>
+<script src="js/media-gallery-data.js"></script>
+<script src="js/media-gallery.js"></script>
 <script src="js/popup.js"></script>
 </body>
 </html>

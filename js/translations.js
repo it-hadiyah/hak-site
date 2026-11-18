@@ -70,6 +70,22 @@ const translations = {
         "media.category": "المركز الإعلامي",
         "media.readMore": "المزيد",
 
+        // Media Gallery
+        "gallery.badge": "من أرشيفنا",
+        "gallery.title": "معرض الصور والفيديوهات",
+        "gallery.description": "لحظات من مشاركاتنا وفعالياتنا وأنشطتنا.",
+        "gallery.filterLabel": "نوع الوسائط",
+        "gallery.all": "الكل",
+        "gallery.photos": "الصور",
+        "gallery.videos": "الفيديوهات",
+        "gallery.emptyAll": "لا توجد وسائط لعرضها حاليًا.",
+        "gallery.emptyPhotos": "لا توجد صور لعرضها حاليًا.",
+        "gallery.emptyVideos": "لا توجد فيديوهات لعرضها حاليًا.",
+        "gallery.close": "إغلاق",
+        "gallery.previous": "الصورة السابقة",
+        "gallery.next": "الصورة التالية",
+        "gallery.play": "تشغيل الفيديو",
+
         // PARTNERS Section
         "partner.badge": "شركاؤنا",
         "partner.title": 'مع <span class="text-[#b9995e]">شركاء موثوقين</span>',
@@ -231,6 +247,22 @@ const translations = {
         "media.description": "Stay updated with the latest company news and announcements.",
         "media.category": "Media Center",
         "media.readMore": "Read More",
+
+        // Media Gallery
+        "gallery.badge": "From our archive",
+        "gallery.title": "Photo & Video Gallery",
+        "gallery.description": "Moments from our exhibitions, events, and activities.",
+        "gallery.filterLabel": "Media type",
+        "gallery.all": "All",
+        "gallery.photos": "Photos",
+        "gallery.videos": "Videos",
+        "gallery.emptyAll": "There is no media to display yet.",
+        "gallery.emptyPhotos": "There are no photos to display yet.",
+        "gallery.emptyVideos": "There are no videos to display yet.",
+        "gallery.close": "Close",
+        "gallery.previous": "Previous image",
+        "gallery.next": "Next image",
+        "gallery.play": "Play video",
 
         // PARTNERS Section
         "partner.badge": "Our Partners",
@@ -400,6 +432,22 @@ const translations = {
         "media.category": "Pusat Media",
         "media.readMore": "Selengkapnya",
 
+        // Media Gallery
+        "gallery.badge": "Dari arsip kami",
+        "gallery.title": "Galeri Foto & Video",
+        "gallery.description": "Momen dari pameran, acara, dan kegiatan kami.",
+        "gallery.filterLabel": "Jenis media",
+        "gallery.all": "Semua",
+        "gallery.photos": "Foto",
+        "gallery.videos": "Video",
+        "gallery.emptyAll": "Belum ada media untuk ditampilkan.",
+        "gallery.emptyPhotos": "Belum ada foto untuk ditampilkan.",
+        "gallery.emptyVideos": "Belum ada video untuk ditampilkan.",
+        "gallery.close": "Tutup",
+        "gallery.previous": "Gambar sebelumnya",
+        "gallery.next": "Gambar berikutnya",
+        "gallery.play": "Putar video",
+
         // News Items (Preview)
         "news1.title": "Hadiah Al-Khair berpartisipasi dalam Konferensi dan Pameran Haji untuk memperkenalkan inisiatif dan layanannya",
         "news1.desc": "Perusahaan Hadiah Al-Khair berpartisipasi dalam Konferensi dan Pameran Haji melalui sebuah paviliun khusus, di mana mereka memamerkan berbagai inisiatif dan layanan yang ditujukan untuk melayani para tamu Allah.",
@@ -559,6 +607,22 @@ const translations = {
     "media.description": "Restez informé des dernières actualités et annonces de l'entreprise.",
     "media.category": "Centre des médias",
     "media.readMore": "En savoir plus",
+
+    // Media Gallery
+    "gallery.badge": "Dans nos archives",
+    "gallery.title": "Galerie photos et vidéos",
+    "gallery.description": "Des moments de nos expositions, événements et activités.",
+    "gallery.filterLabel": "Type de média",
+    "gallery.all": "Tout",
+    "gallery.photos": "Photos",
+    "gallery.videos": "Vidéos",
+    "gallery.emptyAll": "Aucun média à afficher pour le moment.",
+    "gallery.emptyPhotos": "Aucune photo à afficher pour le moment.",
+    "gallery.emptyVideos": "Aucune vidéo à afficher pour le moment.",
+    "gallery.close": "Fermer",
+    "gallery.previous": "Image précédente",
+    "gallery.next": "Image suivante",
+    "gallery.play": "Lire la vidéo",
 
     // News Items
     "news1.title": "Lancement des plateformes de médias sociaux",
