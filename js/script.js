@@ -1070,6 +1070,643 @@ ________________________________________
 Hadiyah Alkhair | Investment That Creates Impact
 
 Insights into the Hajj and Umrah Economy — Article Three`
+        },
+        {
+            id: 9,
+            title: "من توقيع الشراكات إلى صناعة القيمة: كيف تتحول الاتفاقيات إلى فرص اقتصادية في قطاع الحج والعمرة؟",
+            title_en: "From Signing Partnerships to Creating Value: How Do Agreements Turn into Economic Opportunities in the Hajj and Umrah Sector?",
+            date: "18 نوفمبر 2026",
+            date_en: "November 18, 2026",
+            category: "مقالات",
+            category_en: "Articles",
+            author: "المهندس علاء بن علي القباص",
+            author_en: "Eng. Alaa bin Ali Al-Qabbas",
+            subtitle: "سلسلة: رؤى في اقتصاد الحج والعمرة | المقال الرابع",
+            subtitle_en: "Insights into the Hajj and Umrah Economy | Article Four",
+            subtitle_id: "Wawasan Ekonomi Haji dan Umrah | Artikel Keempat",
+            subtitle_fr: "Regards sur l'économie du Hajj et de la Omra | Article quatre",
+            image: "images/blog-9-ar.jpeg",
+            image_en: "images/blog-9-en.jpeg",
+            content: `سلسلة: رؤى في اقتصاد الحج والعمرة | المقال الرابع
+
+بقلم: المهندس علاء بن علي القباص
+
+الرئيس التنفيذي لشركة هدية الخير
+
+تُعد المؤتمرات والمعارض المتخصصة في قطاع الحج والعمرة منصات مهمة لالتقاء الشركات والمستثمرين ومقدمي الخدمات، واستكشاف الفرص التجارية، وبناء العلاقات التي يمكن أن تسهم في تطوير منظومة الأعمال والخدمات المقدمة لضيوف الرحمن.
+
+ومع اختتام مؤتمر ومعرض الحج والعمرة، وما شهدناه من حراك تجاري واتفاقيات وشراكات، يبرز سؤال يستحق التأمل: هل يُقاس نجاح المشاركة بعدد الاتفاقيات التي تُوقّع، أم بالقيمة الاقتصادية التي يمكن أن تنتج عنها؟
+
+من واقع العمل في تطوير الأعمال وبناء الشراكات، أرى أن توقيع الاتفاقية يمثل خطوة مهمة، لكنه لا يعني بالضرورة نشوء شراكة اقتصادية ناجحة. فالقيمة الحقيقية تبدأ عندما تنتقل العلاقة من التفاهمات الأولية إلى نموذج عمل واضح، يجمع بين قدرات الأطراف ويحوّلها إلى منتجات أو خدمات أو مشروعات قابلة للتنفيذ.
+
+وفي اقتصاد تتداخل فيه الأنشطة التشغيلية والاستثمارية والتجارية، كما هو الحال في قطاع الحج والعمرة، تصبح القدرة على تحويل العلاقات إلى قيمة اقتصادية أحد العوامل المهمة في بناء أعمال أكثر تنافسية واستدامة.
+
+## أولًا: الاتفاقية بداية العلاقة وليست مقياس نجاحها
+
+تحظى الاتفاقيات ومذكرات التفاهم باهتمام كبير خلال المؤتمرات والمعارض، وهو أمر مفهوم؛ فهي تعكس وجود رغبة مشتركة في التعاون، وقد تفتح المجال أمام فرص لم تكن متاحة سابقًا.
+
+لكن من المهم التمييز بين ثلاثة مستويات مختلفة: التفاهم، والتعاقد، والتنفيذ.
+
+فالتفاهم يعكس وجود اهتمام مشترك باستكشاف فرصة معينة، بينما يحدد التعاقد الالتزامات والحقوق والمسؤوليات بين الأطراف، أما التنفيذ فهو المرحلة التي تبدأ فيها العلاقة بإنتاج قيمة فعلية.
+
+وقد تنجح شركتان في توقيع مذكرة تفاهم، ثم تكتشفان لاحقًا أن الفرصة المطروحة لا تمتلك مقومات الجدوى الاقتصادية، أو أن متطلبات التنفيذ تختلف عن التوقعات الأولية.
+
+وفي المقابل، قد تبدأ علاقة تجارية باجتماع محدود، ثم تتطور إلى مشروع ناجح عندما تكون الحاجة واضحة، والأدوار محددة، والمصلحة الاقتصادية متحققة للطرفين.
+
+لذلك، لا ينبغي أن يكون عدد الاتفاقيات وحده مؤشرًا للحكم على نجاح الشراكات.
+
+فالتوقيع يثبت وجود نية للتعاون، لكنه لا يثبت تحقق القيمة الاقتصادية.
+
+## ثانيًا: الشراكات الناجحة تقوم على تكامل القدرات
+
+في قطاع الحج والعمرة، تتنوع احتياجات السوق بين الإعاشة والضيافة، والمنتجات والهدايا، والتجارة والتوزيع، والتشغيل والخدمات اللوجستية، والحلول الرقمية والتسويقية، وغيرها من الأنشطة المرتبطة بمنظومة الأعمال.
+
+ومن غير الضروري، بل قد لا يكون مجديًا اقتصاديًا، أن تمتلك كل شركة جميع القدرات المطلوبة لتقديم هذه الخدمات.
+
+فقد تتمتع شركة بخبرة متخصصة في تطوير المنتجات، بينما تمتلك أخرى قدرات إنتاجية، وتتميز ثالثة بشبكات التوزيع والوصول إلى العملاء.
+
+وعندما تتكامل هذه القدرات ضمن نموذج تجاري واضح، يمكن أن تنشأ فرص يصعب على كل طرف تحقيقها بالكفاءة نفسها منفردًا.
+
+لكن التكامل لا يتحقق بمجرد اختلاف تخصصات الشركاء؛ بل يتطلب أن تضيف مساهمة كل طرف قيمة يمكن تحديدها، سواء في خفض التكاليف، أو تحسين الجودة، أو تسريع الوصول إلى السوق، أو زيادة القدرة على تنفيذ المشروعات.
+
+وهنا تبرز أهمية السؤال الذي ينبغي أن يسبق أي شراكة:
+
+ما القيمة التي نستطيع خلقها معًا، ولا نستطيع تحقيقها بالكفاءة نفسها إذا عمل كل طرف بمفرده؟
+
+إذا لم تكن الإجابة واضحة، فقد تكون العلاقة مجرد تعاون محتمل لم تتبلور جدواه التجارية بعد.
+
+## ثالثًا: من الاتفاقية إلى نموذج أعمال قابل للتنفيذ
+
+من التحديات التي تواجه بعض الشراكات أن تبدأ بأهداف واسعة، مثل تطوير التعاون أو تبادل الخبرات أو استكشاف الفرص، دون الانتقال إلى تحديد مشروع تجاري واضح.
+
+وهذه الأهداف قد تكون مناسبة في مرحلة بناء العلاقة، لكنها لا تكفي وحدها لتحويل الشراكة إلى نشاط اقتصادي.
+
+فالشراكة التي تستهدف تقديم منتج أو خدمة تحتاج إلى إجابات محددة عن مجموعة من الأسئلة:
+
+من هو العميل المستهدف؟ وما الاحتياج الذي نسعى إلى تلبيته؟ وما القيمة التي سيحصل عليها العميل؟ وكيف ستتوزع الأدوار والتكاليف والمخاطر بين الأطراف؟ وما الآلية التي ستتحقق من خلالها الإيرادات والعوائد؟
+
+وتزداد أهمية هذه الأسئلة في قطاع الحج والعمرة، حيث ترتبط بعض الفرص بمواسم محددة، ومتطلبات تشغيلية دقيقة، وجداول زمنية لا تحتمل التأخير.
+
+فعلى سبيل المثال، قد تتفق شركة تمتلك شبكة توزيع مع شركة متخصصة في تصنيع المنتجات على التعاون لخدمة سوق الحج والعمرة.
+
+لكن نجاح العلاقة لن يتحدد بمجرد الجمع بين التصنيع والتوزيع، بل بمدى وضوح الطلب المتوقع، والمواصفات المطلوبة، والتسعير، والطاقة الإنتاجية، ومسؤوليات التخزين والتسليم، وتوزيع المخاطر التجارية.
+
+وقد يكون النموذج المناسب عقد توريد، أو اتفاقية توزيع، أو مشروعًا مشتركًا، أو شراكة لتطوير منتج محدد.
+
+وليس بالضرورة أن تكون الشراكة الأكثر تعقيدًا هي الأكثر قيمة؛ ففي كثير من الحالات، يكون النموذج الأبسط والأوضح أكثر قابلية للتنفيذ.
+
+الشراكة الاقتصادية تبدأ فعليًا عندما تتحول النوايا المشتركة إلى التزامات واضحة ونموذج أعمال قابل للاختبار والتنفيذ.
+
+## رابعًا: الاختبار الحقيقي يبدأ بعد انتهاء المعرض
+
+تتميز المعارض المتخصصة بكثافة اللقاءات وسرعة التواصل، وهو ما يتيح للشركات التعرف على عدد كبير من الجهات واستكشاف فرص متعددة خلال فترة قصيرة.
+
+لكن هذه الميزة قد تتحول إلى تحدٍ إذا لم تتبعها عملية منظمة لتقييم الفرص ومتابعتها.
+
+فبعد انتهاء المعرض، تواجه الشركات مهمة أكثر أهمية من جمع بطاقات الأعمال وتوقيع الاتفاقيات، وهي تحديد الفرص التي تستحق استثمار الوقت والموارد.
+
+ومن وجهة نظري، فإن إدارة مرحلة ما بعد المعرض ينبغي أن تقوم على ثلاثة اعتبارات رئيسية.
+
+الأول: أولوية الفرصة الاقتصادية.
+
+فليست كل علاقة جديدة تستحق التحول إلى مشروع، ولا تتساوى جميع الفرص في حجم السوق أو الجدوى أو توافقها مع قدرات الشركة.
+
+الثاني: وضوح الخطوة التنفيذية التالية.
+
+فالشراكة التي لا ترتبط بمسؤول محدد، أو مشروع أولي، أو جدول زمني للمتابعة، قد تبقى في إطار التواصل دون تقدم فعلي.
+
+الثالث: اختبار الجدوى قبل التوسع.
+
+فقد يكون من الأنسب البدء بمنتج محدد أو نطاق عمل محدود، قبل الانتقال إلى التزامات استثمارية أو تشغيلية أكبر.
+
+وهنا تظهر أهمية التعامل مع الاتفاقيات باعتبارها محفظة من الفرص المحتملة، تحتاج إلى تقييم وترتيب ومتابعة، لا باعتبارها نتائج نهائية تحققت بمجرد التوقيع.
+
+فما يحدث بعد المعرض هو الذي يحدد القيمة الحقيقية لما تحقق خلاله.
+
+## خامسًا: كيف نقيس نجاح الشراكات؟
+
+إذا كان عدد الاتفاقيات لا يكفي للحكم على النجاح، فما المؤشرات الأكثر ارتباطًا بالقيمة الاقتصادية؟
+
+أرى أن تقييم الشراكات ينبغي أن يتدرج بحسب مرحلة تطور العلاقة.
+
+ففي المرحلة الأولى، يمكن متابعة عدد الفرص التي انتقلت من التواصل الأولي إلى دراسة تجارية فعلية، ومدى وضوح نطاق العمل والأدوار بين الأطراف.
+
+وفي المرحلة التالية، تصبح مؤشرات مثل العقود التجارية المبرمة، والمشروعات التي بدأت فعليًا، والمنتجات أو الخدمات التي وصلت إلى السوق، أكثر ارتباطًا بنتائج الشراكة.
+
+أما بعد بدء التشغيل، فتبرز مؤشرات الإيرادات، والهوامش، والعائد على الموارد المستثمرة، وجودة التنفيذ، واستمرارية العلاقة التجارية.
+
+ومع ذلك، يجب ألا تختزل قيمة جميع الشراكات في الإيرادات المباشرة وحدها.
+
+فبعض الشراكات قد تحقق قيمة من خلال الوصول إلى أسواق جديدة، أو تطوير قدرات تشغيلية، أو تحسين كفاءة سلسلة الإمداد، أو تقليل مخاطر الاعتماد على مورد واحد.
+
+لكن حتى هذه المنافع ينبغي أن تكون قابلة للتقييم، وأن ترتبط بأهداف واضحة، لا أن تبقى مجرد توقعات عامة.
+
+فالشراكة الناجحة ليست بالضرورة الأكثر ظهورًا، بل الأكثر قدرة على تحقيق الأهداف الاقتصادية التي أُنشئت من أجلها.
+
+## سادسًا: الشراكات كأداة لبناء منظومة أعمال أكثر تكاملًا
+
+عندما ننظر إلى اقتصاد الحج والعمرة باعتباره منظومة مترابطة من الأنشطة التجارية والتشغيلية والاستثمارية، ندرك أن فرص النمو لا تقتصر على ما تستطيع الشركة تنفيذه بمواردها الخاصة.
+
+فقد تنشأ فرص مهمة من القدرة على الربط بين جهات تمتلك خبرات أو أصولًا أو قنوات وصول متكاملة.
+
+وهذا لا يعني أن التوسع في الشراكات هدف بحد ذاته، بل أن الشراكة قد تكون إحدى الأدوات التي تساعد الشركة على تقديم قيمة أعلى دون الحاجة إلى امتلاك جميع عناصر سلسلة القيمة.
+
+وفي بعض الحالات، يكون الاستثمار في تطوير العلاقة التجارية وإدارة العمليات المشتركة أكثر كفاءة من الاستثمار المباشر في أصول جديدة.
+
+لكن هذا النموذج يتطلب قدرات مؤسسية واضحة، تشمل اختيار الشركاء، وتقييم المخاطر، وإدارة العقود، وقياس الأداء، وحوكمة العلاقات التجارية.
+
+كما يتطلب إدراك أن الشراكة لا تلغي المسؤولية التشغيلية أو التجارية، بل تعيد توزيعها بين الأطراف وفق التزامات محددة.
+
+ومن هنا، فإن بناء الشراكات ينبغي أن يكون جزءًا من استراتيجية تطوير الأعمال، لا نشاطًا منفصلًا يقتصر على المناسبات والمعارض.
+
+## الخلاصة: القيمة لا تُوقّع على الورق، بل تُبنى بالتنفيذ
+
+تؤدي المؤتمرات والمعارض دورًا مهمًا في تنشيط العلاقات التجارية وفتح آفاق جديدة للتعاون والاستثمار في قطاع الحج والعمرة.
+
+لكن القيمة الاقتصادية لهذه المشاركات لا تتحقق تلقائيًا من كثرة الاجتماعات أو الاتفاقيات، وإنما من قدرة الشركات على اختيار الفرص المناسبة، وتطوير نماذج أعمال واضحة، وتحويل التفاهمات إلى مشروعات قابلة للتنفيذ.
+
+ومن واقع العمل في تطوير الأعمال والشراكات، أرى أن نجاح العلاقة التجارية لا يرتبط فقط بما يقدمه كل طرف من قدرات، بل بمدى قدرة الأطراف على توظيف تلك القدرات لتحقيق قيمة مشتركة، مع وضوح المسؤوليات والعوائد والمخاطر.
+
+فقد تكون الاتفاقية نقطة انطلاق لمشروع استثماري مهم، وقد تظل مجرد إطار للتعاون إذا لم تتوافر لها مقومات الجدوى والتنفيذ.
+
+ولهذا، فإن السؤال الذي ينبغي أن تطرحه الشركات بعد كل معرض أو مؤتمر ليس فقط: كم اتفاقية وقّعنا؟
+
+بل: كم فرصة حقيقية استطعنا تحويلها إلى أعمال؟ وما القيمة الاقتصادية التي سنتمكن من تحقيقها من خلالها؟
+
+وفي تقديري، فإن الانتقال من ثقافة توقيع الاتفاقيات إلى ثقافة إدارة الشراكات وقياس نتائجها يمثل خطوة مهمة نحو بناء منظومة أعمال أكثر كفاءة واستدامة في اقتصاد الحج والعمرة.
+
+فالقيمة الحقيقية للشراكات لا تتحدد عند توقيع الاتفاقيات، بل عندما تتحول القدرات المشتركة إلى أعمال قابلة للتنفيذ، وعوائد اقتصادية، وأثر مستدام.
+
+شركة هدية الخير | استثمار يصنع أثرًا
+
+سلسلة «رؤى في اقتصاد الحج والعمرة» — المقال الرابع
+
+بقلم: المهندس علاء بن علي القباص
+
+الرئيس التنفيذي لشركة هدية الخير`,
+            content_en: `Insights into the Hajj and Umrah Economy | Article Four
+
+By Eng. Alaa bin Ali Al-Qabbas
+
+Chief Executive Officer, Hadiyah Alkhair Company
+
+Specialized conferences and exhibitions in the Hajj and Umrah sector provide valuable platforms for companies, investors, and service providers to connect, explore commercial opportunities, and establish relationships that can contribute to the development of the business ecosystem and services offered to pilgrims.
+
+Following the conclusion of the Hajj and Umrah Conference and Exhibition, and reflecting on the commercial activity, agreements, and partnerships it generated, an important question arises: Should the success of participation be measured by the number of agreements signed, or by the economic value those agreements can ultimately create?
+
+Drawing on my experience in business development and strategic partnerships, I believe that signing an agreement is an important milestone, but it does not necessarily mean that a successful economic partnership has been established.
+
+Real value begins when a relationship moves beyond initial understandings toward a clearly defined business model that combines the capabilities of different parties and transforms them into products, services, or projects that can be effectively delivered.
+
+In an economy where operational, investment, and commercial activities are closely interconnected, as is the case in the Hajj and Umrah sector, the ability to transform business relationships into economic value becomes an important factor in building more competitive and sustainable businesses.
+
+## 1. An Agreement Marks the Beginning, Not the Measure of Success
+
+Agreements and memoranda of understanding often receive considerable attention during conferences and exhibitions. This is understandable, as they demonstrate a shared willingness to collaborate and may open doors to opportunities that were previously unavailable.
+
+However, it is important to distinguish between three different stages: understanding, contracting, and execution.
+
+An understanding reflects a mutual interest in exploring an opportunity. A contract establishes the rights, obligations, and responsibilities of the parties. Execution is the stage at which the relationship begins to generate tangible value.
+
+Two companies may successfully sign a memorandum of understanding, only to discover later that the proposed opportunity lacks economic feasibility or that its implementation requirements differ from their initial expectations.
+
+Conversely, a commercial relationship may begin with a single meeting and develop into a successful project when there is a clear market need, well-defined responsibilities, and mutual economic benefit.
+
+For this reason, the number of agreements signed should not be the sole indicator used to assess the success of partnerships.
+
+A signature confirms the intention to collaborate; it does not confirm that economic value has been created.
+
+## 2. Successful Partnerships Are Built on Complementary Capabilities
+
+The Hajj and Umrah sector encompasses a wide range of market needs, including catering and hospitality, gifts and products, trade and distribution, operations and logistics, digital and marketing solutions, and other activities across the business ecosystem.
+
+It is neither necessary nor always economically viable for every company to possess all the capabilities required to deliver these services.
+
+One company may specialize in product development, another may possess manufacturing capabilities, while a third may have strong distribution networks and access to customers.
+
+When these capabilities are integrated within a clearly defined commercial model, opportunities can emerge that would be difficult for each party to pursue independently with the same level of efficiency.
+
+However, complementarity does not arise simply because partners operate in different fields. Each party must contribute identifiable value, whether through reducing costs, improving quality, accelerating market access, or strengthening project delivery capabilities.
+
+This leads to a fundamental question that should precede any partnership:
+
+What value can we create together that we could not achieve as efficiently by operating independently?
+
+If the answer is unclear, the relationship may still represent a potential collaboration whose commercial feasibility has yet to be established.
+
+## 3. From an Agreement to an Executable Business Model
+
+One challenge facing some partnerships is that they begin with broad objectives, such as strengthening cooperation, exchanging expertise, or exploring opportunities, without progressing toward a clearly defined commercial project.
+
+These objectives may be appropriate during the relationship-building stage, but they are not sufficient on their own to transform a partnership into an economic activity.
+
+A partnership intended to deliver a product or service requires clear answers to several questions.
+
+Who is the target customer? What need are we addressing? What value will the customer receive? How will responsibilities, costs, and risks be allocated among the parties? And through what mechanism will revenue and financial returns be generated?
+
+These questions are particularly important in the Hajj and Umrah sector, where certain opportunities are linked to specific seasons, precise operational requirements, and strict delivery schedules.
+
+For example, a company with an established distribution network may agree to collaborate with a specialized manufacturer to serve the Hajj and Umrah market.
+
+Yet the success of this relationship will not be determined merely by combining manufacturing and distribution capabilities. It will depend on clarity regarding expected demand, product specifications, pricing, production capacity, storage and delivery responsibilities, and the allocation of commercial risks.
+
+The appropriate model might be a supply contract, a distribution agreement, a joint venture, or a partnership to develop a specific product.
+
+A more complex partnership is not necessarily a more valuable one. In many cases, the simpler and more clearly structured model is easier to implement successfully.
+
+An economic partnership truly begins when shared intentions are translated into clear commitments and a business model that can be tested and executed.
+
+## 4. The Real Test Begins After the Exhibition
+
+Specialized exhibitions are characterized by a high concentration of meetings and rapid networking, enabling companies to connect with numerous organizations and explore multiple opportunities within a short period.
+
+However, this advantage can become a challenge if it is not followed by a structured process for evaluating and pursuing those opportunities.
+
+Once the exhibition ends, companies face a task more important than collecting business cards or signing agreements: identifying which opportunities deserve further investment of time and resources.
+
+In my view, effective post-exhibition partnership management should be guided by three key considerations.
+
+First: Economic opportunity prioritization.
+
+Not every new relationship should become a project, and opportunities differ in market potential, economic feasibility, and alignment with a company's capabilities.
+
+Second: A clearly defined next step.
+
+A partnership without an assigned owner, an initial project, or a follow-up timeline may remain at the communication stage without meaningful progress.
+
+Third: Testing feasibility before scaling.
+
+In many cases, it may be more appropriate to begin with a specific product or limited scope of work before committing to larger investments or operational obligations.
+
+This highlights the importance of treating agreements as a portfolio of potential opportunities that must be assessed, prioritized, and actively managed, rather than as final achievements completed upon signing.
+
+What happens after the exhibition ultimately determines the real value of what was achieved during it.
+
+## 5. How Do We Measure Partnership Success?
+
+If the number of signed agreements is not sufficient to determine success, which indicators are more closely linked to economic value?
+
+I believe partnerships should be evaluated according to their stage of development.
+
+At the initial stage, companies can track the number of opportunities that progress from preliminary discussions to actual commercial assessments, as well as the clarity of each partnership's scope and the responsibilities of the parties involved.
+
+At the next stage, indicators such as signed commercial contracts, projects that have commenced operations, and products or services successfully introduced to the market become more meaningful.
+
+Once operations begin, financial and operational indicators become increasingly important, including revenue, profit margins, returns on invested resources, execution quality, and the continuity of the commercial relationship.
+
+However, the value of every partnership should not be reduced to direct revenue alone.
+
+Some partnerships may create value by opening access to new markets, developing operational capabilities, improving supply chain efficiency, or reducing dependence on a single supplier.
+
+Even these benefits, however, should be measurable and linked to clearly defined objectives rather than remaining broad expectations.
+
+The most successful partnership is not necessarily the most visible one, but the one most capable of achieving the economic objectives for which it was established.
+
+## 6. Partnerships as a Driver of a More Integrated Business Ecosystem
+
+When we view the Hajj and Umrah economy as an interconnected ecosystem of commercial, operational, and investment activities, we recognize that growth opportunities extend beyond what a company can accomplish using its own resources.
+
+Significant opportunities may emerge from connecting organizations that possess complementary expertise, assets, or market access.
+
+This does not mean that expanding partnerships should become an objective in itself. Rather, partnerships can serve as a strategic tool that enables companies to deliver greater value without owning every component of the value chain.
+
+In some cases, investing in commercial relationships and the management of joint operations may be more efficient than investing directly in new assets.
+
+However, this approach requires strong institutional capabilities, including partner selection, risk assessment, contract management, performance measurement, and commercial relationship governance.
+
+It also requires recognizing that partnerships do not eliminate operational or commercial responsibilities. Instead, they redistribute those responsibilities among the parties according to clearly defined commitments.
+
+For this reason, partnership development should be an integral part of a company's business development strategy, rather than an isolated activity limited to conferences and exhibitions.
+
+## Conclusion: Value Is Not Signed on Paper; It Is Built Through Execution
+
+Conferences and exhibitions play an important role in strengthening commercial relationships and opening new opportunities for cooperation and investment in the Hajj and Umrah sector.
+
+However, the economic value of participating in these events does not automatically result from the number of meetings held or agreements signed.
+
+It comes from a company's ability to identify the right opportunities, develop clear business models, and transform initial understandings into executable projects.
+
+Drawing on my experience in business development and partnerships, I believe that the success of a commercial relationship depends not only on the capabilities each party brings, but also on their collective ability to deploy those capabilities to create shared value, supported by clearly defined responsibilities, returns, and risks.
+
+An agreement may become the starting point for a significant investment project, or it may remain merely a framework for cooperation if the conditions required for economic feasibility and execution are not established.
+
+Therefore, the question companies should ask after every exhibition or conference is not simply: How many agreements did we sign?
+
+It is: How many genuine opportunities have we converted into business activities, and what economic value can we generate from them?
+
+In my view, moving from a culture focused on signing agreements to one centered on managing partnerships and measuring their outcomes represents an important step toward building a more efficient and sustainable business ecosystem in the Hajj and Umrah economy.
+
+The true value of partnerships is not determined at the moment agreements are signed, but when shared capabilities are transformed into executable business activities, economic returns, and lasting impact.
+
+Hadiyah Alkhair | Investment That Creates Impact
+
+Insights into the Hajj and Umrah Economy — Article Four`,
+            content_id: `Wawasan Ekonomi Haji dan Umrah | Artikel Keempat
+
+Oleh Eng. Alaa bin Ali Al-Qabbas
+
+Direktur Utama, Perusahaan Hadiyah Alkhair
+
+Konferensi dan pameran khusus di sektor Haji dan Umrah merupakan platform penting bagi perusahaan, investor, dan penyedia layanan untuk bertemu, mengeksplorasi peluang bisnis, serta membangun hubungan yang dapat berkontribusi pada pengembangan ekosistem bisnis dan layanan yang diberikan kepada tamu Allah.
+
+Seiring berakhirnya Konferensi dan Pameran Haji dan Umrah, serta dengan memperhatikan dinamika bisnis, perjanjian, dan kemitraan yang terjadi di dalamnya, muncul pertanyaan yang layak direnungkan: Apakah keberhasilan partisipasi diukur dari jumlah perjanjian yang ditandatangani, atau dari nilai ekonomi yang dapat dihasilkan oleh perjanjian tersebut?
+
+Dari pengalaman saya dalam pengembangan bisnis dan pembangunan kemitraan, saya melihat bahwa penandatanganan perjanjian merupakan langkah penting, tetapi tidak serta-merta berarti terciptanya kemitraan ekonomi yang berhasil. Nilai sebenarnya baru dimulai ketika hubungan bergerak dari pemahaman awal menuju model bisnis yang jelas, yang memadukan kapabilitas para pihak dan mengubahnya menjadi produk, layanan, atau proyek yang dapat dilaksanakan.
+
+Dalam ekonomi yang aktivitas operasional, investasi, dan komersialnya saling terkait, seperti halnya di sektor Haji dan Umrah, kemampuan mengubah hubungan menjadi nilai ekonomi menjadi salah satu faktor penting dalam membangun bisnis yang lebih kompetitif dan berkelanjutan.
+
+## Pertama: Perjanjian adalah awal hubungan, bukan ukuran keberhasilannya
+
+Perjanjian dan nota kesepahaman mendapat perhatian besar selama konferensi dan pameran, dan hal ini dapat dipahami karena mencerminkan adanya keinginan bersama untuk bekerja sama serta dapat membuka peluang yang sebelumnya tidak tersedia.
+
+Namun, penting untuk membedakan tiga tingkat yang berbeda: pemahaman, kontrak, dan pelaksanaan.
+
+Pemahaman mencerminkan adanya kepentingan bersama untuk mengeksplorasi peluang tertentu, sedangkan kontrak menetapkan kewajiban, hak, dan tanggung jawab para pihak. Adapun pelaksanaan adalah tahap ketika hubungan mulai menghasilkan nilai nyata.
+
+Dua perusahaan mungkin berhasil menandatangani nota kesepahaman, lalu kemudian menemukan bahwa peluang yang ditawarkan tidak memiliki dasar kelayakan ekonomi, atau bahwa persyaratan pelaksanaannya berbeda dari perkiraan awal.
+
+Sebaliknya, hubungan bisnis dapat dimulai dari satu pertemuan terbatas, lalu berkembang menjadi proyek yang berhasil ketika kebutuhan jelas, peran terdefinisi, dan manfaat ekonomi terwujud bagi kedua pihak.
+
+Oleh karena itu, jumlah perjanjian saja tidak boleh menjadi indikator untuk menilai keberhasilan kemitraan.
+
+Penandatanganan membuktikan adanya niat untuk bekerja sama, tetapi tidak membuktikan terwujudnya nilai ekonomi.
+
+## Kedua: Kemitraan yang berhasil dibangun atas saling melengkapi kapabilitas
+
+Di sektor Haji dan Umrah, kebutuhan pasar beragam, mulai dari konsumsi dan hospitality, produk dan cendera mata, perdagangan dan distribusi, operasional dan logistik, hingga solusi digital dan pemasaran, serta aktivitas lain yang terkait dengan ekosistem bisnis.
+
+Tidak perlu—dan bahkan mungkin tidak layak secara ekonomi—bagi setiap perusahaan untuk memiliki semua kapabilitas yang dibutuhkan untuk menyediakan layanan tersebut.
+
+Sebuah perusahaan mungkin memiliki keahlian khusus dalam pengembangan produk, perusahaan lain memiliki kapabilitas produksi, dan perusahaan ketiga unggul dalam jaringan distribusi dan akses ke pelanggan.
+
+Ketika kapabilitas tersebut saling melengkapi dalam model bisnis yang jelas, dapat muncul peluang yang sulit dicapai oleh masing-masing pihak secara mandiri dengan tingkat efisiensi yang sama.
+
+Namun, saling melengkapi tidak terwujud hanya karena para mitra memiliki spesialisasi yang berbeda; kontribusi setiap pihak harus memberikan nilai yang dapat diidentifikasi, baik dalam menurunkan biaya, meningkatkan kualitas, mempercepat akses ke pasar, maupun meningkatkan kemampuan melaksanakan proyek.
+
+Di sinilah pentingnya pertanyaan yang harus mendahului setiap kemitraan:
+
+Nilai apa yang dapat kita ciptakan bersama, tetapi tidak dapat dicapai dengan efisiensi yang sama jika setiap pihak bekerja sendiri?
+
+Jika jawabannya tidak jelas, hubungan tersebut mungkin baru sebatas potensi kerja sama yang kelayakan komersialnya belum terbentuk.
+
+## Ketiga: Dari perjanjian menjadi model bisnis yang dapat dilaksanakan
+
+Salah satu tantangan yang dihadapi sebagian kemitraan adalah dimulainya kerja sama dengan tujuan yang luas, seperti mengembangkan kerja sama, bertukar pengalaman, atau mengeksplorasi peluang, tanpa beralih ke penetapan proyek bisnis yang jelas.
+
+Tujuan tersebut mungkin sesuai pada tahap membangun hubungan, tetapi tidak cukup untuk mengubah kemitraan menjadi aktivitas ekonomi.
+
+Kemitraan yang bertujuan menyediakan produk atau layanan memerlukan jawaban yang jelas atas sejumlah pertanyaan:
+
+Siapa pelanggan yang dituju? Kebutuhan apa yang ingin kita penuhi? Nilai apa yang akan diterima pelanggan? Bagaimana peran, biaya, dan risiko akan dibagi di antara para pihak? Dan melalui mekanisme apa pendapatan serta imbal hasil akan terwujud?
+
+Pertanyaan-pertanyaan ini semakin penting di sektor Haji dan Umrah, karena sebagian peluang terkait dengan musim tertentu, persyaratan operasional yang cermat, dan jadwal yang tidak dapat ditunda.
+
+Sebagai contoh, perusahaan yang memiliki jaringan distribusi dapat menyepakati kerja sama dengan perusahaan yang mengkhususkan diri dalam produksi produk untuk melayani pasar Haji dan Umrah.
+
+Namun, keberhasilan hubungan tidak hanya ditentukan oleh penggabungan produksi dan distribusi, melainkan oleh seberapa jelas permintaan yang diharapkan, spesifikasi yang dibutuhkan, penetapan harga, kapasitas produksi, tanggung jawab penyimpanan dan pengiriman, serta pembagian risiko bisnis.
+
+Model yang sesuai dapat berupa kontrak pasokan, perjanjian distribusi, usaha patungan, atau kemitraan untuk mengembangkan produk tertentu.
+
+Kemitraan yang paling kompleks belum tentu yang paling bernilai; dalam banyak kasus, model yang lebih sederhana dan lebih jelas lebih mudah dilaksanakan.
+
+Kemitraan ekonomi benar-benar dimulai ketika niat bersama berubah menjadi komitmen yang jelas dan model bisnis yang dapat diuji serta dilaksanakan.
+
+## Keempat: Ujian sebenarnya dimulai setelah pameran berakhir
+
+Pameran khusus ditandai dengan padatnya pertemuan dan cepatnya komunikasi, yang memungkinkan perusahaan mengenal banyak pihak dan mengeksplorasi berbagai peluang dalam waktu singkat.
+
+Namun, keunggulan ini dapat berubah menjadi tantangan jika tidak diikuti proses yang terorganisasi untuk mengevaluasi dan menindaklanjuti peluang.
+
+Setelah pameran berakhir, perusahaan menghadapi tugas yang lebih penting daripada mengumpulkan kartu nama dan menandatangani perjanjian, yaitu menentukan peluang yang layak diinvestasikan waktu dan sumber dayanya.
+
+Menurut pandangan saya, pengelolaan tahap pasca-pameran harus didasarkan pada tiga pertimbangan utama.
+
+Pertama: prioritas peluang ekonomi.
+
+Tidak setiap hubungan baru layak diubah menjadi proyek, dan tidak semua peluang setara dalam hal ukuran pasar, kelayakan, atau kesesuaiannya dengan kapabilitas perusahaan.
+
+Kedua: kejelasan langkah pelaksanaan berikutnya.
+
+Kemitraan yang tidak terkait dengan penanggung jawab tertentu, proyek awal, atau jadwal tindak lanjut, mungkin hanya akan berhenti pada tahap komunikasi tanpa kemajuan nyata.
+
+Ketiga: menguji kelayakan sebelum melakukan ekspansi.
+
+Sering kali lebih tepat memulai dengan produk tertentu atau lingkup kerja yang terbatas sebelum beralih ke komitmen investasi atau operasional yang lebih besar.
+
+Di sinilah pentingnya memperlakukan perjanjian sebagai portofolio peluang potensial yang perlu dievaluasi, diprioritaskan, dan ditindaklanjuti, bukan sebagai hasil akhir yang telah terwujud begitu ditandatangani.
+
+Apa yang terjadi setelah pameran itulah yang menentukan nilai sebenarnya dari apa yang dicapai selama pameran.
+
+## Kelima: Bagaimana kita mengukur keberhasilan kemitraan?
+
+Jika jumlah perjanjian tidak cukup untuk menilai keberhasilan, indikator apa yang lebih berkaitan dengan nilai ekonomi?
+
+Saya berpendapat bahwa evaluasi kemitraan harus dilakukan secara bertahap sesuai dengan tahap perkembangan hubungan.
+
+Pada tahap pertama, dapat dipantau jumlah peluang yang berkembang dari komunikasi awal menjadi kajian bisnis yang nyata, serta seberapa jelas lingkup kerja dan peran para pihak.
+
+Pada tahap berikutnya, indikator seperti kontrak bisnis yang ditandatangani, proyek yang benar-benar dimulai, dan produk atau layanan yang telah masuk ke pasar menjadi lebih berkaitan dengan hasil kemitraan.
+
+Adapun setelah operasional dimulai, indikator pendapatan, margin, imbal hasil atas sumber daya yang diinvestasikan, kualitas pelaksanaan, dan keberlanjutan hubungan bisnis menjadi lebih menonjol.
+
+Namun demikian, nilai semua kemitraan tidak boleh direduksi hanya pada pendapatan langsung.
+
+Sebagian kemitraan dapat menciptakan nilai melalui akses ke pasar baru, pengembangan kapabilitas operasional, peningkatan efisiensi rantai pasokan, atau pengurangan risiko ketergantungan pada satu pemasok.
+
+Namun, bahkan manfaat tersebut harus dapat dievaluasi dan dikaitkan dengan tujuan yang jelas, bukan sekadar menjadi perkiraan umum.
+
+Kemitraan yang berhasil belum tentu yang paling menonjol, melainkan yang paling mampu mencapai tujuan ekonomi yang menjadi alasan dibentuknya kemitraan tersebut.
+
+## Keenam: Kemitraan sebagai alat membangun ekosistem bisnis yang lebih terintegrasi
+
+Ketika kita memandang ekonomi Haji dan Umrah sebagai ekosistem yang saling terkait dari aktivitas komersial, operasional, dan investasi, kita menyadari bahwa peluang pertumbuhan tidak terbatas pada apa yang dapat dilakukan perusahaan dengan sumber dayanya sendiri.
+
+Peluang penting dapat muncul dari kemampuan menghubungkan pihak-pihak yang memiliki keahlian, aset, atau saluran akses yang saling melengkapi.
+
+Ini tidak berarti bahwa memperluas kemitraan merupakan tujuan tersendiri, melainkan bahwa kemitraan dapat menjadi salah satu alat yang membantu perusahaan memberikan nilai lebih tinggi tanpa harus memiliki semua elemen rantai nilai.
+
+Dalam beberapa kasus, berinvestasi dalam mengembangkan hubungan bisnis dan mengelola operasi bersama lebih efisien daripada berinvestasi langsung pada aset baru.
+
+Namun, model ini memerlukan kapabilitas kelembagaan yang jelas, mencakup pemilihan mitra, penilaian risiko, pengelolaan kontrak, pengukuran kinerja, dan tata kelola hubungan bisnis.
+
+Model ini juga menuntut kesadaran bahwa kemitraan tidak menghapus tanggung jawab operasional atau komersial, melainkan mendistribusikannya kembali di antara para pihak sesuai komitmen yang jelas.
+
+Oleh karena itu, pembangunan kemitraan harus menjadi bagian dari strategi pengembangan bisnis, bukan aktivitas terpisah yang hanya terbatas pada acara dan pameran.
+
+## Kesimpulan: Nilai tidak ditandatangani di atas kertas, melainkan dibangun melalui pelaksanaan
+
+Konferensi dan pameran berperan penting dalam menggerakkan hubungan bisnis dan membuka cakrawala baru bagi kerja sama serta investasi di sektor Haji dan Umrah.
+
+Namun, nilai ekonomi dari partisipasi tersebut tidak terwujud secara otomatis dari banyaknya pertemuan atau perjanjian, melainkan dari kemampuan perusahaan memilih peluang yang tepat, mengembangkan model bisnis yang jelas, dan mengubah pemahaman menjadi proyek yang dapat dilaksanakan.
+
+Dari pengalaman saya dalam pengembangan bisnis dan kemitraan, saya melihat bahwa keberhasilan hubungan bisnis tidak hanya terkait dengan kapabilitas yang ditawarkan masing-masing pihak, tetapi juga dengan sejauh mana para pihak mampu memanfaatkan kapabilitas tersebut untuk menciptakan nilai bersama, disertai kejelasan tanggung jawab, imbal hasil, dan risiko.
+
+Perjanjian dapat menjadi titik awal bagi proyek investasi penting, dan dapat pula tetap menjadi sekadar kerangka kerja sama jika prasyarat kelayakan dan pelaksanaannya tidak tersedia.
+
+Oleh karena itu, pertanyaan yang harus diajukan perusahaan setelah setiap pameran atau konferensi bukan hanya: berapa perjanjian yang kita tandatangani?
+
+Melainkan: berapa peluang nyata yang berhasil kita ubah menjadi bisnis? Dan nilai ekonomi apa yang dapat kita wujudkan darinya?
+
+Menurut penilaian saya, peralihan dari budaya menandatangani perjanjian ke budaya mengelola kemitraan dan mengukur hasilnya merupakan langkah penting menuju pembangunan ekosistem bisnis yang lebih efisien dan berkelanjutan dalam ekonomi Haji dan Umrah.
+
+Nilai sebenarnya dari kemitraan tidak ditentukan pada saat perjanjian ditandatangani, melainkan ketika kapabilitas bersama berubah menjadi bisnis yang dapat dilaksanakan, imbal hasil ekonomi, dan dampak yang berkelanjutan.
+
+Perusahaan Hadiyah Alkhair | Investasi yang Menciptakan Dampak
+
+Wawasan Ekonomi Haji dan Umrah — Artikel Keempat`,
+            content_fr: `Regards sur l'économie du Hajj et de la Omra | Article quatre
+
+Par Eng. Alaa bin Ali Al-Qabbas
+
+Directeur général, Hadiyah Alkhair
+
+Les conférences et salons spécialisés du secteur du Hajj et de la Omra constituent des plateformes importantes permettant aux entreprises, aux investisseurs et aux prestataires de services de se rencontrer, d'explorer des opportunités commerciales et de nouer des relations susceptibles de contribuer au développement de l'écosystème d'affaires et des services offerts aux Invités d'Allah.
+
+À l'issue de la Conférence et Exposition du Hajj et de la Omra, et au regard de la dynamique commerciale, des accords et des partenariats observés, une question mérite réflexion : la réussite d'une participation se mesure-t-elle au nombre d'accords signés ou à la valeur économique que ceux-ci peuvent générer ?
+
+Fort de mon expérience dans le développement commercial et la construction de partenariats, je considère que la signature d'un accord constitue une étape importante, mais qu'elle ne signifie pas nécessairement la naissance d'un partenariat économique réussi. La valeur réelle commence lorsque la relation passe des ententes initiales à un modèle d'affaires clair, qui réunit les capacités des parties et les transforme en produits, services ou projets réalisables.
+
+Dans une économie où les activités opérationnelles, d'investissement et commerciales s'entrecroisent, comme c'est le cas dans le secteur du Hajj et de la Omra, la capacité à transformer les relations en valeur économique devient l'un des facteurs essentiels pour bâtir des entreprises plus compétitives et plus durables.
+
+## Premièrement : l'accord marque le début de la relation, il n'en mesure pas le succès
+
+Les accords et les protocoles d'accord suscitent une grande attention lors des conférences et des salons, ce qui est compréhensible : ils reflètent une volonté commune de coopérer et peuvent ouvrir la voie à des opportunités auparavant indisponibles.
+
+Il importe toutefois de distinguer trois niveaux différents : l'entente, la contractualisation et l'exécution.
+
+L'entente traduit un intérêt commun à explorer une opportunité donnée ; le contrat définit les obligations, les droits et les responsabilités des parties ; l'exécution est l'étape où la relation commence à produire une valeur concrète.
+
+Deux entreprises peuvent signer un protocole d'accord avec succès, puis découvrir que l'opportunité envisagée ne dispose pas des conditions de faisabilité économique, ou que les exigences de mise en œuvre diffèrent des attentes initiales.
+
+À l'inverse, une relation commerciale peut débuter par une simple réunion et se transformer en projet réussi lorsque le besoin est clair, les rôles définis et l'intérêt économique réalisé pour les deux parties.
+
+Le nombre d'accords ne devrait donc pas être, à lui seul, un indicateur permettant de juger de la réussite des partenariats.
+
+La signature atteste d'une intention de coopérer, mais elle ne prouve pas la création de valeur économique.
+
+## Deuxièmement : les partenariats réussis reposent sur la complémentarité des capacités
+
+Dans le secteur du Hajj et de la Omra, les besoins du marché sont variés : restauration et hospitalité, produits et cadeaux, commerce et distribution, exploitation et logistique, solutions numériques et marketing, ainsi que d'autres activités liées à l'écosystème d'affaires.
+
+Il n'est ni nécessaire, ni toujours économiquement judicieux, que chaque entreprise possède toutes les capacités requises pour fournir ces services.
+
+Une entreprise peut disposer d'une expertise spécialisée dans le développement de produits, une autre de capacités de production, et une troisième de réseaux de distribution et d'accès aux clients.
+
+Lorsque ces capacités se complètent au sein d'un modèle commercial clair, des opportunités peuvent émerger que chaque partie aurait difficilement réalisées seule avec le même niveau d'efficacité.
+
+Mais la complémentarité ne se réalise pas simplement parce que les partenaires ont des spécialisations différentes ; la contribution de chaque partie doit apporter une valeur identifiable, qu'il s'agisse de réduire les coûts, d'améliorer la qualité, d'accélérer l'accès au marché ou d'accroître la capacité à exécuter des projets.
+
+C'est ici que prend toute son importance la question qui devrait précéder tout partenariat :
+
+Quelle valeur pouvons-nous créer ensemble que nous ne pourrions pas atteindre avec la même efficacité si chaque partie agissait seule ?
+
+Si la réponse n'est pas claire, la relation n'est peut-être qu'une coopération potentielle dont la viabilité commerciale n'est pas encore établie.
+
+## Troisièmement : de l'accord au modèle d'affaires réalisable
+
+L'un des défis auxquels certains partenariats font face est de débuter avec des objectifs larges, tels que développer la coopération, échanger des expertises ou explorer des opportunités, sans passer à la définition d'un projet commercial clair.
+
+Ces objectifs peuvent convenir au stade de la construction de la relation, mais ils ne suffisent pas à transformer le partenariat en activité économique.
+
+Un partenariat visant à fournir un produit ou un service nécessite des réponses précises à une série de questions :
+
+Qui est le client ciblé ? Quel besoin cherchons-nous à satisfaire ? Quelle valeur le client obtiendra-t-il ? Comment les rôles, les coûts et les risques seront-ils répartis entre les parties ? Et par quel mécanisme les revenus et les rendements seront-ils générés ?
+
+Ces questions revêtent une importance accrue dans le secteur du Hajj et de la Omra, où certaines opportunités sont liées à des saisons précises, à des exigences opérationnelles rigoureuses et à des calendriers qui ne tolèrent aucun retard.
+
+Par exemple, une entreprise disposant d'un réseau de distribution peut convenir avec une entreprise spécialisée dans la fabrication de produits de coopérer pour servir le marché du Hajj et de la Omra.
+
+Mais la réussite de la relation ne se décidera pas simplement par la combinaison de la fabrication et de la distribution, mais par la clarté de la demande attendue, des spécifications requises, du prix, de la capacité de production, des responsabilités de stockage et de livraison, et de la répartition des risques commerciaux.
+
+Le modèle approprié peut être un contrat de fourniture, un accord de distribution, une coentreprise ou un partenariat pour développer un produit spécifique.
+
+Le partenariat le plus complexe n'est pas nécessairement le plus précieux ; dans de nombreux cas, le modèle le plus simple et le plus clair est le plus facile à mettre en œuvre.
+
+Le partenariat économique commence réellement lorsque les intentions communes se transforment en engagements clairs et en un modèle d'affaires testable et réalisable.
+
+## Quatrièmement : le véritable test commence après la fin du salon
+
+Les salons spécialisés se caractérisent par une forte densité de rencontres et une rapidité d'échange, ce qui permet aux entreprises de découvrir un grand nombre d'acteurs et d'explorer de multiples opportunités en peu de temps.
+
+Mais cet avantage peut se transformer en défi s'il n'est pas suivi d'un processus structuré d'évaluation et de suivi des opportunités.
+
+Après le salon, les entreprises font face à une tâche plus importante que la collecte de cartes de visite et la signature d'accords : déterminer les opportunités qui méritent d'investir du temps et des ressources.
+
+De mon point de vue, la gestion de la phase post-salon devrait reposer sur trois considérations principales.
+
+Premièrement : la priorité de l'opportunité économique.
+
+Toutes les nouvelles relations ne méritent pas de devenir un projet, et toutes les opportunités ne sont pas égales en termes de taille de marché, de faisabilité ou de compatibilité avec les capacités de l'entreprise.
+
+Deuxièmement : la clarté de la prochaine étape opérationnelle.
+
+Un partenariat qui n'est pas associé à un responsable désigné, à un projet pilote ou à un calendrier de suivi peut rester au stade de la communication sans véritable avancée.
+
+Troisièmement : tester la faisabilité avant l'expansion.
+
+Il peut être plus approprié de commencer par un produit spécifique ou un périmètre de travail limité avant de s'engager dans des obligations d'investissement ou d'exploitation plus importantes.
+
+C'est ici que ressort l'importance de traiter les accords comme un portefeuille d'opportunités potentielles nécessitant évaluation, priorisation et suivi, et non comme des résultats définitifs acquis dès la signature.
+
+Ce qui se passe après le salon détermine la valeur réelle de ce qui a été réalisé pendant celui-ci.
+
+## Cinquièmement : comment mesurer la réussite des partenariats ?
+
+Si le nombre d'accords ne suffit pas à juger de la réussite, quels indicateurs sont davantage liés à la valeur économique ?
+
+Je considère que l'évaluation des partenariats devrait être progressive, selon le stade d'évolution de la relation.
+
+Au premier stade, il est possible de suivre le nombre d'opportunités passées de la prise de contact initiale à une véritable étude commerciale, ainsi que la clarté du périmètre de travail et des rôles entre les parties.
+
+Au stade suivant, des indicateurs tels que les contrats commerciaux conclus, les projets effectivement lancés et les produits ou services arrivés sur le marché deviennent plus révélateurs des résultats du partenariat.
+
+Après le démarrage de l'exploitation, les indicateurs de revenus, de marges, de rendement des ressources investies, de qualité d'exécution et de pérennité de la relation commerciale prennent davantage d'importance.
+
+Cependant, la valeur de tous les partenariats ne doit pas être réduite aux seuls revenus directs.
+
+Certains partenariats peuvent créer de la valeur par l'accès à de nouveaux marchés, le développement de capacités opérationnelles, l'amélioration de l'efficacité de la chaîne d'approvisionnement ou la réduction des risques liés à la dépendance à un fournisseur unique.
+
+Mais même ces avantages doivent être mesurables et liés à des objectifs clairs, et non rester de simples attentes générales.
+
+Le partenariat réussi n'est pas nécessairement le plus visible, mais celui qui est le plus capable d'atteindre les objectifs économiques pour lesquels il a été créé.
+
+## Sixièmement : les partenariats comme outil de construction d'un écosystème d'affaires plus intégré
+
+Lorsque nous considérons l'économie du Hajj et de la Omra comme un écosystème interconnecté d'activités commerciales, opérationnelles et d'investissement, nous comprenons que les opportunités de croissance ne se limitent pas à ce qu'une entreprise peut réaliser avec ses propres ressources.
+
+Des opportunités importantes peuvent naître de la capacité à relier des acteurs disposant d'expertises, d'actifs ou de canaux d'accès complémentaires.
+
+Cela ne signifie pas que l'expansion des partenariats soit une fin en soi, mais que le partenariat peut être l'un des outils aidant l'entreprise à offrir une valeur supérieure sans devoir posséder tous les éléments de la chaîne de valeur.
+
+Dans certains cas, investir dans le développement de la relation commerciale et la gestion d'opérations conjointes est plus efficace qu'un investissement direct dans de nouveaux actifs.
+
+Mais ce modèle exige des capacités institutionnelles claires, notamment la sélection des partenaires, l'évaluation des risques, la gestion des contrats, la mesure de la performance et la gouvernance des relations commerciales.
+
+Il exige aussi de reconnaître que le partenariat ne supprime pas la responsabilité opérationnelle ou commerciale, mais la redistribue entre les parties selon des engagements précis.
+
+C'est pourquoi la construction de partenariats devrait faire partie intégrante de la stratégie de développement commercial, et non constituer une activité isolée limitée aux événements et aux salons.
+
+## Conclusion : la valeur ne se signe pas sur le papier, elle se construit par l'exécution
+
+Les conférences et les salons jouent un rôle important dans la dynamisation des relations commerciales et l'ouverture de nouvelles perspectives de coopération et d'investissement dans le secteur du Hajj et de la Omra.
+
+Toutefois, la valeur économique de ces participations ne découle pas automatiquement du nombre de réunions ou d'accords, mais de la capacité des entreprises à choisir les bonnes opportunités, à développer des modèles d'affaires clairs et à transformer les ententes en projets réalisables.
+
+Fort de mon expérience dans le développement commercial et les partenariats, je considère que la réussite d'une relation commerciale ne dépend pas seulement des capacités apportées par chaque partie, mais aussi de leur capacité collective à mobiliser ces capacités pour créer une valeur partagée, avec des responsabilités, des rendements et des risques clairement définis.
+
+Un accord peut devenir le point de départ d'un projet d'investissement important, ou rester un simple cadre de coopération si les conditions de faisabilité et d'exécution ne sont pas réunies.
+
+C'est pourquoi la question que les entreprises devraient se poser après chaque salon ou conférence n'est pas seulement : combien d'accords avons-nous signés ?
+
+Mais : combien d'opportunités réelles avons-nous pu transformer en activités ? Et quelle valeur économique pourrons-nous en tirer ?
+
+Selon moi, le passage d'une culture de signature d'accords à une culture de gestion des partenariats et de mesure de leurs résultats constitue une étape importante vers la construction d'un écosystème d'affaires plus efficace et plus durable dans l'économie du Hajj et de la Omra.
+
+La véritable valeur des partenariats ne se détermine pas au moment de la signature des accords, mais lorsque les capacités communes se transforment en activités réalisables, en rendements économiques et en un impact durable.
+
+Hadiyah Alkhair | Un investissement qui crée un impact
+
+Regards sur l'économie du Hajj et de la Omra — Article quatre`
         }
     ];
 

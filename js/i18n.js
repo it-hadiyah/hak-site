@@ -193,16 +193,9 @@ document.addEventListener('DOMContentLoaded', () => {
         const title = dict[`news${newsId}.title`] || fallbackDict[`news${newsId}.title`];
         if (title) titleEl.textContent = title;
 
-        // --- Description / Content ---
-        const descEl = document.getElementById('news-text');
+        // --- Description (used for meta/SEO only; the full article body is
+        // rendered by script.js, so it must not be overwritten here) ---
         const rawDesc = dict[`news${newsId}.desc`] || fallbackDict[`news${newsId}.desc`] || '';
-        if (descEl && rawDesc) {
-            // Support multi-paragraph text separated by newlines
-            descEl.innerHTML = rawDesc
-                .split(/\n+/)
-                .map(p => `<p>${p}</p>`)
-                .join('');
-        }
 
         // --- Category ---
         const categoryEl = document.getElementById('news-category');
@@ -249,8 +242,6 @@ document.addEventListener('DOMContentLoaded', () => {
             if (subtitle) {
                 subtitleEl.textContent = subtitle;
                 subtitleEl.classList.remove('hidden');
-            } else {
-                subtitleEl.classList.add('hidden');
             }
         }
 
