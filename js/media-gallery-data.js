@@ -106,6 +106,176 @@ window.mediaGalleryItems = [
         }
     },
     {
+        id: "hajj-expo-2026-new-01",
+        type: "image",
+        src: "images/gallery/hajj-expo-2026-new-01.webp",
+        title: {
+            ar: "صورة من معرض الحج 2026 (1)",
+            en: "Hajj Exhibition 2026 photo (1)",
+            id: "Foto Pameran Haji 2026 (1)",
+            fr: "Photo de l’exposition du Hajj 2026 (1)"
+        },
+        alt: {
+            ar: "صورة من فعاليات مؤتمر ومعرض الحج 2026 لفريق هدية الخير",
+            en: "Photo from the Hajj Conference & Exhibition 2026 with the Hadiyah Alkhair team",
+            id: "Foto dari Konferensi & Pameran Haji 2026 bersama tim Hadiyah Alkhair",
+            fr: "Photo des activités de la conférence et exposition du Hajj 2026 avec l’équipe Hadiyah Alkhair"
+        }
+    },
+    {
+        id: "hajj-expo-2026-new-02",
+        type: "image",
+        src: "images/gallery/hajj-expo-2026-new-02.webp",
+        title: {
+            ar: "صورة من معرض الحج 2026 (2)",
+            en: "Hajj Exhibition 2026 photo (2)",
+            id: "Foto Pameran Haji 2026 (2)",
+            fr: "Photo de l’exposition du Hajj 2026 (2)"
+        },
+        alt: {
+            ar: "صورة من فعاليات مؤتمر ومعرض الحج 2026 لفريق هدية الخير",
+            en: "Photo from the Hajj Conference & Exhibition 2026 with the Hadiyah Alkhair team",
+            id: "Foto dari Konferensi & Pameran Haji 2026 bersama tim Hadiyah Alkhair",
+            fr: "Photo des activités de la conférence et exposition du Hajj 2026 avec l’équipe Hadiyah Alkhair"
+        }
+    },
+    {
+        id: "hajj-expo-2026-new-03",
+        type: "image",
+        src: "images/gallery/hajj-expo-2026-new-03.webp",
+        title: {
+            ar: "صورة من معرض الحج 2026 (3)",
+            en: "Hajj Exhibition 2026 photo (3)",
+            id: "Foto Pameran Haji 2026 (3)",
+            fr: "Photo de l’exposition du Hajj 2026 (3)"
+        },
+        alt: {
+            ar: "صورة من فعاليات مؤتمر ومعرض الحج 2026 لفريق هدية الخير",
+            en: "Photo from the Hajj Conference & Exhibition 2026 with the Hadiyah Alkhair team",
+            id: "Foto dari Konferensi & Pameran Haji 2026 bersama tim Hadiyah Alkhair",
+            fr: "Photo des activités de la conférence et exposition du Hajj 2026 avec l’équipe Hadiyah Alkhair"
+        }
+    },
+    {
+        id: "hajj-expo-2026-new-04",
+        type: "image",
+        src: "images/gallery/hajj-expo-2026-new-04.webp",
+        title: {
+            ar: "صورة من معرض الحج 2026 (4)",
+            en: "Hajj Exhibition 2026 photo (4)",
+            id: "Foto Pameran Haji 2026 (4)",
+            fr: "Photo de l’exposition du Hajj 2026 (4)"
+        },
+        alt: {
+            ar: "صورة من فعاليات مؤتمر ومعرض الحج 2026 لفريق هدية الخير",
+            en: "Photo from the Hajj Conference & Exhibition 2026 with the Hadiyah Alkhair team",
+            id: "Foto dari Konferensi & Pameran Haji 2026 bersama tim Hadiyah Alkhair",
+            fr: "Photo des activités de la conférence et exposition du Hajj 2026 avec l’équipe Hadiyah Alkhair"
+        }
+    },
+    {
+        id: "hajj-expo-2026-new-05",
+        type: "image",
+        src: "images/gallery/hajj-expo-2026-new-05.webp",
+        title: {
+            ar: "صورة من معرض الحج 2026 (5)",
+            en: "Hajj Exhibition 2026 photo (5)",
+            id: "Foto Pameran Haji 2026 (5)",
+            fr: "Photo de l’exposition du Hajj 2026 (5)"
+        },
+        alt: {
+            ar: "صورة من فعاليات مؤتمر ومعرض الحج 2026 لفريق هدية الخير",
+            en: "Photo from the Hajj Conference & Exhibition 2026 with the Hadiyah Alkhair team",
+            id: "Foto dari Konferensi & Pameran Haji 2026 bersama tim Hadiyah Alkhair",
+            fr: "Photo des activités de la conférence et exposition du Hajj 2026 avec l’équipe Hadiyah Alkhair"
+        }
+    },
+    {
+        id: "hajj-expo-2026-new-06",
+        type: "image",
+        src: "images/gallery/hajj-expo-2026-new-06.webp",
+        title: {
+            ar: "صورة من معرض الحج 2026 (6)",
+            en: "Hajj Exhibition 2026 photo (6)",
+            id: "Foto Pameran Haji 2026 (6)",
+            fr: "Photo de l’exposition du Hajj 2026 (6)"
+        },
+        alt: {
+            ar: "صورة من فعاليات مؤتمر ومعرض الحج 2026 لفريق هدية الخير",
+            en: "Photo from the Hajj Conference & Exhibition 2026 with the Hadiyah Alkhair team",
+            id: "Foto dari Konferensi & Pameran Haji 2026 bersama tim Hadiyah Alkhair",
+            fr: "Photo des activités de la conférence et exposition du Hajj 2026 avec l’équipe Hadiyah Alkhair"
+        }
+    },
+    {
+        id: "hajj-expo-2026-new-07",
+        type: "image",
+        src: "images/gallery/hajj-expo-2026-new-07.webp",
+        title: {
+            ar: "صورة من معرض الحج 2026 (7)",
+            en: "Hajj Exhibition 2026 photo (7)",
+            id: "Foto Pameran Haji 2026 (7)",
+            fr: "Photo de l’exposition du Hajj 2026 (7)"
+        },
+        alt: {
+            ar: "صورة من فعاليات مؤتمر ومعرض الحج 2026 لفريق هدية الخير",
+            en: "Photo from the Hajj Conference & Exhibition 2026 with the Hadiyah Alkhair team",
+            id: "Foto dari Konferensi & Pameran Haji 2026 bersama tim Hadiyah Alkhair",
+            fr: "Photo des activités de la conférence et exposition du Hajj 2026 avec l’équipe Hadiyah Alkhair"
+        }
+    },
+    {
+        id: "hajj-expo-2026-new-08",
+        type: "image",
+        src: "images/gallery/hajj-expo-2026-new-08.webp",
+        title: {
+            ar: "صورة من معرض الحج 2026 (8)",
+            en: "Hajj Exhibition 2026 photo (8)",
+            id: "Foto Pameran Haji 2026 (8)",
+            fr: "Photo de l’exposition du Hajj 2026 (8)"
+        },
+        alt: {
+            ar: "صورة من فعاليات مؤتمر ومعرض الحج 2026 لفريق هدية الخير",
+            en: "Photo from the Hajj Conference & Exhibition 2026 with the Hadiyah Alkhair team",
+            id: "Foto dari Konferensi & Pameran Haji 2026 bersama tim Hadiyah Alkhair",
+            fr: "Photo des activités de la conférence et exposition du Hajj 2026 avec l’équipe Hadiyah Alkhair"
+        }
+    },
+    {
+        id: "hajj-expo-2026-new-09",
+        type: "image",
+        src: "images/gallery/hajj-expo-2026-new-09.webp",
+        title: {
+            ar: "صورة من معرض الحج 2026 (9)",
+            en: "Hajj Exhibition 2026 photo (9)",
+            id: "Foto Pameran Haji 2026 (9)",
+            fr: "Photo de l’exposition du Hajj 2026 (9)"
+        },
+        alt: {
+            ar: "صورة من فعاليات مؤتمر ومعرض الحج 2026 لفريق هدية الخير",
+            en: "Photo from the Hajj Conference & Exhibition 2026 with the Hadiyah Alkhair team",
+            id: "Foto dari Konferensi & Pameran Haji 2026 bersama tim Hadiyah Alkhair",
+            fr: "Photo des activités de la conférence et exposition du Hajj 2026 avec l’équipe Hadiyah Alkhair"
+        }
+    },
+    {
+        id: "hajj-expo-2026-new-10",
+        type: "image",
+        src: "images/gallery/hajj-expo-2026-new-10.webp",
+        title: {
+            ar: "صورة من معرض الحج 2026 (10)",
+            en: "Hajj Exhibition 2026 photo (10)",
+            id: "Foto Pameran Haji 2026 (10)",
+            fr: "Photo de l’exposition du Hajj 2026 (10)"
+        },
+        alt: {
+            ar: "صورة من فعاليات مؤتمر ومعرض الحج 2026 لفريق هدية الخير",
+            en: "Photo from the Hajj Conference & Exhibition 2026 with the Hadiyah Alkhair team",
+            id: "Foto dari Konferensi & Pameran Haji 2026 bersama tim Hadiyah Alkhair",
+            fr: "Photo des activités de la conférence et exposition du Hajj 2026 avec l’équipe Hadiyah Alkhair"
+        }
+    },
+    {
         id: "manafea-visit",
         type: "image",
         src: "images/news4.jpeg",
