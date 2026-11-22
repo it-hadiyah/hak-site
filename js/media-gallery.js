@@ -66,6 +66,8 @@ document.addEventListener('DOMContentLoaded', () => {
         return icon;
     };
 
+    const isYouTubeUrl = (value) => /^https?:\/\/(?:www\.)?(?:youtube\.com|youtube-nocookie\.com|youtu\.be)\//i.test(value || '');
+
     const createCard = (item) => {
         const card = document.createElement('article');
         card.className = 'gallery-card';
@@ -125,7 +127,14 @@ document.addEventListener('DOMContentLoaded', () => {
             if (caption.childElementCount) button.append(caption);
         }
 
-        button.addEventListener('click', () => openItem(item));
+        button.addEventListener('click', () => {
+            const videoUrl = item.youtube || item.src;
+            if (item.type === 'video' && isYouTubeUrl(videoUrl)) {
+                window.open(videoUrl, '_blank', 'noopener,noreferrer');
+                return;
+            }
+            openItem(item);
+        });
         card.append(button);
         return card;
     };
