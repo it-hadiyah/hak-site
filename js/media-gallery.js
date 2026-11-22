@@ -94,6 +94,37 @@ document.addEventListener('DOMContentLoaded', () => {
         if (item.type === 'video') media.append(createPlayIcon());
 
         button.append(media);
+
+        if (item.type === 'video' && item.description) {
+            const caption = document.createElement('span');
+            caption.className = 'gallery-card-caption';
+
+            let hostname = '';
+            try {
+                hostname = new URL(item.youtube || item.src).hostname.replace(/^www\./, '');
+            } catch (error) {
+                hostname = '';
+            }
+            if (hostname) {
+                const source = document.createElement('span');
+                source.className = 'gallery-card-source';
+                source.textContent = hostname;
+                caption.append(source);
+            }
+
+            const cardTitle = document.createElement('span');
+            cardTitle.className = 'gallery-card-title';
+            cardTitle.textContent = getLocalizedValue(item.title);
+            if (cardTitle.textContent) caption.append(cardTitle);
+
+            const description = document.createElement('span');
+            description.className = 'gallery-card-description';
+            description.textContent = getLocalizedValue(item.description);
+            if (description.textContent) caption.append(description);
+
+            if (caption.childElementCount) button.append(caption);
+        }
+
         button.addEventListener('click', () => openItem(item));
         card.append(button);
         return card;

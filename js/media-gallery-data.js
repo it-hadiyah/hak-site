@@ -2,6 +2,110 @@
 // src can be a local MP4 path or a YouTube URL. Optional titles and thumbnails are localized/optimized.
 window.mediaGalleryItems = [
     {
+        id: "hajj-expo-2026-day-1",
+        type: "video",
+        src: "https://www.youtube.com/watch?v=bBVTIcto0HA",
+        poster: "images/gallery/hajj-expo-2026-day-1.jpg",
+        width: 480,
+        height: 360,
+        title: {
+            ar: "هدية الخير اليوم الأول - مؤتمر ومعرض الحج 2026",
+            en: "Hadiyah Alkhair Day 1 - Hajj Conference & Exhibition 2026",
+            id: "Hadiyah Alkhair Hari Pertama - Konferensi & Pameran Haji 2026",
+            fr: "Hadiyah Alkhair - Jour 1 - Conférence et exposition du Hajj 2026"
+        },
+        description: {
+            ar: "جولة في اليوم الأول من مؤتمر ومعرض الحج 2026: أبرز اللقاءات والفعاليات مع فريق هدية الخير.",
+            en: "Highlights from day one of the Hajj Conference & Exhibition 2026 with the Hadiyah Alkhair team.",
+            id: "Sorotan hari pertama Konferensi & Pameran Haji 2026 bersama tim Hadiyah Alkhair.",
+            fr: "Les temps forts du premier jour de la conférence et exposition du Hajj 2026 avec l’équipe Hadiyah Alkhair."
+        },
+        alt: {
+            ar: "صورة مصغّرة لفيديو اليوم الأول من مؤتمر ومعرض الحج 2026",
+            en: "Thumbnail of the day one video from the Hajj Conference & Exhibition 2026",
+            id: "Thumbnail video hari pertama Konferensi & Pameran Haji 2026",
+            fr: "Miniature de la vidéo du premier jour de la conférence et exposition du Hajj 2026"
+        }
+    },
+    {
+        id: "hajj-expo-2026-day-2",
+        type: "video",
+        src: "https://www.youtube.com/watch?v=3yrbH4m1fCU",
+        poster: "images/gallery/hajj-expo-2026-day-2.jpg",
+        width: 480,
+        height: 360,
+        title: {
+            ar: "هدية الخير اليوم الثاني - مؤتمر ومعرض الحج 2026",
+            en: "Hadiyah Alkhair Day 2 - Hajj Conference & Exhibition 2026",
+            id: "Hadiyah Alkhair Hari Kedua - Konferensi & Pameran Haji 2026",
+            fr: "Hadiyah Alkhair - Jour 2 - Conférence et exposition du Hajj 2026"
+        },
+        description: {
+            ar: "اليوم الثاني في مؤتمر ومعرض الحج 2026: لقاءات جديدة، وعروض منتجات حجي، وزوار الجناح.",
+            en: "Day two at the Hajj Conference & Exhibition 2026: new meetings, HAJJi product demos and booth visitors.",
+            id: "Hari kedua di Konferensi & Pameran Haji 2026: pertemuan baru, demo produk HAJJi, dan pengunjung stan.",
+            fr: "Le deuxième jour de la conférence et exposition du Hajj 2026 : nouvelles rencontres, démos des produits HAJJi et visiteurs du stand."
+        },
+        alt: {
+            ar: "صورة مصغّرة لفيديو اليوم الثاني من مؤتمر ومعرض الحج 2026",
+            en: "Thumbnail of the day two video from the Hajj Conference & Exhibition 2026",
+            id: "Thumbnail video hari kedua Konferensi & Pameran Haji 2026",
+            fr: "Miniature de la vidéo du deuxième jour de la conférence et exposition du Hajj 2026"
+        }
+    },
+    {
+        id: "hajj-expo-2026-day-3",
+        type: "video",
+        src: "https://www.youtube.com/watch?v=-tzsguz4cF8",
+        poster: "images/gallery/hajj-expo-2026-day-3.jpg",
+        width: 480,
+        height: 360,
+        title: {
+            ar: "هدية الخير اليوم الثالث - مؤتمر ومعرض الحج 2026",
+            en: "Hadiyah Alkhair Day 3 - Hajj Conference & Exhibition 2026",
+            id: "Hadiyah Alkhair Hari Ketiga - Konferensi & Pameran Haji 2026",
+            fr: "Hadiyah Alkhair - Jour 3 - Conférence et exposition du Hajj 2026"
+        },
+        description: {
+            ar: "اليوم الثالث: استمرار اللقاءات والتعريف بخدمات حجي في مؤتمر ومعرض الحج 2026.",
+            en: "Day three: more conversations and introducing HAJJi services at the Hajj Conference & Exhibition 2026.",
+            id: "Hari ketiga: lebih banyak diskusi dan pengenalan layanan HAJJi di Konferensi & Pameran Haji 2026.",
+            fr: "Le troisième jour : nouveaux échanges et présentation des services HAJJi lors de la conférence et exposition du Hajj 2026."
+        },
+        alt: {
+            ar: "صورة مصغّرة لفيديو اليوم الثالث من مؤتمر ومعرض الحج 2026",
+            en: "Thumbnail of the day three video from the Hajj Conference & Exhibition 2026",
+            id: "Thumbnail video hari ketiga Konferensi & Pameran Haji 2026",
+            fr: "Miniature de la vidéo du troisième jour de la conférence et exposition du Hajj 2026"
+        }
+    },
+    {
+        id: "hajj-expo-2026-closing",
+        type: "video",
+        src: "https://www.youtube.com/watch?v=FTYtyBgrDag",
+        poster: "images/gallery/hajj-expo-2026-closing.jpg",
+        width: 480,
+        height: 360,
+        title: {
+            ar: "هدية الخير - الفيديو الختامي - مؤتمر ومعرض الحج 2026",
+            en: "Hadiyah Alkhair - Closing Video - Hajj Conference & Exhibition 2026",
+            id: "Hadiyah Alkhair - Video Penutup - Konferensi & Pameran Haji 2026",
+            fr: "Hadiyah Alkhair - Vidéo de clôture - Conférence et exposition du Hajj 2026"
+        },
+        description: {
+            ar: "الفيديو الختامي الذي يوثّق مشاركة هدية الخير في مؤتمر ومعرض الحج 2026.",
+            en: "The closing video documenting Hadiyah Alkhair’s participation in the Hajj Conference & Exhibition 2026.",
+            id: "Video penutup yang mendokumentasikan partisipasi Hadiyah Alkhair dalam Konferensi & Pameran Haji 2026.",
+            fr: "La vidéo de clôture retraçant la participation de Hadiyah Alkhair à la conférence et exposition du Hajj 2026."
+        },
+        alt: {
+            ar: "صورة مصغّرة للفيديو الختامي لمؤتمر ومعرض الحج 2026",
+            en: "Thumbnail of the closing video from the Hajj Conference & Exhibition 2026",
+            id: "Thumbnail video penutup Konferensi & Pameran Haji 2026",
+            fr: "Miniature de la vidéo de clôture de la conférence et exposition du Hajj 2026"
+        }
+    },
+    {
         id: "manafea-visit",
         type: "image",
         src: "images/news4.jpeg",
