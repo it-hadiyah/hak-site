@@ -86,6 +86,7 @@ const translations = {
         "gallery.next": "الصورة التالية",
         "gallery.play": "تشغيل الفيديو",
         "gallery.loadMore": "عرض المزيد",
+        "gallery.watchOnYouTube": "شاهد على يوتيوب",
 
         // PARTNERS Section
         "partner.badge": "شركاؤنا",
@@ -151,7 +152,7 @@ const translations = {
         "product1.benefit": "ورق لعب بتصاميم مستوحاة من معالم المملكة العربية السعودية، يجمع بين متعة اللعب والهوية الثقافية، ومناسب للاستخدام الشخصي والإهداء.",
         "product2.title": "حقيبة خفيفة برباط - ٣٤ × ٤٣ سم",
         "product2.benefit": "حقيبة عملية وخفيفة الوزن، مثالية لحمل الأغراض الشخصية في الرياضة، النزهات، أو كحقيبة تسوق صديقة للبيئة.",
-        "product3.title": "زمزمية مياه مزودة برشاش - ٦٥٠ مل",
+        "product3.title": "زمزمية مياه مزودة برذاذ - ٦٥٠ مل",
         "product3.benefit": "تجمع بين ترطيب الجسم وشرب الماء، ومثالية جداً لتبريد الوجه والجسم في الأجواء الحارة أو أثناء الأنشطة الخارجية.",
         "product4.title": "زمزمية ستانلس ستيل معزولة حرارياً",
         "product4.benefit": "تحافظ على برودة أو سخونة المشروبات لفترات طويلة، مثالية للاستخدام اليومي في العمل، المدرسة، أو السفر.",
@@ -270,6 +271,7 @@ const translations = {
         "gallery.next": "Next image",
         "gallery.play": "Play video",
         "gallery.loadMore": "Load more",
+        "gallery.watchOnYouTube": "Watch on YouTube",
 
         // PARTNERS Section
         "partner.badge": "Our Partners",
@@ -460,6 +462,7 @@ const translations = {
         "gallery.next": "Gambar berikutnya",
         "gallery.play": "Putar video",
         "gallery.loadMore": "Muat lebih banyak",
+        "gallery.watchOnYouTube": "Tonton di YouTube",
 
         // News Items (Preview)
         "news1.title": "Hadiah Al-Khair berpartisipasi dalam Konferensi dan Pameran Haji untuk memperkenalkan inisiatif dan layanannya",
@@ -642,6 +645,7 @@ const translations = {
     "gallery.next": "Image suivante",
     "gallery.play": "Lire la vidéo",
     "gallery.loadMore": "Afficher plus",
+    "gallery.watchOnYouTube": "Voir sur YouTube",
 
     // News Items
     "news1.title": "Lancement des plateformes de médias sociaux",
